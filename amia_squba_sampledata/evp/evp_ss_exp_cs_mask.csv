@@ -1,0 +1,6 @@
+site,total_row_ct,total_pt_ct,variable_pt_ct,variable_row_ct,prop_pt_variable,prop_row_variable,variable,output_function
+combined,13791882,20455,4757,88123,0.233,0.006,Hydroxyurea Prescription,evp_ss_exp_cs
+combined,13791882,20455,2859,68679,0.14,0.005,Hydroxyurea Administration,evp_ss_exp_cs
+combined,47102878,20455,17421,830230,0.852,0.018,Hemoglobin Lab,evp_ss_exp_cs
+combined,47102878,20455,15552,753189,0.76,0.016,ANC Lab,evp_ss_exp_cs
+combined,8619460,20455,16109,951449,0.788,0.11,SS/SB0 Diagnosis,evp_ss_exp_cs

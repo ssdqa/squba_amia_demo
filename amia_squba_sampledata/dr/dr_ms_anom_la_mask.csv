@@ -1,0 +1,361 @@
+site,time_start,duplicate_definition,duplicate_pt_prop,mean_allsiteprop,median,date_numeric,site_loess,dist_eucl_mean,output_function
+hospital_a,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_a,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_a,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_a,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_a,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_a,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_a,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_a,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_a,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_a,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_a,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_a,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_a,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_a,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_a,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_a,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_a,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_a,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_a,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_a,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_a,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_a,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_a,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_a,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_a,1/1/15,duplicate procedures per visit & date,0.38,0.478,0.5,16436,0.37,0.17,dr_ms_anom_la
+hospital_a,1/1/16,duplicate procedures per visit & date,0.36,0.45599999999999996,0.535,16801,0.37,0.17,dr_ms_anom_la
+hospital_a,1/1/17,duplicate procedures per visit & date,0.35,0.443,0.515,17167,0.37,0.17,dr_ms_anom_la
+hospital_a,1/1/18,duplicate procedures per visit & date,0.39,0.42,0.495,17532,0.38,0.17,dr_ms_anom_la
+hospital_a,1/1/19,duplicate procedures per visit & date,0.4,0.417,0.485,17897,0.39,0.17,dr_ms_anom_la
+hospital_a,1/1/20,duplicate procedures per visit & date,0.37,0.38,0.45,18262,0.38,0.17,dr_ms_anom_la
+hospital_a,1/1/21,duplicate procedures per visit & date,0.39,0.402,0.46,18628,0.39,0.17,dr_ms_anom_la
+hospital_a,1/1/22,duplicate procedures per visit & date,0.42,0.415,0.48,18993,0.42,0.17,dr_ms_anom_la
+hospital_a,1/1/23,duplicate procedures per visit & date,0.47,0.44,0.51,19358,0.46,0.17,dr_ms_anom_la
+hospital_a,1/1/24,duplicate procedures per visit & date,0.48,0.439,0.51,19723,0.48,0.17,dr_ms_anom_la
+hospital_a,1/1/25,duplicate procedures per visit & date,0.52,0.486,0.5449999999999999,20089,0.48,0.17,dr_ms_anom_la
+hospital_a,1/1/26,duplicate procedures per visit & date,0.45,0.451,0.48,20454,0.47,0.17,dr_ms_anom_la
+hospital_b,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_b,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_b,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_b,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_b,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_b,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_b,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_b,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_b,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_b,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_b,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_b,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_b,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_b,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_b,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_b,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_b,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_b,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_b,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_b,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_b,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_b,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_b,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_b,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_b,1/1/15,duplicate procedures per visit & date,0.62,0.478,0.5,16436,0.61,0.71,dr_ms_anom_la
+hospital_b,1/1/16,duplicate procedures per visit & date,0.62,0.45599999999999996,0.535,16801,0.63,0.71,dr_ms_anom_la
+hospital_b,1/1/17,duplicate procedures per visit & date,0.65,0.443,0.515,17167,0.64,0.71,dr_ms_anom_la
+hospital_b,1/1/18,duplicate procedures per visit & date,0.65,0.42,0.495,17532,0.64,0.71,dr_ms_anom_la
+hospital_b,1/1/19,duplicate procedures per visit & date,0.67,0.417,0.485,17897,0.63,0.71,dr_ms_anom_la
+hospital_b,1/1/20,duplicate procedures per visit & date,0.56,0.38,0.45,18262,0.61,0.71,dr_ms_anom_la
+hospital_b,1/1/21,duplicate procedures per visit & date,0.61,0.402,0.46,18628,0.61,0.71,dr_ms_anom_la
+hospital_b,1/1/22,duplicate procedures per visit & date,0.65,0.415,0.48,18993,0.63,0.71,dr_ms_anom_la
+hospital_b,1/1/23,duplicate procedures per visit & date,0.65,0.44,0.51,19358,0.65,0.71,dr_ms_anom_la
+hospital_b,1/1/24,duplicate procedures per visit & date,0.64,0.439,0.51,19723,0.67,0.71,dr_ms_anom_la
+hospital_b,1/1/25,duplicate procedures per visit & date,0.73,0.486,0.5449999999999999,20089,0.67,0.71,dr_ms_anom_la
+hospital_b,1/1/26,duplicate procedures per visit & date,0.63,0.451,0.48,20454,0.66,0.71,dr_ms_anom_la
+hospital_c,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_c,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_c,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_c,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_c,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_c,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_c,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_c,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_c,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_c,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_c,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_c,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_c,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_c,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_c,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_c,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_c,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_c,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_c,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_c,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_c,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_c,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_c,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_c,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_c,1/1/15,duplicate procedures per visit & date,0.7,0.478,0.5,16436,0.7,0.58,dr_ms_anom_la
+hospital_c,1/1/16,duplicate procedures per visit & date,0.66,0.45599999999999996,0.535,16801,0.67,0.58,dr_ms_anom_la
+hospital_c,1/1/17,duplicate procedures per visit & date,0.65,0.443,0.515,17167,0.64,0.58,dr_ms_anom_la
+hospital_c,1/1/18,duplicate procedures per visit & date,0.61,0.42,0.495,17532,0.6,0.58,dr_ms_anom_la
+hospital_c,1/1/19,duplicate procedures per visit & date,0.57,0.417,0.485,17897,0.57,0.58,dr_ms_anom_la
+hospital_c,1/1/20,duplicate procedures per visit & date,0.53,0.38,0.45,18262,0.54,0.58,dr_ms_anom_la
+hospital_c,1/1/21,duplicate procedures per visit & date,0.53,0.402,0.46,18628,0.53,0.58,dr_ms_anom_la
+hospital_c,1/1/22,duplicate procedures per visit & date,0.54,0.415,0.48,18993,0.53,0.58,dr_ms_anom_la
+hospital_c,1/1/23,duplicate procedures per visit & date,0.55,0.44,0.51,19358,0.55,0.58,dr_ms_anom_la
+hospital_c,1/1/24,duplicate procedures per visit & date,0.55,0.439,0.51,19723,0.57,0.58,dr_ms_anom_la
+hospital_c,1/1/25,duplicate procedures per visit & date,0.64,0.486,0.5449999999999999,20089,0.61,0.58,dr_ms_anom_la
+hospital_c,1/1/26,duplicate procedures per visit & date,0.65,0.451,0.48,20454,0.66,0.58,dr_ms_anom_la
+hospital_d,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_d,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_d,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_d,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_d,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_d,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_d,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_d,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_d,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_d,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_d,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_d,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_d,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_d,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_d,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_d,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_d,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_d,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_d,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_d,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_d,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_d,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_d,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_d,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_d,1/1/15,duplicate procedures per visit & date,0.75,0.478,0.5,16436,0.74,0.96,dr_ms_anom_la
+hospital_d,1/1/16,duplicate procedures per visit & date,0.72,0.45599999999999996,0.535,16801,0.72,0.96,dr_ms_anom_la
+hospital_d,1/1/17,duplicate procedures per visit & date,0.69,0.443,0.515,17167,0.71,0.96,dr_ms_anom_la
+hospital_d,1/1/18,duplicate procedures per visit & date,0.7,0.42,0.495,17532,0.69,0.96,dr_ms_anom_la
+hospital_d,1/1/19,duplicate procedures per visit & date,0.7,0.417,0.485,17897,0.68,0.96,dr_ms_anom_la
+hospital_d,1/1/20,duplicate procedures per visit & date,0.65,0.38,0.45,18262,0.67,0.96,dr_ms_anom_la
+hospital_d,1/1/21,duplicate procedures per visit & date,0.67,0.402,0.46,18628,0.66,0.96,dr_ms_anom_la
+hospital_d,1/1/22,duplicate procedures per visit & date,0.66,0.415,0.48,18993,0.66,0.96,dr_ms_anom_la
+hospital_d,1/1/23,duplicate procedures per visit & date,0.68,0.44,0.51,19358,0.69,0.96,dr_ms_anom_la
+hospital_d,1/1/24,duplicate procedures per visit & date,0.73,0.439,0.51,19723,0.72,0.96,dr_ms_anom_la
+hospital_d,1/1/25,duplicate procedures per visit & date,0.79,0.486,0.5449999999999999,20089,0.77,0.96,dr_ms_anom_la
+hospital_d,1/1/26,duplicate procedures per visit & date,0.81,0.451,0.48,20454,0.82,0.96,dr_ms_anom_la
+hospital_e,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_e,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_e,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_e,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_e,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_e,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_e,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_e,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_e,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_e,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_e,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_e,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_e,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_e,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_e,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_e,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_e,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_e,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_e,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_e,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_e,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_e,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_e,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_e,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_e,1/1/15,duplicate procedures per visit & date,0,0.478,0.5,16436,0,1.49,dr_ms_anom_la
+hospital_e,1/1/16,duplicate procedures per visit & date,0,0.45599999999999996,0.535,16801,0,1.49,dr_ms_anom_la
+hospital_e,1/1/17,duplicate procedures per visit & date,0,0.443,0.515,17167,0,1.49,dr_ms_anom_la
+hospital_e,1/1/18,duplicate procedures per visit & date,0,0.42,0.495,17532,0,1.49,dr_ms_anom_la
+hospital_e,1/1/19,duplicate procedures per visit & date,0,0.417,0.485,17897,0,1.49,dr_ms_anom_la
+hospital_e,1/1/20,duplicate procedures per visit & date,0.01,0.38,0.45,18262,0.01,1.49,dr_ms_anom_la
+hospital_e,1/1/21,duplicate procedures per visit & date,0.02,0.402,0.46,18628,0.01,1.49,dr_ms_anom_la
+hospital_e,1/1/22,duplicate procedures per visit & date,0.01,0.415,0.48,18993,0.02,1.49,dr_ms_anom_la
+hospital_e,1/1/23,duplicate procedures per visit & date,0.02,0.44,0.51,19358,0.02,1.49,dr_ms_anom_la
+hospital_e,1/1/24,duplicate procedures per visit & date,0.01,0.439,0.51,19723,0.02,1.49,dr_ms_anom_la
+hospital_e,1/1/25,duplicate procedures per visit & date,0.02,0.486,0.5449999999999999,20089,0.01,1.49,dr_ms_anom_la
+hospital_e,1/1/26,duplicate procedures per visit & date,0.01,0.451,0.48,20454,0.01,1.49,dr_ms_anom_la
+hospital_f,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_f,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_f,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_f,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_f,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_f,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_f,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_f,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_f,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_f,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_f,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_f,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_f,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_f,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_f,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_f,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_f,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_f,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_f,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_f,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_f,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_f,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_f,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_f,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_f,1/1/15,duplicate procedures per visit & date,0.22,0.478,0.5,16436,0.22,0.99,dr_ms_anom_la
+hospital_f,1/1/16,duplicate procedures per visit & date,0.21,0.45599999999999996,0.535,16801,0.2,0.99,dr_ms_anom_la
+hospital_f,1/1/17,duplicate procedures per visit & date,0.17,0.443,0.515,17167,0.18,0.99,dr_ms_anom_la
+hospital_f,1/1/18,duplicate procedures per visit & date,0.15,0.42,0.495,17532,0.15,0.99,dr_ms_anom_la
+hospital_f,1/1/19,duplicate procedures per visit & date,0.15,0.417,0.485,17897,0.13,0.99,dr_ms_anom_la
+hospital_f,1/1/20,duplicate procedures per visit & date,0.11,0.38,0.45,18262,0.12,0.99,dr_ms_anom_la
+hospital_f,1/1/21,duplicate procedures per visit & date,0.11,0.402,0.46,18628,0.11,0.99,dr_ms_anom_la
+hospital_f,1/1/22,duplicate procedures per visit & date,0.12,0.415,0.48,18993,0.12,0.99,dr_ms_anom_la
+hospital_f,1/1/23,duplicate procedures per visit & date,0.14,0.44,0.51,19358,0.14,0.99,dr_ms_anom_la
+hospital_f,1/1/24,duplicate procedures per visit & date,0.16,0.439,0.51,19723,0.15,0.99,dr_ms_anom_la
+hospital_f,1/1/25,duplicate procedures per visit & date,0.16,0.486,0.5449999999999999,20089,0.15,0.99,dr_ms_anom_la
+hospital_f,1/1/26,duplicate procedures per visit & date,0.13,0.451,0.48,20454,0.14,0.99,dr_ms_anom_la
+hospital_g,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_g,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_g,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_g,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_g,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_g,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_g,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_g,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_g,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_g,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_g,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_g,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_g,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_g,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_g,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_g,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_g,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_g,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_g,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_g,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_g,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_g,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_g,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_g,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_g,1/1/15,duplicate procedures per visit & date,0.68,0.478,0.5,16436,0.67,0.55,dr_ms_anom_la
+hospital_g,1/1/16,duplicate procedures per visit & date,0.62,0.45599999999999996,0.535,16801,0.64,0.55,dr_ms_anom_la
+hospital_g,1/1/17,duplicate procedures per visit & date,0.61,0.443,0.515,17167,0.61,0.55,dr_ms_anom_la
+hospital_g,1/1/18,duplicate procedures per visit & date,0.6,0.42,0.495,17532,0.59,0.55,dr_ms_anom_la
+hospital_g,1/1/19,duplicate procedures per visit & date,0.59,0.417,0.485,17897,0.58,0.55,dr_ms_anom_la
+hospital_g,1/1/20,duplicate procedures per visit & date,0.54,0.38,0.45,18262,0.56,0.55,dr_ms_anom_la
+hospital_g,1/1/21,duplicate procedures per visit & date,0.57,0.402,0.46,18628,0.57,0.55,dr_ms_anom_la
+hospital_g,1/1/22,duplicate procedures per visit & date,0.6,0.415,0.48,18993,0.6,0.55,dr_ms_anom_la
+hospital_g,1/1/23,duplicate procedures per visit & date,0.63,0.44,0.51,19358,0.59,0.55,dr_ms_anom_la
+hospital_g,1/1/24,duplicate procedures per visit & date,0.54,0.439,0.51,19723,0.58,0.55,dr_ms_anom_la
+hospital_g,1/1/25,duplicate procedures per visit & date,0.57,0.486,0.5449999999999999,20089,0.55,0.55,dr_ms_anom_la
+hospital_g,1/1/26,duplicate procedures per visit & date,0.51,0.451,0.48,20454,0.51,0.55,dr_ms_anom_la
+hospital_h,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_h,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_h,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_h,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_h,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_h,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_h,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_h,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_h,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_h,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_h,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_h,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_h,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_h,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_h,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_h,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_h,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_h,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_h,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_h,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_h,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_h,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_h,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_h,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_h,1/1/15,duplicate procedures per visit & date,0.69,0.478,0.5,16436,0.7,0.91,dr_ms_anom_la
+hospital_h,1/1/16,duplicate procedures per visit & date,0.71,0.45599999999999996,0.535,16801,0.69,0.91,dr_ms_anom_la
+hospital_h,1/1/17,duplicate procedures per visit & date,0.68,0.443,0.515,17167,0.68,0.91,dr_ms_anom_la
+hospital_h,1/1/18,duplicate procedures per visit & date,0.67,0.42,0.495,17532,0.67,0.91,dr_ms_anom_la
+hospital_h,1/1/19,duplicate procedures per visit & date,0.66,0.417,0.485,17897,0.65,0.91,dr_ms_anom_la
+hospital_h,1/1/20,duplicate procedures per visit & date,0.63,0.38,0.45,18262,0.65,0.91,dr_ms_anom_la
+hospital_h,1/1/21,duplicate procedures per visit & date,0.67,0.402,0.46,18628,0.67,0.91,dr_ms_anom_la
+hospital_h,1/1/22,duplicate procedures per visit & date,0.71,0.415,0.48,18993,0.69,0.91,dr_ms_anom_la
+hospital_h,1/1/23,duplicate procedures per visit & date,0.71,0.44,0.51,19358,0.71,0.91,dr_ms_anom_la
+hospital_h,1/1/24,duplicate procedures per visit & date,0.71,0.439,0.51,19723,0.73,0.91,dr_ms_anom_la
+hospital_h,1/1/25,duplicate procedures per visit & date,0.76,0.486,0.5449999999999999,20089,0.75,0.91,dr_ms_anom_la
+hospital_h,1/1/26,duplicate procedures per visit & date,0.78,0.451,0.48,20454,0.78,0.91,dr_ms_anom_la
+hospital_k,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_k,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_k,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_k,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_k,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_k,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_k,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_k,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_k,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_k,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_k,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_k,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_k,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_k,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_k,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_k,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_k,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_k,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_k,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_k,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_k,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_k,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_k,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_k,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_k,1/1/15,duplicate procedures per visit & date,0.38,0.478,0.5,16436,0.42,0.24,dr_ms_anom_la
+hospital_k,1/1/16,duplicate procedures per visit & date,0.45,0.45599999999999996,0.535,16801,0.4,0.24,dr_ms_anom_la
+hospital_k,1/1/17,duplicate procedures per visit & date,0.42,0.443,0.515,17167,0.37,0.24,dr_ms_anom_la
+hospital_k,1/1/18,duplicate procedures per visit & date,0.32,0.42,0.495,17532,0.34,0.24,dr_ms_anom_la
+hospital_k,1/1/19,duplicate procedures per visit & date,0.29,0.417,0.485,17897,0.29,0.24,dr_ms_anom_la
+hospital_k,1/1/20,duplicate procedures per visit & date,0.26,0.38,0.45,18262,0.29,0.24,dr_ms_anom_la
+hospital_k,1/1/21,duplicate procedures per visit & date,0.35,0.402,0.46,18628,0.31,0.24,dr_ms_anom_la
+hospital_k,1/1/22,duplicate procedures per visit & date,0.34,0.415,0.48,18993,0.36,0.24,dr_ms_anom_la
+hospital_k,1/1/23,duplicate procedures per visit & date,0.4,0.44,0.51,19358,0.41,0.24,dr_ms_anom_la
+hospital_k,1/1/24,duplicate procedures per visit & date,0.45,0.439,0.51,19723,0.44,0.24,dr_ms_anom_la
+hospital_k,1/1/25,duplicate procedures per visit & date,0.51,0.486,0.5449999999999999,20089,0.44,0.24,dr_ms_anom_la
+hospital_k,1/1/26,duplicate procedures per visit & date,0.39,0.451,0.48,20454,0.43,0.24,dr_ms_anom_la
+hospital_m,1/1/15,Hemoglobin labs without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_m,1/1/16,Hemoglobin labs without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_m,1/1/17,Hemoglobin labs without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_m,1/1/18,Hemoglobin labs without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_m,1/1/19,Hemoglobin labs without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_m,1/1/20,Hemoglobin labs without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_m,1/1/21,Hemoglobin labs without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_m,1/1/22,Hemoglobin labs without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_m,1/1/23,Hemoglobin labs without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_m,1/1/24,Hemoglobin labs without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_m,1/1/25,Hemoglobin labs without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_m,1/1/26,Hemoglobin labs without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_m,1/1/15,SCD diagnoses without PK,0,0,0,16436,0,0,dr_ms_anom_la
+hospital_m,1/1/16,SCD diagnoses without PK,0,0,0,16801,0,0,dr_ms_anom_la
+hospital_m,1/1/17,SCD diagnoses without PK,0,0,0,17167,0,0,dr_ms_anom_la
+hospital_m,1/1/18,SCD diagnoses without PK,0,0,0,17532,0,0,dr_ms_anom_la
+hospital_m,1/1/19,SCD diagnoses without PK,0,0,0,17897,0,0,dr_ms_anom_la
+hospital_m,1/1/20,SCD diagnoses without PK,0,0,0,18262,0,0,dr_ms_anom_la
+hospital_m,1/1/21,SCD diagnoses without PK,0,0,0,18628,0,0,dr_ms_anom_la
+hospital_m,1/1/22,SCD diagnoses without PK,0,0,0,18993,0,0,dr_ms_anom_la
+hospital_m,1/1/23,SCD diagnoses without PK,0,0,0,19358,0,0,dr_ms_anom_la
+hospital_m,1/1/24,SCD diagnoses without PK,0,0,0,19723,0,0,dr_ms_anom_la
+hospital_m,1/1/25,SCD diagnoses without PK,0,0,0,20089,0,0,dr_ms_anom_la
+hospital_m,1/1/26,SCD diagnoses without PK,0,0,0,20454,0,0,dr_ms_anom_la
+hospital_m,1/1/15,duplicate procedures per visit & date,0.36,0.478,0.5,16436,0.34,0.96,dr_ms_anom_la
+hospital_m,1/1/16,duplicate procedures per visit & date,0.21,0.45599999999999996,0.535,16801,0.25,0.96,dr_ms_anom_la
+hospital_m,1/1/17,duplicate procedures per visit & date,0.21,0.443,0.515,17167,0.19,0.96,dr_ms_anom_la
+hospital_m,1/1/18,duplicate procedures per visit & date,0.11,0.42,0.495,17532,0.15,0.96,dr_ms_anom_la
+hospital_m,1/1/19,duplicate procedures per visit & date,0.14,0.417,0.485,17897,0.13,0.96,dr_ms_anom_la
+hospital_m,1/1/20,duplicate procedures per visit & date,0.14,0.38,0.45,18262,0.12,0.96,dr_ms_anom_la
+hospital_m,1/1/21,duplicate procedures per visit & date,0.1,0.402,0.46,18628,0.12,0.96,dr_ms_anom_la
+hospital_m,1/1/22,duplicate procedures per visit & date,0.1,0.415,0.48,18993,0.11,0.96,dr_ms_anom_la
+hospital_m,1/1/23,duplicate procedures per visit & date,0.15,0.44,0.51,19358,0.12,0.96,dr_ms_anom_la
+hospital_m,1/1/24,duplicate procedures per visit & date,0.12,0.439,0.51,19723,0.13,0.96,dr_ms_anom_la
+hospital_m,1/1/25,duplicate procedures per visit & date,0.16,0.486,0.5449999999999999,20089,0.15,0.96,dr_ms_anom_la
+hospital_m,1/1/26,duplicate procedures per visit & date,0.16,0.451,0.48,20454,0.17,0.96,dr_ms_anom_la

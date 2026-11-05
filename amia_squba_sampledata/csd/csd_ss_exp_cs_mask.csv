@@ -1,0 +1,42 @@
+variable,ct_denom,concept_id,site,output_function,ct_concept,prop_concept
+Hydroxyurea,362660,1377163,combined,csd_ss_exp_cs,169865,0.4683863673964595
+Hydroxyurea,362660,1377170,combined,csd_ss_exp_cs,4974,0.013715325649368554
+Hydroxyurea,362660,19007385,combined,csd_ss_exp_cs,43252,0.11926322175039983
+Hydroxyurea,362660,19023561,combined,csd_ss_exp_cs,11562,0.031881100755528594
+Hydroxyurea,362660,1377141,combined,csd_ss_exp_cs,53766,0.14825456350300556
+Hydroxyurea,362660,1377168,combined,csd_ss_exp_cs,14196,0.03914410191363812
+Hydroxyurea,362660,963930,combined,csd_ss_exp_cs,1086,0.0029945403408150884
+Hydroxyurea,362660,19023562,combined,csd_ss_exp_cs,15890,0.043815143660729056
+Hydroxyurea,362660,1377169,combined,csd_ss_exp_cs,24853,0.06852975238515414
+Hydroxyurea,362660,1377167,combined,csd_ss_exp_cs,8361,0.02305465173992169
+Hydroxyurea,362660,40051647,combined,csd_ss_exp_cs,2821,0.0077786356366844975
+Hydroxyurea,362660,19023560,combined,csd_ss_exp_cs,5696,0.015706171069321127
+Hydroxyurea,362660,40051649,combined,csd_ss_exp_cs,4,1.1029614514972701e-5
+Hydroxyurea,362660,40051650,combined,csd_ss_exp_cs,3,8.272210886229527e-6
+Hydroxyurea,362660,963936,combined,csd_ss_exp_cs,2736,0.007544256328241328
+Hydroxyurea,362660,963938,combined,csd_ss_exp_cs,3595,0.009912866045331715
+SCD Diagnosis,1646017,4216915,combined,csd_ss_exp_cs,27937,0.016972485703367585
+SCD Diagnosis,1646017,30683,combined,csd_ss_exp_cs,466725,0.28354810430268945
+SCD Diagnosis,1646017,4130068,combined,csd_ss_exp_cs,18920,0.011494413484186372
+SCD Diagnosis,1646017,4131913,combined,csd_ss_exp_cs,10,6.075271397561508e-6
+SCD Diagnosis,1646017,26942,combined,csd_ss_exp_cs,209996,0.12757826924023263
+SCD Diagnosis,1646017,22281,combined,csd_ss_exp_cs,238201,0.14471357221705486
+SCD Diagnosis,1646017,4166115,combined,csd_ss_exp_cs,2645,0.0016069092846550189
+SCD Diagnosis,1646017,4130067,combined,csd_ss_exp_cs,7063,0.004290964188097693
+SCD Diagnosis,1646017,4209085,combined,csd_ss_exp_cs,16905,0.010270246297577728
+SCD Diagnosis,1646017,4166099,combined,csd_ss_exp_cs,1247,7.5758634327592e-4
+SCD Diagnosis,1646017,315523,combined,csd_ss_exp_cs,908,5.516346428985849e-4
+SCD Diagnosis,1646017,4121115,combined,csd_ss_exp_cs,32,1.9440868472196824e-5
+SCD Diagnosis,1646017,4219568,combined,csd_ss_exp_cs,66,4.009679122390595e-5
+SCD Diagnosis,1646017,4211932,combined,csd_ss_exp_cs,693,4.210163078510125e-4
+SCD Diagnosis,1646017,40485018,combined,csd_ss_exp_cs,696,4.228388892702809e-4
+SCD Diagnosis,1646017,4213628,combined,csd_ss_exp_cs,594336,0.3610752501341116
+SCD Diagnosis,1646017,443738,combined,csd_ss_exp_cs,11293,0.00686080398926621
+SCD Diagnosis,1646017,321263,combined,csd_ss_exp_cs,46539,0.0282737055571115
+SCD Diagnosis,1646017,4049095,combined,csd_ss_exp_cs,354,2.1506460747367737e-4
+SCD Diagnosis,1646017,4264046,combined,csd_ss_exp_cs,235,1.4276887784269544e-4
+SCD Diagnosis,1646017,4130190,combined,csd_ss_exp_cs,259,1.5734952919684304e-4
+SCD Diagnosis,1646017,4131914,combined,csd_ss_exp_cs,468,2.843227014058786e-4
+SCD Diagnosis,1646017,4103763,combined,csd_ss_exp_cs,177,1.0753230373683869e-4
+SCD Diagnosis,1646017,4131126,combined,csd_ss_exp_cs,113,6.865056679244504e-5
+SCD Diagnosis,1646017,4167364,combined,csd_ss_exp_cs,199,1.20897900811474e-4

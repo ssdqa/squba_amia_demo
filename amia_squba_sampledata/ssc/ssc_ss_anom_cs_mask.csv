@@ -1,0 +1,35 @@
+cohort_id,site,cohort_characteristic,smd_vs_baseline,fact_group,output_function
+SS/SB0 Diagnosis,combined,conditions_ppy,0.003676071375910471,Clinical Facts,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,drugs_ppy,0.016089809539399022,Clinical Facts,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,labs_ppy,0.0474067400920918,Clinical Facts,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,procedures_ppy,0.027639603443323398,Clinical Facts,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,fu,0.0799320677758097,Cohort Details,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,black_race,0.09492074172212892,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,white_race,-0.08791110945990044,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,asian_race,-0.028431855984627177,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,mixed_race,-0.013925105947186052,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,unknown_race,-0.016408069293638677,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,other_race,-0.0340573077490205,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,female,0.003575243365757955,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,hispanic,-0.03234921895599024,Demographics,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,age_first_visit,0.01928484038976576,Cohort Details,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,age_cohort_entry,0.01928462215489595,Cohort Details,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,specialty_visits_ppy,0.0769401067050838,Utilization,ssc_ss_anom_cs
+SS/SB0 Diagnosis,combined,SCD Associated Pain,0.17919508030263198,Outcomes,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,conditions_ppy,0.1745794526218406,Clinical Facts,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,drugs_ppy,0.17868007046108095,Clinical Facts,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,labs_ppy,0.3203772655631856,Clinical Facts,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,procedures_ppy,0.20070837347626497,Clinical Facts,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,fu,0.2694372690191172,Cohort Details,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,black_race,0.2858864859276632,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,white_race,-0.2703779359433613,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,asian_race,-0.12635986781935288,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,mixed_race,-0.07678768475107853,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,unknown_race,-0.04235870307306535,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,other_race,-0.04868939796950082,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,female,0.009289790878288486,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,hispanic,-0.00958229789855401,Demographics,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,age_first_visit,-0.11345810372162154,Cohort Details,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,age_cohort_entry,-0.11345851982521377,Cohort Details,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,specialty_visits_ppy,0.42776268136347617,Utilization,ssc_ss_anom_cs
+Hydroxyurea Exposure,combined,SCD Associated Pain,0.7025617402637112,Outcomes,ssc_ss_anom_cs

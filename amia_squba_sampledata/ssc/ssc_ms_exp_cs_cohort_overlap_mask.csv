@@ -1,0 +1,31 @@
+site,cohort_group,group_ct
+hospital_a,base_cohort,688
+hospital_a,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,1068
+hospital_a,base_cohort&SS/SB0 Diagnosis,1336
+hospital_b,base_cohort,159
+hospital_b,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,193
+hospital_b,base_cohort&SS/SB0 Diagnosis,132
+hospital_c,base_cohort,545
+hospital_c,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,368
+hospital_c,base_cohort&SS/SB0 Diagnosis,422
+hospital_d,base_cohort,750
+hospital_d,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,1053
+hospital_d,base_cohort&SS/SB0 Diagnosis,1843
+hospital_e,base_cohort,125
+hospital_e,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,1461
+hospital_e,base_cohort&SS/SB0 Diagnosis,1262
+hospital_f,base_cohort,512
+hospital_f,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,426
+hospital_f,base_cohort&SS/SB0 Diagnosis,2040
+hospital_g,base_cohort,857
+hospital_g,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,1486
+hospital_g,base_cohort&SS/SB0 Diagnosis,1206
+hospital_h,base_cohort,435
+hospital_h,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,418
+hospital_h,base_cohort&SS/SB0 Diagnosis,706
+hospital_k,base_cohort,122
+hospital_k,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,250
+hospital_k,base_cohort&SS/SB0 Diagnosis,350
+hospital_m,base_cohort,72
+hospital_m,base_cohort&Hydroxyurea Exposure&SS/SB0 Diagnosis,75
+hospital_m,base_cohort&SS/SB0 Diagnosis,95

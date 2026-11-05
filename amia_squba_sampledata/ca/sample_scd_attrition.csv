@@ -1,0 +1,40 @@
+site,num_pts,step_number,attrition_step
+hospital_b,484,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_f,2978,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_k,722,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_e,2848,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_c,1335,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_d,3646,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_m,242,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_h,1559,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_a,3092,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_g,3549,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old"
+hospital_m,170,2,Patients with an SS/SB0 genotype diagnosis
+hospital_c,790,2,Patients with an SS/SB0 genotype diagnosis
+hospital_d,2896,2,Patients with an SS/SB0 genotype diagnosis
+hospital_h,1124,2,Patients with an SS/SB0 genotype diagnosis
+hospital_g,2692,2,Patients with an SS/SB0 genotype diagnosis
+hospital_a,2404,2,Patients with an SS/SB0 genotype diagnosis
+hospital_k,600,2,Patients with an SS/SB0 genotype diagnosis
+hospital_e,2723,2,Patients with an SS/SB0 genotype diagnosis
+hospital_f,2466,2,Patients with an SS/SB0 genotype diagnosis
+hospital_b,325,2,Patients with an SS/SB0 genotype diagnosis
+hospital_f,426,3,Patients with a hydroxyurea exposure
+hospital_b,193,3,Patients with a hydroxyurea exposure
+hospital_e,1461,3,Patients with a hydroxyurea exposure
+hospital_k,250,3,Patients with a hydroxyurea exposure
+hospital_g,1486,3,Patients with a hydroxyurea exposure
+hospital_h,418,3,Patients with a hydroxyurea exposure
+hospital_a,1068,3,Patients with a hydroxyurea exposure
+hospital_m,75,3,Patients with a hydroxyurea exposure
+hospital_d,1053,3,Patients with a hydroxyurea exposure
+hospital_c,368,3,Patients with a hydroxyurea exposure
+hospital_f,412,4,Patients with a face-to-face visit with a hematologist
+hospital_b,169,4,Patients with a face-to-face visit with a hematologist
+hospital_k,239,4,Patients with a face-to-face visit with a hematologist
+hospital_c,356,4,Patients with a face-to-face visit with a hematologist
+hospital_m,59,4,Patients with a face-to-face visit with a hematologist
+hospital_d,993,4,Patients with a face-to-face visit with a hematologist
+hospital_g,1434,4,Patients with a face-to-face visit with a hematologist
+hospital_h,355,4,Patients with a face-to-face visit with a hematologist
+hospital_a,1015,4,Patients with a face-to-face visit with a hematologist

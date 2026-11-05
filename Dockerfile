@@ -1,7 +1,14 @@
+# To build image:
+# $ export GH_PAT=<your_github_pat>
+# $ docker build --secret id=github_pat,env=GH_PAT .
+
 FROM pcornetqf/qf-r-base-rstudio:latest
 
-RUN R -e "install.packages('remotes')"
-RUN R -e "library(remotes); remotes::install_github('ssdqa/squba', dependencies='hard', force=TRUE, quiet=TRUE)"
+RUN --mount=type=secret,id=github_pat \
+    GITHUB_PAT="$(cat /run/secrets/github_pat)" \
+  R -e "install.packages('remotes')" \
+  -e "library(remotes)" \
+  -e "remotes::install_github('ssdqa/squba', dependencies='hard', force=TRUE, quiet=TRUE)"
 
 # Port for RStudio execution
 EXPOSE 8787
@@ -12,7 +19,6 @@ ENV PASSWORD=amia2026
 # Needed for RStudio user to have access to external mounts
 ENV ROOT=TRUE
 
-# ADD --unpack https://github.com/ssdqa/amia_squba_2026/blob/main/squba_example_results.tar.gz /home/rstudio/amia_squba_sampledata
-ADD --unpack ./squba_example_results.tar.gz /home/rstudio/amia_squba_sampledata
+ADD https://github.com/ssdqa/squba_amia_demo.git /home/rstudio/
 
 CMD ["/init"]

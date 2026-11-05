@@ -1,0 +1,361 @@
+site,time_start,value_type,time_increment,mean_val,allsite_var,date_numeric,site_loess,dist_eucl_mean,euclidean_stat,output_function
+hospital_a,2015-01-01,ed visits,year,1.9081081081081068,2.041520056298374,16436,1.99,0.67,mean,qvd_ms_anom_la
+hospital_a,2016-01-01,ed visits,year,2.0728155339805796,2.0861508452535706,16801,1.99,0.67,mean,qvd_ms_anom_la
+hospital_a,2017-01-01,ed visits,year,2.127272727272729,2.0732394366197213,17167,1.98,0.67,mean,qvd_ms_anom_la
+hospital_a,2018-01-01,ed visits,year,1.9442060085836912,1.9750154225786487,17532,1.97,0.67,mean,qvd_ms_anom_la
+hospital_a,2019-01-01,ed visits,year,1.85546875,2.0574304322083967,17897,1.94,0.67,mean,qvd_ms_anom_la
+hospital_a,2020-01-01,ed visits,year,2.0456852791878144,1.7991518889745528,18262,2.05,0.67,mean,qvd_ms_anom_la
+hospital_a,2021-01-01,ed visits,year,2.2424242424242373,1.919394579373457,18628,2.21,0.67,mean,qvd_ms_anom_la
+hospital_a,2022-01-01,ed visits,year,2.3245901639344226,1.9733494851605138,18993,2.26,0.67,mean,qvd_ms_anom_la
+hospital_a,2023-01-01,ed visits,year,2.112449799196791,2.068247356616466,19358,2.15,0.67,mean,qvd_ms_anom_la
+hospital_a,2024-01-01,ed visits,year,2.0362903225806477,2.078591637849729,19723,2.09,0.67,mean,qvd_ms_anom_la
+hospital_a,2025-01-01,ed visits,year,1.827868852459014,2.09650259067357,20089,2.06,0.67,mean,qvd_ms_anom_la
+hospital_a,2026-01-01,ed visits,year,2.2153846153846164,1.6382723455308943,20454,2.06,0.67,mean,qvd_ms_anom_la
+hospital_a,2015-01-01,hemoglobin lab results,year,9.163403584794171,7382.418151202557,16436,9.17,11549.08,mean,qvd_ms_anom_la
+hospital_a,2016-01-01,hemoglobin lab results,year,9.236338747946707,1214.057154902403,16801,9.27,11549.08,mean,qvd_ms_anom_la
+hospital_a,2017-01-01,hemoglobin lab results,year,9.40541951746489,7464.497045495237,17167,9.33,11549.08,mean,qvd_ms_anom_la
+hospital_a,2018-01-01,hemoglobin lab results,year,9.435788932670892,3203.359332082685,17532,9.37,11549.08,mean,qvd_ms_anom_la
+hospital_a,2019-01-01,hemoglobin lab results,year,9.230517549077932,3436.2527709556134,17897,9.35,11549.08,mean,qvd_ms_anom_la
+hospital_a,2020-01-01,hemoglobin lab results,year,9.399929111531193,9.511016967563911,18262,9.33,11549.08,mean,qvd_ms_anom_la
+hospital_a,2021-01-01,hemoglobin lab results,year,9.347045002711004,9.506514328015093,18628,9.36,11549.08,mean,qvd_ms_anom_la
+hospital_a,2022-01-01,hemoglobin lab results,year,9.334493165276053,209.67247992950615,18993,9.35,11549.08,mean,qvd_ms_anom_la
+hospital_a,2023-01-01,hemoglobin lab results,year,9.34235700817096,9.482434270272682,19358,9.29,11549.08,mean,qvd_ms_anom_la
+hospital_a,2024-01-01,hemoglobin lab results,year,9.179620929855826,9.335077086030392,19723,9.26,11549.08,mean,qvd_ms_anom_la
+hospital_a,2025-01-01,hemoglobin lab results,year,9.213622572815535,9.422022092726653,20089,9.24,11549.08,mean,qvd_ms_anom_la
+hospital_a,2026-01-01,hemoglobin lab results,year,9.2551943597561,9.464027581662434,20454,9.22,11549.08,mean,qvd_ms_anom_la
+hospital_a,2015-01-01,hydroxyurea dose,year,333.1278406708593,578.7514217854085,16436,329.24,441.48,mean,qvd_ms_anom_la
+hospital_a,2016-01-01,hydroxyurea dose,year,319.42246696035295,479.5072268254946,16801,334.48,441.48,mean,qvd_ms_anom_la
+hospital_a,2017-01-01,hydroxyurea dose,year,365.55624213836427,478.63719231721484,17167,346.04,441.48,mean,qvd_ms_anom_la
+hospital_a,2018-01-01,hydroxyurea dose,year,359.7426910299,486.50649296554303,17532,364.71,441.48,mean,qvd_ms_anom_la
+hospital_a,2019-01-01,hydroxyurea dose,year,382.7798245614033,397.2030951098356,17897,388.35,441.48,mean,qvd_ms_anom_la
+hospital_a,2020-01-01,hydroxyurea dose,year,425.41259541984533,469.755352133813,18262,422.6,441.48,mean,qvd_ms_anom_la
+hospital_a,2021-01-01,hydroxyurea dose,year,460.7041809458536,505.3942265466828,18628,468.67,441.48,mean,qvd_ms_anom_la
+hospital_a,2022-01-01,hydroxyurea dose,year,511.19295051924206,579.2882223738375,18993,499.6,441.48,mean,qvd_ms_anom_la
+hospital_a,2023-01-01,hydroxyurea dose,year,513.7735429533974,622.6433865391904,19358,492.57,441.48,mean,qvd_ms_anom_la
+hospital_a,2024-01-01,hydroxyurea dose,year,481.7782975273592,631.0386313113856,19723,514.76,441.48,mean,qvd_ms_anom_la
+hospital_a,2025-01-01,hydroxyurea dose,year,478.1815847216562,613.9154693474615,20089,556.68,441.48,mean,qvd_ms_anom_la
+hospital_a,2026-01-01,hydroxyurea dose,year,672.1464007092197,807.92173467873,20454,619.55,441.48,mean,qvd_ms_anom_la
+hospital_b,2015-01-01,ed visits,year,2.1818181818181825,2.041520056298374,16436,2.14,0.68,mean,qvd_ms_anom_la
+hospital_b,2016-01-01,ed visits,year,1.9565217391304355,2.0861508452535706,16801,1.95,0.68,mean,qvd_ms_anom_la
+hospital_b,2017-01-01,ed visits,year,1.5384615384615383,2.0732394366197213,17167,1.8,0.68,mean,qvd_ms_anom_la
+hospital_b,2018-01-01,ed visits,year,2.041666666666666,1.9750154225786487,17532,1.7,0.68,mean,qvd_ms_anom_la
+hospital_b,2019-01-01,ed visits,year,1.6153846153846154,2.0574304322083967,17897,1.68,0.68,mean,qvd_ms_anom_la
+hospital_b,2020-01-01,ed visits,year,1.528301886792453,1.7991518889745528,18262,1.66,0.68,mean,qvd_ms_anom_la
+hospital_b,2021-01-01,ed visits,year,1.8088235294117643,1.919394579373457,18628,1.75,0.68,mean,qvd_ms_anom_la
+hospital_b,2022-01-01,ed visits,year,1.97560975609756,1.9733494851605138,18993,1.96,0.68,mean,qvd_ms_anom_la
+hospital_b,2023-01-01,ed visits,year,2.082352941176469,2.068247356616466,19358,2.06,0.68,mean,qvd_ms_anom_la
+hospital_b,2024-01-01,ed visits,year,2.057142857142857,2.078591637849729,19723,2.01,0.68,mean,qvd_ms_anom_la
+hospital_b,2025-01-01,ed visits,year,1.8620689655172422,2.09650259067357,20089,1.82,0.68,mean,qvd_ms_anom_la
+hospital_b,2026-01-01,ed visits,year,1.4745762711864407,1.6382723455308943,20454,1.51,0.68,mean,qvd_ms_anom_la
+hospital_b,2015-01-01,hemoglobin lab results,year,9.253971708378673,7382.418151202557,16436,9.23,11549.1,mean,qvd_ms_anom_la
+hospital_b,2016-01-01,hemoglobin lab results,year,9.160132450331126,1214.057154902403,16801,9.2,11549.1,mean,qvd_ms_anom_la
+hospital_b,2017-01-01,hemoglobin lab results,year,9.282857142857143,7464.497045495237,17167,9.23,11549.1,mean,qvd_ms_anom_la
+hospital_b,2018-01-01,hemoglobin lab results,year,9.120240963855421,3203.359332082685,17532,9.31,11549.1,mean,qvd_ms_anom_la
+hospital_b,2019-01-01,hemoglobin lab results,year,9.433826429980277,3436.2527709556134,17897,9.44,11549.1,mean,qvd_ms_anom_la
+hospital_b,2020-01-01,hemoglobin lab results,year,9.704117009750814,9.511016967563911,18262,9.55,11549.1,mean,qvd_ms_anom_la
+hospital_b,2021-01-01,hemoglobin lab results,year,9.546190476190475,9.506514328015093,18628,9.57,11549.1,mean,qvd_ms_anom_la
+hospital_b,2022-01-01,hemoglobin lab results,year,9.361067366579178,209.67247992950615,18993,9.55,11549.1,mean,qvd_ms_anom_la
+hospital_b,2023-01-01,hemoglobin lab results,year,9.698656716417911,9.482434270272682,19358,9.5,11549.1,mean,qvd_ms_anom_la
+hospital_b,2024-01-01,hemoglobin lab results,year,9.472114216281895,9.335077086030392,19723,9.45,11549.1,mean,qvd_ms_anom_la
+hospital_b,2025-01-01,hemoglobin lab results,year,9.219503700478885,9.422022092726653,20089,9.41,11549.1,mean,qvd_ms_anom_la
+hospital_b,2026-01-01,hemoglobin lab results,year,9.449712643678161,9.464027581662434,20454,9.36,11549.1,mean,qvd_ms_anom_la
+hospital_b,2015-01-01,hydroxyurea dose,year,1039.78102189781,578.7514217854085,16436,958.96,1647.12,mean,qvd_ms_anom_la
+hospital_b,2016-01-01,hydroxyurea dose,year,754.8000000000001,479.5072268254946,16801,888.26,1647.12,mean,qvd_ms_anom_la
+hospital_b,2017-01-01,hydroxyurea dose,year,789.047619047619,478.63719231721484,17167,857.66,1647.12,mean,qvd_ms_anom_la
+hospital_b,2018-01-01,hydroxyurea dose,year,1053.227513227513,486.50649296554303,17532,869.86,1647.12,mean,qvd_ms_anom_la
+hospital_b,2019-01-01,hydroxyurea dose,year,872.9958847736619,397.2030951098356,17897,935.07,1647.12,mean,qvd_ms_anom_la
+hospital_b,2020-01-01,hydroxyurea dose,year,901.2130996309961,469.755352133813,18262,985.44,1647.12,mean,qvd_ms_anom_la
+hospital_b,2021-01-01,hydroxyurea dose,year,1150.6774193548388,505.3942265466828,18628,1086.92,1647.12,mean,qvd_ms_anom_la
+hospital_b,2022-01-01,hydroxyurea dose,year,1198.5457943925232,579.2882223738375,18993,1177.71,1647.12,mean,qvd_ms_anom_la
+hospital_b,2023-01-01,hydroxyurea dose,year,1156.5248447204992,622.6433865391904,19358,1129.47,1647.12,mean,qvd_ms_anom_la
+hospital_b,2024-01-01,hydroxyurea dose,year,1031.398449612403,631.0386313113856,19723,1117.63,1647.12,mean,qvd_ms_anom_la
+hospital_b,2025-01-01,hydroxyurea dose,year,967.034949267191,613.9154693474615,20089,1119.39,1647.12,mean,qvd_ms_anom_la
+hospital_b,2026-01-01,hydroxyurea dose,year,1249.2880258899677,807.92173467873,20454,1139.71,1647.12,mean,qvd_ms_anom_la
+hospital_c,2015-01-01,ed visits,year,2.0747330960854153,2.041520056298374,16436,2.09,0.48,mean,qvd_ms_anom_la
+hospital_c,2016-01-01,ed visits,year,2.078571428571433,2.0861508452535706,16801,2.04,0.48,mean,qvd_ms_anom_la
+hospital_c,2017-01-01,ed visits,year,1.9962264150943427,2.0732394366197213,17167,2,0.48,mean,qvd_ms_anom_la
+hospital_c,2018-01-01,ed visits,year,1.8841698841698868,1.9750154225786487,17532,1.96,0.48,mean,qvd_ms_anom_la
+hospital_c,2019-01-01,ed visits,year,2.019157088122607,2.0574304322083967,17897,1.93,0.48,mean,qvd_ms_anom_la
+hospital_c,2020-01-01,ed visits,year,1.8629441624365481,1.7991518889745528,18262,1.9,0.48,mean,qvd_ms_anom_la
+hospital_c,2021-01-01,ed visits,year,1.881188118811884,1.919394579373457,18628,1.87,0.48,mean,qvd_ms_anom_la
+hospital_c,2022-01-01,ed visits,year,1.8454106280193243,1.9733494851605138,18993,1.86,0.48,mean,qvd_ms_anom_la
+hospital_c,2023-01-01,ed visits,year,1.9478672985781962,2.068247356616466,19358,1.94,0.48,mean,qvd_ms_anom_la
+hospital_c,2024-01-01,ed visits,year,1.9646017699115006,2.078591637849729,19723,1.99,0.48,mean,qvd_ms_anom_la
+hospital_c,2025-01-01,ed visits,year,2.2054794520547985,2.09650259067357,20089,2.02,0.48,mean,qvd_ms_anom_la
+hospital_c,2026-01-01,ed visits,year,1.9203539823008853,1.6382723455308943,20454,2.02,0.48,mean,qvd_ms_anom_la
+hospital_c,2015-01-01,hemoglobin lab results,year,53385.82162435191,7382.418151202557,16436,41831.43,66276.9,mean,qvd_ms_anom_la
+hospital_c,2016-01-01,hemoglobin lab results,year,10077.288053691194,1214.057154902403,16801,39058.43,66276.9,mean,qvd_ms_anom_la
+hospital_c,2017-01-01,hemoglobin lab results,year,54545.13392652046,7464.497045495237,17167,34533.85,66276.9,mean,qvd_ms_anom_la
+hospital_c,2018-01-01,hemoglobin lab results,year,26102.746412264078,3203.359332082685,17532,29230.37,66276.9,mean,qvd_ms_anom_la
+hospital_c,2019-01-01,hemoglobin lab results,year,27444.673555860652,3436.2527709556134,17897,21211.79,66276.9,mean,qvd_ms_anom_la
+hospital_c,2020-01-01,hemoglobin lab results,year,9.935789269051321,9.511016967563911,18262,6723.53,66276.9,mean,qvd_ms_anom_la
+hospital_c,2021-01-01,hemoglobin lab results,year,10.026818580192813,9.506514328015093,18628,607.82,66276.9,mean,qvd_ms_anom_la
+hospital_c,2022-01-01,hemoglobin lab results,year,1939.4114991316856,209.67247992950615,18993,-839.51,66276.9,mean,qvd_ms_anom_la
+hospital_c,2023-01-01,hemoglobin lab results,year,10.130813837232546,9.482434270272682,19358,-648.33,66276.9,mean,qvd_ms_anom_la
+hospital_c,2024-01-01,hemoglobin lab results,year,9.92369278244471,9.335077086030392,19723,-612.27,66276.9,mean,qvd_ms_anom_la
+hospital_c,2025-01-01,hemoglobin lab results,year,9.45062833534171,9.422022092726653,20089,-244.84,66276.9,mean,qvd_ms_anom_la
+hospital_c,2026-01-01,hemoglobin lab results,year,9.696826688364522,9.464027581662434,20454,398.63,66276.9,mean,qvd_ms_anom_la
+hospital_c,2015-01-01,hydroxyurea dose,year,1535.5788177339903,578.7514217854085,16436,1495.12,3274.52,mean,qvd_ms_anom_la
+hospital_c,2016-01-01,hydroxyurea dose,year,1328.055555555556,479.5072268254946,16801,1401.31,3274.52,mean,qvd_ms_anom_la
+hospital_c,2017-01-01,hydroxyurea dose,year,1376.8697478991594,478.63719231721484,17167,1361.9,3274.52,mean,qvd_ms_anom_la
+hospital_c,2018-01-01,hydroxyurea dose,year,1353.5510204081625,486.50649296554303,17532,1377.08,3274.52,mean,qvd_ms_anom_la
+hospital_c,2019-01-01,hydroxyurea dose,year,1449.4881889763776,397.2030951098356,17897,1453.05,3274.52,mean,qvd_ms_anom_la
+hospital_c,2020-01-01,hydroxyurea dose,year,1529.9300699300713,469.755352133813,18262,1547.53,3274.52,mean,qvd_ms_anom_la
+hospital_c,2021-01-01,hydroxyurea dose,year,1699.9897854954017,505.3942265466828,18628,1645.39,3274.52,mean,qvd_ms_anom_la
+hospital_c,2022-01-01,hydroxyurea dose,year,1601.4446002805055,579.2882223738375,18993,1684.16,3274.52,mean,qvd_ms_anom_la
+hospital_c,2023-01-01,hydroxyurea dose,year,1744.2168674698812,622.6433865391904,19358,1598.29,3274.52,mean,qvd_ms_anom_la
+hospital_c,2024-01-01,hydroxyurea dose,year,1391.7913385826737,631.0386313113856,19723,1519.58,3274.52,mean,qvd_ms_anom_la
+hospital_c,2025-01-01,hydroxyurea dose,year,1323.3257918552047,613.9154693474615,20089,1425.77,3274.52,mean,qvd_ms_anom_la
+hospital_c,2026-01-01,hydroxyurea dose,year,1402.9126213592228,807.92173467873,20454,1320.28,3274.52,mean,qvd_ms_anom_la
+hospital_d,2015-01-01,ed visits,year,1.892193308550182,2.041520056298374,16436,1.9,0.4,mean,qvd_ms_anom_la
+hospital_d,2016-01-01,ed visits,year,1.8970873786407767,2.0861508452535706,16801,1.92,0.4,mean,qvd_ms_anom_la
+hospital_d,2017-01-01,ed visits,year,1.9962825278810457,2.0732394366197213,17167,1.92,0.4,mean,qvd_ms_anom_la
+hospital_d,2018-01-01,ed visits,year,1.884955752212397,1.9750154225786487,17532,1.91,0.4,mean,qvd_ms_anom_la
+hospital_d,2019-01-01,ed visits,year,1.937956204379554,2.0574304322083967,17897,1.87,0.4,mean,qvd_ms_anom_la
+hospital_d,2020-01-01,ed visits,year,1.7473233404710875,1.7991518889745528,18262,1.82,0.4,mean,qvd_ms_anom_la
+hospital_d,2021-01-01,ed visits,year,1.8927789934354449,1.919394579373457,18628,1.87,0.4,mean,qvd_ms_anom_la
+hospital_d,2022-01-01,ed visits,year,1.9188118811881278,1.9733494851605138,18993,2.04,0.4,mean,qvd_ms_anom_la
+hospital_d,2023-01-01,ed visits,year,2.369955156950681,2.068247356616466,19358,2.21,0.4,mean,qvd_ms_anom_la
+hospital_d,2024-01-01,ed visits,year,2.2460850111856785,2.078591637849729,19723,2.19,0.4,mean,qvd_ms_anom_la
+hospital_d,2025-01-01,ed visits,year,2.185654008438822,2.09650259067357,20089,2.02,0.4,mean,qvd_ms_anom_la
+hospital_d,2026-01-01,ed visits,year,1.5687022900763379,1.6382723455308943,20454,1.69,0.4,mean,qvd_ms_anom_la
+hospital_d,2015-01-01,hemoglobin lab results,year,9.89684269874084,7382.418151202557,16436,9.88,11548.14,mean,qvd_ms_anom_la
+hospital_d,2016-01-01,hemoglobin lab results,year,9.711694338455192,1214.057154902403,16801,9.74,11548.14,mean,qvd_ms_anom_la
+hospital_d,2017-01-01,hemoglobin lab results,year,9.67605195958699,7464.497045495237,17167,9.67,11548.14,mean,qvd_ms_anom_la
+hospital_d,2018-01-01,hemoglobin lab results,year,9.708921310691226,3203.359332082685,17532,9.67,11548.14,mean,qvd_ms_anom_la
+hospital_d,2019-01-01,hemoglobin lab results,year,9.741821477118265,3436.2527709556134,17897,9.74,11548.14,mean,qvd_ms_anom_la
+hospital_d,2020-01-01,hemoglobin lab results,year,9.792670499085443,9.511016967563911,18262,9.92,11548.14,mean,qvd_ms_anom_la
+hospital_d,2021-01-01,hemoglobin lab results,year,10.221026421358415,9.506514328015093,18628,10.12,11548.14,mean,qvd_ms_anom_la
+hospital_d,2022-01-01,hemoglobin lab results,year,10.252058749686169,209.67247992950615,18993,10.16,11548.14,mean,qvd_ms_anom_la
+hospital_d,2023-01-01,hemoglobin lab results,year,10.011292462845011,9.482434270272682,19358,10.08,11548.14,mean,qvd_ms_anom_la
+hospital_d,2024-01-01,hemoglobin lab results,year,9.759548706659329,9.335077086030392,19723,10.01,11548.14,mean,qvd_ms_anom_la
+hospital_d,2025-01-01,hemoglobin lab results,year,10.071340601655573,9.422022092726653,20089,9.89,11548.14,mean,qvd_ms_anom_la
+hospital_d,2026-01-01,hemoglobin lab results,year,9.731413096996553,9.464027581662434,20454,9.76,11548.14,mean,qvd_ms_anom_la
+hospital_d,2015-01-01,hydroxyurea dose,year,336.20920810313163,578.7514217854085,16436,339.61,721.14,mean,qvd_ms_anom_la
+hospital_d,2016-01-01,hydroxyurea dose,year,312.82830344069913,479.5072268254946,16801,313.48,721.14,mean,qvd_ms_anom_la
+hospital_d,2017-01-01,hydroxyurea dose,year,301.25246199032387,478.63719231721484,17167,292.51,721.14,mean,qvd_ms_anom_la
+hospital_d,2018-01-01,hydroxyurea dose,year,297.42836415818,486.50649296554303,17532,277.83,721.14,mean,qvd_ms_anom_la
+hospital_d,2019-01-01,hydroxyurea dose,year,237.42985753860364,397.2030951098356,17897,266.76,721.14,mean,qvd_ms_anom_la
+hospital_d,2020-01-01,hydroxyurea dose,year,290.50782137551977,469.755352133813,18262,268.59,721.14,mean,qvd_ms_anom_la
+hospital_d,2021-01-01,hydroxyurea dose,year,275.87083139804093,505.3942265466828,18628,294.55,721.14,mean,qvd_ms_anom_la
+hospital_d,2022-01-01,hydroxyurea dose,year,346.2083195895324,579.2882223738375,18993,331.06,721.14,mean,qvd_ms_anom_la
+hospital_d,2023-01-01,hydroxyurea dose,year,362.25528755566955,622.6433865391904,19358,366.33,721.14,mean,qvd_ms_anom_la
+hospital_d,2024-01-01,hydroxyurea dose,year,421.883913510203,631.0386313113856,19723,416.05,721.14,mean,qvd_ms_anom_la
+hospital_d,2025-01-01,hydroxyurea dose,year,451.336690478073,613.9154693474615,20089,479.4,721.14,mean,qvd_ms_anom_la
+hospital_d,2026-01-01,hydroxyurea dose,year,570.6953672660798,807.92173467873,20454,555.86,721.14,mean,qvd_ms_anom_la
+hospital_e,2015-01-01,ed visits,year,2.5409090909090835,2.041520056298374,16436,2.51,0.73,mean,qvd_ms_anom_la
+hospital_e,2016-01-01,ed visits,year,2.349900596421462,2.0861508452535706,16801,2.38,0.73,mean,qvd_ms_anom_la
+hospital_e,2017-01-01,ed visits,year,2.2655038759689954,2.0732394366197213,17167,2.28,0.73,mean,qvd_ms_anom_la
+hospital_e,2018-01-01,ed visits,year,2.111731843575426,1.9750154225786487,17532,2.2,0.73,mean,qvd_ms_anom_la
+hospital_e,2019-01-01,ed visits,year,2.324022346368705,2.0574304322083967,17897,2.15,0.73,mean,qvd_ms_anom_la
+hospital_e,2020-01-01,ed visits,year,1.9525959367945844,1.7991518889745528,18262,2.08,0.73,mean,qvd_ms_anom_la
+hospital_e,2021-01-01,ed visits,year,2.0598669623059847,1.919394579373457,18628,2.03,0.73,mean,qvd_ms_anom_la
+hospital_e,2022-01-01,ed visits,year,2.0117647058823596,1.9733494851605138,18993,2.05,0.73,mean,qvd_ms_anom_la
+hospital_e,2023-01-01,ed visits,year,2.1679841897233265,2.068247356616466,19358,2.14,0.73,mean,qvd_ms_anom_la
+hospital_e,2024-01-01,ed visits,year,2.1514018691588848,2.078591637849729,19723,2.11,0.73,mean,qvd_ms_anom_la
+hospital_e,2025-01-01,ed visits,year,2.232365145228202,2.09650259067357,20089,1.98,0.73,mean,qvd_ms_anom_la
+hospital_e,2026-01-01,ed visits,year,1.5869565217391313,1.6382723455308943,20454,1.75,0.73,mean,qvd_ms_anom_la
+hospital_e,2015-01-01,hemoglobin lab results,year,9.006149511022707,7382.418151202557,16436,9.07,11549.31,mean,qvd_ms_anom_la
+hospital_e,2016-01-01,hemoglobin lab results,year,9.227002107481562,1214.057154902403,16801,9.13,11549.31,mean,qvd_ms_anom_la
+hospital_e,2017-01-01,hemoglobin lab results,year,9.237671232876714,7464.497045495237,17167,9.18,11549.31,mean,qvd_ms_anom_la
+hospital_e,2018-01-01,hemoglobin lab results,year,9.145419602818707,3203.359332082685,17532,9.23,11549.31,mean,qvd_ms_anom_la
+hospital_e,2019-01-01,hemoglobin lab results,year,9.252749858836815,3436.2527709556134,17897,9.27,11549.31,mean,qvd_ms_anom_la
+hospital_e,2020-01-01,hemoglobin lab results,year,9.375371202833398,9.511016967563911,18262,9.37,11549.31,mean,qvd_ms_anom_la
+hospital_e,2021-01-01,hemoglobin lab results,year,9.54477805251384,9.506514328015093,18628,9.43,11549.31,mean,qvd_ms_anom_la
+hospital_e,2022-01-01,hemoglobin lab results,year,9.320003113325026,209.67247992950615,18993,9.46,11549.31,mean,qvd_ms_anom_la
+hospital_e,2023-01-01,hemoglobin lab results,year,9.561830065359477,9.482434270272682,19358,9.52,11549.31,mean,qvd_ms_anom_la
+hospital_e,2024-01-01,hemoglobin lab results,year,9.538312829525484,9.335077086030392,19723,9.58,11549.31,mean,qvd_ms_anom_la
+hospital_e,2025-01-01,hemoglobin lab results,year,9.752528735632184,9.422022092726653,20089,9.64,11549.31,mean,qvd_ms_anom_la
+hospital_e,2026-01-01,hemoglobin lab results,year,9.643386243386244,9.464027581662434,20454,9.7,11549.31,mean,qvd_ms_anom_la
+hospital_e,2015-01-01,hydroxyurea dose,year,428.5107556160654,578.7514217854085,16436,408.54,577.17,mean,qvd_ms_anom_la
+hospital_e,2016-01-01,hydroxyurea dose,year,346.06137417218685,479.5072268254946,16801,375.3,577.17,mean,qvd_ms_anom_la
+hospital_e,2017-01-01,hydroxyurea dose,year,341.2182966852677,478.63719231721484,17167,352.62,577.17,mean,qvd_ms_anom_la
+hospital_e,2018-01-01,hydroxyurea dose,year,336.3231682496628,486.50649296554303,17532,339.97,577.17,mean,qvd_ms_anom_la
+hospital_e,2019-01-01,hydroxyurea dose,year,383.18024992380043,397.2030951098356,17897,340.29,577.17,mean,qvd_ms_anom_la
+hospital_e,2020-01-01,hydroxyurea dose,year,290.8514972030198,469.755352133813,18262,328.03,577.17,mean,qvd_ms_anom_la
+hospital_e,2021-01-01,hydroxyurea dose,year,339.85961887477634,505.3942265466828,18628,333.65,577.17,mean,qvd_ms_anom_la
+hospital_e,2022-01-01,hydroxyurea dose,year,348.0383572319143,579.2882223738375,18993,362.84,577.17,mean,qvd_ms_anom_la
+hospital_e,2023-01-01,hydroxyurea dose,year,437.17789913267876,622.6433865391904,19358,376.52,577.17,mean,qvd_ms_anom_la
+hospital_e,2024-01-01,hydroxyurea dose,year,373.8731018246148,631.0386313113856,19723,425.45,577.17,mean,qvd_ms_anom_la
+hospital_e,2025-01-01,hydroxyurea dose,year,449.1370179521273,613.9154693474615,20089,501.66,577.17,mean,qvd_ms_anom_la
+hospital_e,2026-01-01,hydroxyurea dose,year,645.3861480075918,807.92173467873,20454,605.86,577.17,mean,qvd_ms_anom_la
+hospital_f,2015-01-01,ed visits,year,2.0528511821974886,2.041520056298374,16436,2.12,0.39,mean,qvd_ms_anom_la
+hospital_f,2016-01-01,ed visits,year,2.3254237288135493,2.0861508452535706,16801,2.2,0.39,mean,qvd_ms_anom_la
+hospital_f,2017-01-01,ed visits,year,2.211778029445056,2.0732394366197213,17167,2.21,0.39,mean,qvd_ms_anom_la
+hospital_f,2018-01-01,ed visits,year,2.076751946607357,1.9750154225786487,17532,2.14,0.39,mean,qvd_ms_anom_la
+hospital_f,2019-01-01,ed visits,year,2.2202688728024613,2.0574304322083967,17897,2,0.39,mean,qvd_ms_anom_la
+hospital_f,2020-01-01,ed visits,year,1.6820895522388124,1.7991518889745528,18262,1.86,0.39,mean,qvd_ms_anom_la
+hospital_f,2021-01-01,ed visits,year,1.7835497835497793,1.919394579373457,18628,1.79,0.39,mean,qvd_ms_anom_la
+hospital_f,2022-01-01,ed visits,year,1.9029374201788132,1.9733494851605138,18993,1.86,0.39,mean,qvd_ms_anom_la
+hospital_f,2023-01-01,ed visits,year,2.0026809651474404,2.068247356616466,19358,2,0.39,mean,qvd_ms_anom_la
+hospital_f,2024-01-01,ed visits,year,2.065637065637057,2.078591637849729,19723,2.02,0.39,mean,qvd_ms_anom_la
+hospital_f,2025-01-01,ed visits,year,2.1799450549450583,2.09650259067357,20089,1.95,0.39,mean,qvd_ms_anom_la
+hospital_f,2026-01-01,ed visits,year,1.6506329113924094,1.6382723455308943,20454,1.79,0.39,mean,qvd_ms_anom_la
+hospital_f,2015-01-01,hemoglobin lab results,year,9.525355994487828,7382.418151202557,16436,9.54,11548.45,mean,qvd_ms_anom_la
+hospital_f,2016-01-01,hemoglobin lab results,year,9.612755102040815,1214.057154902403,16801,9.62,11548.45,mean,qvd_ms_anom_la
+hospital_f,2017-01-01,hemoglobin lab results,year,9.729510461902883,7464.497045495237,17167,9.65,11548.45,mean,qvd_ms_anom_la
+hospital_f,2018-01-01,hemoglobin lab results,year,9.616106301590499,3203.359332082685,17532,9.65,11548.45,mean,qvd_ms_anom_la
+hospital_f,2019-01-01,hemoglobin lab results,year,9.575176358436606,3436.2527709556134,17897,9.59,11548.45,mean,qvd_ms_anom_la
+hospital_f,2020-01-01,hemoglobin lab results,year,9.523169927456582,9.511016967563911,18262,9.5,11548.45,mean,qvd_ms_anom_la
+hospital_f,2021-01-01,hemoglobin lab results,year,9.420396084680172,9.506514328015093,18628,9.43,11548.45,mean,qvd_ms_anom_la
+hospital_f,2022-01-01,hemoglobin lab results,year,9.307274265172342,209.67247992950615,18993,9.34,11548.45,mean,qvd_ms_anom_la
+hospital_f,2023-01-01,hemoglobin lab results,year,9.333941459502807,9.482434270272682,19358,9.26,11548.45,mean,qvd_ms_anom_la
+hospital_f,2024-01-01,hemoglobin lab results,year,9.148482734565745,9.335077086030392,19723,9.27,11548.45,mean,qvd_ms_anom_la
+hospital_f,2025-01-01,hemoglobin lab results,year,9.340718053428617,9.422022092726653,20089,9.34,11548.45,mean,qvd_ms_anom_la
+hospital_f,2026-01-01,hemoglobin lab results,year,9.503501180173092,9.464027581662434,20454,9.48,11548.45,mean,qvd_ms_anom_la
+hospital_f,2015-01-01,hydroxyurea dose,year,1344.5586297760217,578.7514217854085,16436,1362.33,2414.29,mean,qvd_ms_anom_la
+hospital_f,2016-01-01,hydroxyurea dose,year,1312.954545454544,479.5072268254946,16801,1273.48,2414.29,mean,qvd_ms_anom_la
+hospital_f,2017-01-01,hydroxyurea dose,year,1206.7732962447826,478.63719231721484,17167,1209.43,2414.29,mean,qvd_ms_anom_la
+hospital_f,2018-01-01,hydroxyurea dose,year,1114.4675925925926,486.50649296554303,17532,1168.55,2414.29,mean,qvd_ms_anom_la
+hospital_f,2019-01-01,hydroxyurea dose,year,1187.81991701245,397.2030951098356,17897,1151.04,2414.29,mean,qvd_ms_anom_la
+hospital_f,2020-01-01,hydroxyurea dose,year,1180.752351097177,469.755352133813,18262,1166.9,2414.29,mean,qvd_ms_anom_la
+hospital_f,2021-01-01,hydroxyurea dose,year,1156.749566724437,505.3942265466828,18628,1204.06,2414.29,mean,qvd_ms_anom_la
+hospital_f,2022-01-01,hydroxyurea dose,year,1260.6009646302239,579.2882223738375,18993,1244,2414.29,mean,qvd_ms_anom_la
+hospital_f,2023-01-01,hydroxyurea dose,year,1314.8363778705627,622.6433865391904,19358,1256.94,2414.29,mean,qvd_ms_anom_la
+hospital_f,2024-01-01,hydroxyurea dose,year,1238.1649792913029,631.0386313113856,19723,1281.28,2414.29,mean,qvd_ms_anom_la
+hospital_f,2025-01-01,hydroxyurea dose,year,1260.5518934081315,613.9154693474615,20089,1310.98,2414.29,mean,qvd_ms_anom_la
+hospital_f,2026-01-01,hydroxyurea dose,year,1382.1109185441949,807.92173467873,20454,1346.31,2414.29,mean,qvd_ms_anom_la
+hospital_g,2015-01-01,ed visits,year,1.8283062645011643,2.041520056298374,16436,1.8,0.57,mean,qvd_ms_anom_la
+hospital_g,2016-01-01,ed visits,year,1.7511961722488092,2.0861508452535706,16801,1.83,0.57,mean,qvd_ms_anom_la
+hospital_g,2017-01-01,ed visits,year,1.92464358452138,2.0732394366197213,17167,1.85,0.57,mean,qvd_ms_anom_la
+hospital_g,2018-01-01,ed visits,year,1.8872340425531937,1.9750154225786487,17532,1.88,0.57,mean,qvd_ms_anom_la
+hospital_g,2019-01-01,ed visits,year,1.8809073724007466,2.0574304322083967,17897,1.89,0.57,mean,qvd_ms_anom_la
+hospital_g,2020-01-01,ed visits,year,1.863753213367612,1.7991518889745528,18262,1.9,0.57,mean,qvd_ms_anom_la
+hospital_g,2021-01-01,ed visits,year,1.9793233082706738,1.919394579373457,18628,1.94,0.57,mean,qvd_ms_anom_la
+hospital_g,2022-01-01,ed visits,year,1.9753846153846208,1.9733494851605138,18993,1.97,0.57,mean,qvd_ms_anom_la
+hospital_g,2023-01-01,ed visits,year,1.9586645468998314,2.068247356616466,19358,2.02,0.57,mean,qvd_ms_anom_la
+hospital_g,2024-01-01,ed visits,year,2.027027027027023,2.078591637849729,19723,1.96,0.57,mean,qvd_ms_anom_la
+hospital_g,2025-01-01,ed visits,year,1.9613526570048232,2.09650259067357,20089,1.8,0.57,mean,qvd_ms_anom_la
+hospital_g,2026-01-01,ed visits,year,1.4509803921568614,1.6382723455308943,20454,1.56,0.57,mean,qvd_ms_anom_la
+hospital_g,2015-01-01,hemoglobin lab results,year,9.290237729368158,7382.418151202557,16436,9.3,11549.2,mean,qvd_ms_anom_la
+hospital_g,2016-01-01,hemoglobin lab results,year,9.277607391180112,1214.057154902403,16801,9.25,11549.2,mean,qvd_ms_anom_la
+hospital_g,2017-01-01,hemoglobin lab results,year,9.200994933210506,7464.497045495237,17167,9.21,11549.2,mean,qvd_ms_anom_la
+hospital_g,2018-01-01,hemoglobin lab results,year,9.14878117647059,3203.359332082685,17532,9.17,11549.2,mean,qvd_ms_anom_la
+hospital_g,2019-01-01,hemoglobin lab results,year,9.120093015244159,3436.2527709556134,17897,9.14,11549.2,mean,qvd_ms_anom_la
+hospital_g,2020-01-01,hemoglobin lab results,year,9.178250401284114,9.511016967563911,18262,9.11,11549.2,mean,qvd_ms_anom_la
+hospital_g,2021-01-01,hemoglobin lab results,year,9.008133015897393,9.506514328015093,18628,9.08,11549.2,mean,qvd_ms_anom_la
+hospital_g,2022-01-01,hemoglobin lab results,year,9.052488687782807,209.67247992950615,18993,9.01,11549.2,mean,qvd_ms_anom_la
+hospital_g,2023-01-01,hemoglobin lab results,year,9.000160384923818,9.482434270272682,19358,8.96,11549.2,mean,qvd_ms_anom_la
+hospital_g,2024-01-01,hemoglobin lab results,year,8.829614105123085,9.335077086030392,19723,8.96,11549.2,mean,qvd_ms_anom_la
+hospital_g,2025-01-01,hemoglobin lab results,year,9.029218307006891,9.422022092726653,20089,9.01,11549.2,mean,qvd_ms_anom_la
+hospital_g,2026-01-01,hemoglobin lab results,year,9.124318618042228,9.464027581662434,20454,9.11,11549.2,mean,qvd_ms_anom_la
+hospital_g,2015-01-01,hydroxyurea dose,year,933.9990954319268,578.7514217854085,16436,928.33,1621.1,mean,qvd_ms_anom_la
+hospital_g,2016-01-01,hydroxyurea dose,year,950.5662042875133,479.5072268254946,16801,965.54,1621.1,mean,qvd_ms_anom_la
+hospital_g,2017-01-01,hydroxyurea dose,year,992.0065120065121,478.63719231721484,17167,990.74,1621.1,mean,qvd_ms_anom_la
+hospital_g,2018-01-01,hydroxyurea dose,year,1037.2158154859935,486.50649296554303,17532,1004.95,1621.1,mean,qvd_ms_anom_la
+hospital_g,2019-01-01,hydroxyurea dose,year,990.7854838709704,397.2030951098356,17897,1006.84,1621.1,mean,qvd_ms_anom_la
+hospital_g,2020-01-01,hydroxyurea dose,year,989.748137802605,469.755352133813,18262,994.66,1621.1,mean,qvd_ms_anom_la
+hospital_g,2021-01-01,hydroxyurea dose,year,1000.4706833805168,505.3942265466828,18628,986.77,1621.1,mean,qvd_ms_anom_la
+hospital_g,2022-01-01,hydroxyurea dose,year,1003.1424792139035,579.2882223738375,18993,1015.9,1621.1,mean,qvd_ms_anom_la
+hospital_g,2023-01-01,hydroxyurea dose,year,1023.4247528377891,622.6433865391904,19358,1053.52,1621.1,mean,qvd_ms_anom_la
+hospital_g,2024-01-01,hydroxyurea dose,year,1167.015456989239,631.0386313113856,19723,1070.72,1621.1,mean,qvd_ms_anom_la
+hospital_g,2025-01-01,hydroxyurea dose,year,1035.1567272727282,613.9154693474615,20089,1080.12,1621.1,mean,qvd_ms_anom_la
+hospital_g,2026-01-01,hydroxyurea dose,year,1079.9606087735076,807.92173467873,20454,1077.44,1621.1,mean,qvd_ms_anom_la
+hospital_h,2015-01-01,ed visits,year,1.734513274336285,2.041520056298374,16436,1.69,1.15,mean,qvd_ms_anom_la
+hospital_h,2016-01-01,ed visits,year,1.5625,2.0861508452535706,16801,1.65,1.15,mean,qvd_ms_anom_la
+hospital_h,2017-01-01,ed visits,year,1.6183206106870238,2.0732394366197213,17167,1.61,1.15,mean,qvd_ms_anom_la
+hospital_h,2018-01-01,ed visits,year,1.6363636363636378,1.9750154225786487,17532,1.59,1.15,mean,qvd_ms_anom_la
+hospital_h,2019-01-01,ed visits,year,1.6307692307692299,2.0574304322083967,17897,1.57,1.15,mean,qvd_ms_anom_la
+hospital_h,2020-01-01,ed visits,year,1.4766355140186913,1.7991518889745528,18262,1.56,1.15,mean,qvd_ms_anom_la
+hospital_h,2021-01-01,ed visits,year,1.603174603174604,1.919394579373457,18628,1.64,1.15,mean,qvd_ms_anom_la
+hospital_h,2022-01-01,ed visits,year,1.8489208633093506,1.9733494851605138,18993,1.77,1.15,mean,qvd_ms_anom_la
+hospital_h,2023-01-01,ed visits,year,1.8538461538461544,2.068247356616466,19358,1.87,1.15,mean,qvd_ms_anom_la
+hospital_h,2024-01-01,ed visits,year,1.8916666666666675,2.078591637849729,19723,1.86,1.15,mean,qvd_ms_anom_la
+hospital_h,2025-01-01,ed visits,year,1.8632478632478628,2.09650259067357,20089,1.74,1.15,mean,qvd_ms_anom_la
+hospital_h,2026-01-01,ed visits,year,1.445652173913044,1.6382723455308943,20454,1.52,1.15,mean,qvd_ms_anom_la
+hospital_h,2015-01-01,hemoglobin lab results,year,9.41759483454399,7382.418151202557,16436,9.45,11548.61,mean,qvd_ms_anom_la
+hospital_h,2016-01-01,hemoglobin lab results,year,9.517548175481757,1214.057154902403,16801,9.54,11548.61,mean,qvd_ms_anom_la
+hospital_h,2017-01-01,hemoglobin lab results,year,9.821344473984048,7464.497045495237,17167,9.57,11548.61,mean,qvd_ms_anom_la
+hospital_h,2018-01-01,hemoglobin lab results,year,9.322037914691943,3203.359332082685,17532,9.57,11548.61,mean,qvd_ms_anom_la
+hospital_h,2019-01-01,hemoglobin lab results,year,9.549493487698987,3436.2527709556134,17897,9.49,11548.61,mean,qvd_ms_anom_la
+hospital_h,2020-01-01,hemoglobin lab results,year,9.526937916520518,9.511016967563911,18262,9.41,11548.61,mean,qvd_ms_anom_la
+hospital_h,2021-01-01,hemoglobin lab results,year,9.295063214930765,9.506514328015093,18628,9.36,11548.61,mean,qvd_ms_anom_la
+hospital_h,2022-01-01,hemoglobin lab results,year,9.274589339591014,209.67247992950615,18993,9.43,11548.61,mean,qvd_ms_anom_la
+hospital_h,2023-01-01,hemoglobin lab results,year,9.68382116436153,9.482434270272682,19358,9.55,11548.61,mean,qvd_ms_anom_la
+hospital_h,2024-01-01,hemoglobin lab results,year,9.907255416940247,9.335077086030392,19723,9.61,11548.61,mean,qvd_ms_anom_la
+hospital_h,2025-01-01,hemoglobin lab results,year,9.394032805429864,9.422022092726653,20089,9.67,11548.61,mean,qvd_ms_anom_la
+hospital_h,2026-01-01,hemoglobin lab results,year,9.777813299232736,9.464027581662434,20454,9.71,11548.61,mean,qvd_ms_anom_la
+hospital_h,2015-01-01,hydroxyurea dose,year,0,578.7514217854085,16436,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2016-01-01,hydroxyurea dose,year,0,479.5072268254946,16801,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2017-01-01,hydroxyurea dose,year,0,478.63719231721484,17167,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2018-01-01,hydroxyurea dose,year,0,486.50649296554303,17532,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2019-01-01,hydroxyurea dose,year,0,397.2030951098356,17897,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2020-01-01,hydroxyurea dose,year,0,469.755352133813,18262,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2021-01-01,hydroxyurea dose,year,0,505.3942265466828,18628,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2022-01-01,hydroxyurea dose,year,0,579.2882223738375,18993,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2023-01-01,hydroxyurea dose,year,0,622.6433865391904,19358,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2024-01-01,hydroxyurea dose,year,0,631.0386313113856,19723,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2025-01-01,hydroxyurea dose,year,0,613.9154693474615,20089,0,1953.36,mean,qvd_ms_anom_la
+hospital_h,2026-01-01,hydroxyurea dose,year,0,807.92173467873,20454,0,1953.36,mean,qvd_ms_anom_la
+hospital_k,2015-01-01,ed visits,year,1.8378378378378373,2.041520056298374,16436,1.79,0.71,mean,qvd_ms_anom_la
+hospital_k,2016-01-01,ed visits,year,1.7386363636363624,2.0861508452535706,16801,1.84,0.71,mean,qvd_ms_anom_la
+hospital_k,2017-01-01,ed visits,year,1.8780487804878054,2.0732394366197213,17167,1.85,0.71,mean,qvd_ms_anom_la
+hospital_k,2018-01-01,ed visits,year,1.9072164948453625,1.9750154225786487,17532,1.85,0.71,mean,qvd_ms_anom_la
+hospital_k,2019-01-01,ed visits,year,1.8874999999999993,2.0574304322083967,17897,1.83,0.71,mean,qvd_ms_anom_la
+hospital_k,2020-01-01,ed visits,year,1.6607142857142863,1.7991518889745528,18262,1.77,0.71,mean,qvd_ms_anom_la
+hospital_k,2021-01-01,ed visits,year,1.7647058823529405,1.919394579373457,18628,1.75,0.71,mean,qvd_ms_anom_la
+hospital_k,2022-01-01,ed visits,year,1.8666666666666663,1.9733494851605138,18993,1.79,0.71,mean,qvd_ms_anom_la
+hospital_k,2023-01-01,ed visits,year,1.7352941176470595,2.068247356616466,19358,1.86,0.71,mean,qvd_ms_anom_la
+hospital_k,2024-01-01,ed visits,year,1.9537037037037048,2.078591637849729,19723,1.85,0.71,mean,qvd_ms_anom_la
+hospital_k,2025-01-01,ed visits,year,1.8924731182795713,2.09650259067357,20089,1.78,0.71,mean,qvd_ms_anom_la
+hospital_k,2026-01-01,ed visits,year,1.571428571428571,1.6382723455308943,20454,1.65,0.71,mean,qvd_ms_anom_la
+hospital_k,2015-01-01,hemoglobin lab results,year,10.018375870069605,7382.418151202557,16436,10.04,11547.55,mean,qvd_ms_anom_la
+hospital_k,2016-01-01,hemoglobin lab results,year,10.028858402743753,1214.057154902403,16801,10.14,11547.55,mean,qvd_ms_anom_la
+hospital_k,2017-01-01,hemoglobin lab results,year,10.45950540958269,7464.497045495237,17167,10.15,11547.55,mean,qvd_ms_anom_la
+hospital_k,2018-01-01,hemoglobin lab results,year,10.036604774535808,3203.359332082685,17532,10.08,11547.55,mean,qvd_ms_anom_la
+hospital_k,2019-01-01,hemoglobin lab results,year,9.702080443828015,3436.2527709556134,17897,9.88,11547.55,mean,qvd_ms_anom_la
+hospital_k,2020-01-01,hemoglobin lab results,year,9.86509433962264,9.511016967563911,18262,9.67,11547.55,mean,qvd_ms_anom_la
+hospital_k,2021-01-01,hemoglobin lab results,year,9.459269044473798,9.506514328015093,18628,9.55,11547.55,mean,qvd_ms_anom_la
+hospital_k,2022-01-01,hemoglobin lab results,year,9.420568636161708,209.67247992950615,18993,9.41,11547.55,mean,qvd_ms_anom_la
+hospital_k,2023-01-01,hemoglobin lab results,year,9.350208623087621,9.482434270272682,19358,9.38,11547.55,mean,qvd_ms_anom_la
+hospital_k,2024-01-01,hemoglobin lab results,year,9.415330624307352,9.335077086030392,19723,9.42,11547.55,mean,qvd_ms_anom_la
+hospital_k,2025-01-01,hemoglobin lab results,year,9.60367672563302,9.422022092726653,20089,9.52,11547.55,mean,qvd_ms_anom_la
+hospital_k,2026-01-01,hemoglobin lab results,year,9.648426573426573,9.464027581662434,20454,9.69,11547.55,mean,qvd_ms_anom_la
+hospital_k,2015-01-01,hydroxyurea dose,year,862.4717607973422,578.7514217854085,16436,872,1216.32,mean,qvd_ms_anom_la
+hospital_k,2016-01-01,hydroxyurea dose,year,892.1978021978018,479.5072268254946,16801,930.67,1216.32,mean,qvd_ms_anom_la
+hospital_k,2017-01-01,hydroxyurea dose,year,1046.6768759571169,478.63719231721484,17167,947.05,1216.32,mean,qvd_ms_anom_la
+hospital_k,2018-01-01,hydroxyurea dose,year,979.4540229885072,486.50649296554303,17532,928.63,1216.32,mean,qvd_ms_anom_la
+hospital_k,2019-01-01,hydroxyurea dose,year,831.0950495049502,397.2030951098356,17897,856.68,1216.32,mean,qvd_ms_anom_la
+hospital_k,2020-01-01,hydroxyurea dose,year,717.8539094650203,469.755352133813,18262,794.4,1216.32,mean,qvd_ms_anom_la
+hospital_k,2021-01-01,hydroxyurea dose,year,887.6585735963572,505.3942265466828,18628,793.66,1216.32,mean,qvd_ms_anom_la
+hospital_k,2022-01-01,hydroxyurea dose,year,778.8989769820971,579.2882223738375,18993,826.39,1216.32,mean,qvd_ms_anom_la
+hospital_k,2023-01-01,hydroxyurea dose,year,859.8734177215204,622.6433865391904,19358,842.24,1216.32,mean,qvd_ms_anom_la
+hospital_k,2024-01-01,hydroxyurea dose,year,873.345211581292,631.0386313113856,19723,891.48,1216.32,mean,qvd_ms_anom_la
+hospital_k,2025-01-01,hydroxyurea dose,year,932.1595394736847,613.9154693474615,20089,969.27,1216.32,mean,qvd_ms_anom_la
+hospital_k,2026-01-01,hydroxyurea dose,year,1101.898734177215,807.92173467873,20454,1076.26,1216.32,mean,qvd_ms_anom_la
+hospital_m,2015-01-01,ed visits,year,2.235294117647059,2.041520056298374,16436,2.05,1.51,mean,qvd_ms_anom_la
+hospital_m,2016-01-01,ed visits,year,1.7826086956521738,2.0861508452535706,16801,2.14,1.51,mean,qvd_ms_anom_la
+hospital_m,2017-01-01,ed visits,year,2.352941176470588,2.0732394366197213,17167,2.23,1.51,mean,qvd_ms_anom_la
+hospital_m,2018-01-01,ed visits,year,2.153846153846154,1.9750154225786487,17532,2.31,1.51,mean,qvd_ms_anom_la
+hospital_m,2019-01-01,ed visits,year,2.7222222222222228,2.0574304322083967,17897,2.38,1.51,mean,qvd_ms_anom_la
+hospital_m,2020-01-01,ed visits,year,2.1333333333333337,1.7991518889745528,18262,2.28,1.51,mean,qvd_ms_anom_la
+hospital_m,2021-01-01,ed visits,year,2.076923076923077,1.919394579373457,18628,2.29,1.51,mean,qvd_ms_anom_la
+hospital_m,2022-01-01,ed visits,year,2.5625,1.9733494851605138,18993,2.32,1.51,mean,qvd_ms_anom_la
+hospital_m,2023-01-01,ed visits,year,2.5294117647058822,2.068247356616466,19358,2.46,1.51,mean,qvd_ms_anom_la
+hospital_m,2024-01-01,ed visits,year,2.190476190476191,2.078591637849729,19723,2.56,1.51,mean,qvd_ms_anom_la
+hospital_m,2025-01-01,ed visits,year,3.130434782608696,2.09650259067357,20089,2.59,1.51,mean,qvd_ms_anom_la
+hospital_m,2026-01-01,ed visits,year,2.3684210526315788,1.6382723455308943,20454,2.59,1.51,mean,qvd_ms_anom_la
+hospital_m,2015-01-01,hemoglobin lab results,year,9.220338983050848,7382.418151202557,16436,9.21,11549.24,mean,qvd_ms_anom_la
+hospital_m,2016-01-01,hemoglobin lab results,year,9.171052631578947,1214.057154902403,16801,9.16,11549.24,mean,qvd_ms_anom_la
+hospital_m,2017-01-01,hemoglobin lab results,year,9.042934782608695,7464.497045495237,17167,9.16,11549.24,mean,qvd_ms_anom_la
+hospital_m,2018-01-01,hemoglobin lab results,year,9.355376344086022,3203.359332082685,17532,9.2,11549.24,mean,qvd_ms_anom_la
+hospital_m,2019-01-01,hemoglobin lab results,year,9.032054176072235,3436.2527709556134,17897,9.31,11549.24,mean,qvd_ms_anom_la
+hospital_m,2020-01-01,hemoglobin lab results,year,9.457647058823529,9.511016967563911,18262,9.39,11549.24,mean,qvd_ms_anom_la
+hospital_m,2021-01-01,hemoglobin lab results,year,9.695253164556963,9.506514328015093,18628,9.31,11549.24,mean,qvd_ms_anom_la
+hospital_m,2022-01-01,hemoglobin lab results,year,8.727591973244147,209.67247992950615,18993,9.19,11549.24,mean,qvd_ms_anom_la
+hospital_m,2023-01-01,hemoglobin lab results,year,9.227077363896848,9.482434270272682,19358,9.15,11549.24,mean,qvd_ms_anom_la
+hospital_m,2024-01-01,hemoglobin lab results,year,9.19949152542373,9.335077086030392,19723,9.13,11549.24,mean,qvd_ms_anom_la
+hospital_m,2025-01-01,hemoglobin lab results,year,9.252230046948357,9.422022092726653,20089,9.13,11549.24,mean,qvd_ms_anom_la
+hospital_m,2026-01-01,hemoglobin lab results,year,9.06919315403423,9.464027581662434,20454,9.16,11549.24,mean,qvd_ms_anom_la
+hospital_m,2015-01-01,hydroxyurea dose,year,0,578.7514217854085,16436,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2016-01-01,hydroxyurea dose,year,0,479.5072268254946,16801,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2017-01-01,hydroxyurea dose,year,0,478.63719231721484,17167,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2018-01-01,hydroxyurea dose,year,0,486.50649296554303,17532,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2019-01-01,hydroxyurea dose,year,0,397.2030951098356,17897,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2020-01-01,hydroxyurea dose,year,0,469.755352133813,18262,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2021-01-01,hydroxyurea dose,year,0,505.3942265466828,18628,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2022-01-01,hydroxyurea dose,year,0,579.2882223738375,18993,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2023-01-01,hydroxyurea dose,year,0,622.6433865391904,19358,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2024-01-01,hydroxyurea dose,year,0,631.0386313113856,19723,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2025-01-01,hydroxyurea dose,year,0,613.9154693474615,20089,0,1953.36,mean,qvd_ms_anom_la
+hospital_m,2026-01-01,hydroxyurea dose,year,0,807.92173467873,20454,0,1953.36,mean,qvd_ms_anom_la

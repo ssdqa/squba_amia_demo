@@ -1,0 +1,4 @@
+site,value_type,outlier_type,total_vals,sd_threshold,n_outlier,prop_outlier,output_function
+combined,ed visits,upper,12509,2,462,0.03693340794627868,qvd_ss_anom_cs
+combined,hemoglobin lab results,upper,830230,2,447,5.384050202955807e-4,qvd_ss_anom_cs
+combined,hydroxyurea dose,upper,362660,2,3316,0.00914355043291237,qvd_ss_anom_cs

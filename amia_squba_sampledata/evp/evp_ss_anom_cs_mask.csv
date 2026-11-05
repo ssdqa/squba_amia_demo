@@ -1,0 +1,11 @@
+concept1,concept2,cocount,concept1_ct,concept2_ct,concept_count_union,jaccard_index,concept1_prop,concept2_prop,grp,output_function
+Hemoglobin Lab,ANC Lab,15350,17421,15552,17623,0.8710208250581626,0.88,0.99,combined,evp_ss_anom_cs
+Hydroxyurea Administration,ANC Lab,2748,2859,15552,15663,0.17544531698908256,0.96,0.18,combined,evp_ss_anom_cs
+Hydroxyurea Administration,Hemoglobin Lab,2785,2859,17421,17495,0.15918833952557873,0.97,0.16,combined,evp_ss_anom_cs
+Hydroxyurea Prescription,ANC Lab,4532,4757,15552,15777,0.2872535970083032,0.95,0.29,combined,evp_ss_anom_cs
+Hydroxyurea Prescription,Hemoglobin Lab,4610,4757,17421,17568,0.26240892531876137,0.97,0.26,combined,evp_ss_anom_cs
+Hydroxyurea Prescription,Hydroxyurea Administration,2462,4757,2859,5154,0.4776872332169189,0.52,0.86,combined,evp_ss_anom_cs
+SS/SB0 Diagnosis,ANC Lab,13037,16109,15552,18624,0.7000107388316151,0.81,0.84,combined,evp_ss_anom_cs
+SS/SB0 Diagnosis,Hemoglobin Lab,14436,16109,17421,19094,0.7560490206347543,0.9,0.83,combined,evp_ss_anom_cs
+SS/SB0 Diagnosis,Hydroxyurea Administration,2833,16109,2859,16135,0.1755810350170437,0.18,0.99,combined,evp_ss_anom_cs
+SS/SB0 Diagnosis,Hydroxyurea Prescription,4681,16109,4757,16185,0.2892184121099784,0.29,0.98,combined,evp_ss_anom_cs

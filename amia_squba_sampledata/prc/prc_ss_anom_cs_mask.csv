@@ -1,0 +1,7 @@
+concept1,concept2,cocount,concept1_ct,concept2_ct,concept_count_union,jaccard_index,concept1_prop,concept2_prop,site,fu_bin,output_function
+SS/SB0 Diagnosis,SCD Associated Pain,703,1720,840,1857,0.37856758212170166,0.41,0.84,combined,"[0,1)",prc_ss_anom_cs
+SS/SB0 Diagnosis,SCD Associated Pain,969,1774,1089,1894,0.5116156282998944,0.55,0.89,combined,"[1,3)",prc_ss_anom_cs
+SS/SB0 Diagnosis,SCD Associated Pain,2730,3705,3039,4014,0.680119581464873,0.74,0.9,combined,"[10,15)",prc_ss_anom_cs
+SS/SB0 Diagnosis,SCD Associated Pain,2494,2992,2657,3155,0.7904912836767036,0.83,0.94,combined,"[15,Inf)",prc_ss_anom_cs
+SS/SB0 Diagnosis,SCD Associated Pain,1083,1689,1192,1798,0.6023359288097887,0.64,0.91,combined,"[3,5)",prc_ss_anom_cs
+SS/SB0 Diagnosis,SCD Associated Pain,2751,4229,2975,4453,0.6177857624073658,0.65,0.92,combined,"[5,10)",prc_ss_anom_cs

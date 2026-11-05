@@ -1,0 +1,37 @@
+site,time_start,time_increment,duplicate_definition,total_rows,duplicate_columns,total_pt,duplicate_rows,duplicate_pt,median_all_with0s,median_all_without0s,median_site_with0s,median_site_without0s,duplicate_row_prop,duplicate_pt_prop,output_function
+combined,2015-01-01,year,duplicate procedures per visit & date,733599,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",9980,338189,4902,8,19,8,19,0.46,0.49,dr_ss_exp_la
+combined,2015-01-01,year,SCD diagnoses without PK,95094,exclude condition_occurrence_id,9980,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2015-01-01,year,Hemoglobin labs without PK,51610,exclude measurement_id,9980,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2016-01-01,year,duplicate procedures per visit & date,694714,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",10629,327448,4854,8,20,8,20,0.47,0.46,dr_ss_exp_la
+combined,2016-01-01,year,SCD diagnoses without PK,95015,exclude condition_occurrence_id,10629,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2016-01-01,year,Hemoglobin labs without PK,51379,exclude measurement_id,10629,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2017-01-01,year,duplicate procedures per visit & date,723291,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",11154,336989,4823,8,20,8,20,0.47,0.43,dr_ss_exp_la
+combined,2017-01-01,year,SCD diagnoses without PK,99170,exclude condition_occurrence_id,11154,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2017-01-01,year,Hemoglobin labs without PK,52376,exclude measurement_id,11154,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2018-01-01,year,duplicate procedures per visit & date,660900,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",11592,301950,4863,6,20,6,20,0.46,0.42,dr_ss_exp_la
+combined,2018-01-01,year,SCD diagnoses without PK,97385,exclude condition_occurrence_id,11592,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2018-01-01,year,Hemoglobin labs without PK,51396,exclude measurement_id,11592,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2019-01-01,year,duplicate procedures per visit & date,708859,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",12018,334028,4932,6,20,6,20,0.47,0.41,dr_ss_exp_la
+combined,2019-01-01,year,SCD diagnoses without PK,100352,exclude condition_occurrence_id,12018,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2019-01-01,year,Hemoglobin labs without PK,54077,exclude measurement_id,12018,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2020-01-01,year,duplicate procedures per visit & date,625302,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",12126,299136,4566,5,18,5,18,0.48,0.38,dr_ss_exp_la
+combined,2020-01-01,year,SCD diagnoses without PK,90319,exclude condition_occurrence_id,12126,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2020-01-01,year,Hemoglobin labs without PK,47047,exclude measurement_id,12126,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2021-01-01,year,duplicate procedures per visit & date,689792,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",12412,315773,4899,6,18,6,18,0.46,0.39,dr_ss_exp_la
+combined,2021-01-01,year,SCD diagnoses without PK,95684,exclude condition_occurrence_id,12412,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2021-01-01,year,Hemoglobin labs without PK,52211,exclude measurement_id,12412,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2022-01-01,year,duplicate procedures per visit & date,746180,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",12560,353679,5141,6,18,6,18,0.47,0.41,dr_ss_exp_la
+combined,2022-01-01,year,SCD diagnoses without PK,98700,exclude condition_occurrence_id,12560,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2022-01-01,year,Hemoglobin labs without PK,50602,exclude measurement_id,12560,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2023-01-01,year,duplicate procedures per visit & date,750171,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",12173,343366,5239,6,17,6,17,0.46,0.43,dr_ss_exp_la
+combined,2023-01-01,year,SCD diagnoses without PK,107042,exclude condition_occurrence_id,12173,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2023-01-01,year,Hemoglobin labs without PK,45333,exclude measurement_id,12173,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2024-01-01,year,duplicate procedures per visit & date,870548,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",12097,392474,5141,6,20,6,20,0.45,0.42,dr_ss_exp_la
+combined,2024-01-01,year,SCD diagnoses without PK,119343,exclude condition_occurrence_id,12097,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2024-01-01,year,Hemoglobin labs without PK,51108,exclude measurement_id,12097,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2025-01-01,year,duplicate procedures per visit & date,927977,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",11246,420092,5137,6,21,6,21,0.45,0.46,dr_ss_exp_la
+combined,2025-01-01,year,SCD diagnoses without PK,128538,exclude condition_occurrence_id,11246,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2025-01-01,year,Hemoglobin labs without PK,51058,exclude measurement_id,11246,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2026-01-01,year,duplicate procedures per visit & date,399446,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",8602,184054,3743,4,13,4,13,0.46,0.44,dr_ss_exp_la
+combined,2026-01-01,year,SCD diagnoses without PK,54121,exclude condition_occurrence_id,8602,0,0,0,0,0,0,0,0,dr_ss_exp_la
+combined,2026-01-01,year,Hemoglobin labs without PK,21286,exclude measurement_id,8602,0,0,0,0,0,0,0,0,dr_ss_exp_la

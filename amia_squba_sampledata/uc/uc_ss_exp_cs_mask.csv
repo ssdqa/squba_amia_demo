@@ -1,0 +1,5 @@
+site,variable,total_rows,total_pt,unmapped_rows,unmapped_pt,median_all_with0s,median_all_without0s,median_site_with0s,median_site_without0s,unmapped_row_prop,unmapped_pt_prop,output_function
+combined,hydroxyurea dose,362660,20455,84418,4619,2,5,2,5,0.23,0.23,uc_ss_exp_cs
+combined,hemoglobin unit,830230,20455,5033,1209,0,1,0,1,0.01,0.06,uc_ss_exp_cs
+combined,conditions,8619460,20455,263204,6813,0,7,0,7,0.03,0.33,uc_ss_exp_cs
+combined,procedures,16473119,20455,2325924,11415,3,32,3,32,0.14,0.56,uc_ss_exp_cs

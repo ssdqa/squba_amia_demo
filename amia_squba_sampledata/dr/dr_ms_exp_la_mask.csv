@@ -1,0 +1,361 @@
+site,time_start,time_increment,duplicate_definition,total_rows,duplicate_columns,total_pt,duplicate_rows,duplicate_pt,median_all_with0s,median_all_without0s,median_site_with0s,median_site_without0s,duplicate_row_prop,duplicate_pt_prop,output_function
+hospital_f,1/1/15,year,duplicate procedures per visit & date,94594,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1682,49608,363,8,19,0,12,0.52,0.22,dr_ms_exp_la
+hospital_k,1/1/15,year,duplicate procedures per visit & date,29835,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",292,3650,111,8,19,0,10,0.12,0.38,dr_ms_exp_la
+hospital_a,1/1/15,year,duplicate procedures per visit & date,44521,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1425,11398,538,8,19,2,8,0.26,0.38,dr_ms_exp_la
+hospital_d,1/1/15,year,duplicate procedures per visit & date,247269,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2174,152874,1627,8,19,29,31,0.62,0.75,dr_ms_exp_la
+hospital_b,1/1/15,year,duplicate procedures per visit & date,18267,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",157,1124,97,8,19,4,8,0.06,0.62,dr_ms_exp_la
+hospital_c,1/1/15,year,duplicate procedures per visit & date,88797,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",848,40222,597,8,19,27.5,29,0.45,0.7,dr_ms_exp_la
+hospital_e,1/1/15,year,duplicate procedures per visit & date,1099,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1050,0,0,8,19,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/15,year,duplicate procedures per visit & date,153947,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1629,43833,1107,8,19,10,12,0.28,0.68,dr_ms_exp_la
+hospital_m,1/1/15,year,duplicate procedures per visit & date,3353,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",106,425,38,8,19,2,6,0.13,0.36,dr_ms_exp_la
+hospital_h,1/1/15,year,duplicate procedures per visit & date,51917,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",617,35055,424,8,19,24,27,0.68,0.69,dr_ms_exp_la
+hospital_k,1/1/15,year,SCD diagnoses without PK,3523,exclude condition_occurrence_id,292,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/15,year,SCD diagnoses without PK,3692,exclude condition_occurrence_id,1682,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/15,year,SCD diagnoses without PK,10006,exclude condition_occurrence_id,1425,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/15,year,SCD diagnoses without PK,19358,exclude condition_occurrence_id,2174,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/15,year,SCD diagnoses without PK,2184,exclude condition_occurrence_id,157,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/15,year,SCD diagnoses without PK,4175,exclude condition_occurrence_id,1050,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/15,year,SCD diagnoses without PK,7001,exclude condition_occurrence_id,848,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/15,year,SCD diagnoses without PK,32803,exclude condition_occurrence_id,1629,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/15,year,SCD diagnoses without PK,1805,exclude condition_occurrence_id,106,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/15,year,SCD diagnoses without PK,10547,exclude condition_occurrence_id,617,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/15,year,Hemoglobin labs without PK,2478,exclude measurement_id,617,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/15,year,Hemoglobin labs without PK,531,exclude measurement_id,106,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/15,year,Hemoglobin labs without PK,11080,exclude measurement_id,1629,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/15,year,Hemoglobin labs without PK,921,exclude measurement_id,157,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/15,year,Hemoglobin labs without PK,6932,exclude measurement_id,848,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/15,year,Hemoglobin labs without PK,7329,exclude measurement_id,1050,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/15,year,Hemoglobin labs without PK,10642,exclude measurement_id,2174,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/15,year,Hemoglobin labs without PK,4374,exclude measurement_id,1682,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/15,year,Hemoglobin labs without PK,2155,exclude measurement_id,292,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/15,year,Hemoglobin labs without PK,5168,exclude measurement_id,1425,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/16,year,duplicate procedures per visit & date,13784,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",175,1150,109,8,20,4,8,0.08,0.62,dr_ms_exp_la
+hospital_c,1/1/16,year,duplicate procedures per visit & date,73141,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",873,35455,579,8,20,27,31,0.48,0.66,dr_ms_exp_la
+hospital_e,1/1/16,year,duplicate procedures per visit & date,1380,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1273,0,0,8,20,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/16,year,duplicate procedures per visit & date,27667,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",302,3285,136,8,20,2,9,0.12,0.45,dr_ms_exp_la
+hospital_a,1/1/16,year,duplicate procedures per visit & date,48149,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1448,11678,516,8,20,2,9,0.24,0.36,dr_ms_exp_la
+hospital_m,1/1/16,year,duplicate procedures per visit & date,3363,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",119,274,25,8,20,0,4,0.08,0.21,dr_ms_exp_la
+hospital_d,1/1/16,year,duplicate procedures per visit & date,224539,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2187,140384,1579,8,20,28,29,0.63,0.72,dr_ms_exp_la
+hospital_f,1/1/16,year,duplicate procedures per visit & date,104409,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1911,55696,397,8,20,0,24,0.53,0.21,dr_ms_exp_la
+hospital_g,1/1/16,year,duplicate procedures per visit & date,143709,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1728,41362,1078,8,20,10.5,13,0.29,0.62,dr_ms_exp_la
+hospital_h,1/1/16,year,duplicate procedures per visit & date,54573,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",613,38164,435,8,20,31.5,35,0.7,0.71,dr_ms_exp_la
+hospital_h,1/1/16,year,SCD diagnoses without PK,10960,exclude condition_occurrence_id,613,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/16,year,SCD diagnoses without PK,30470,exclude condition_occurrence_id,1728,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/16,year,SCD diagnoses without PK,6028,exclude condition_occurrence_id,873,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/16,year,SCD diagnoses without PK,3762,exclude condition_occurrence_id,302,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/16,year,SCD diagnoses without PK,8180,exclude condition_occurrence_id,1273,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/16,year,SCD diagnoses without PK,2971,exclude condition_occurrence_id,175,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/16,year,SCD diagnoses without PK,3963,exclude condition_occurrence_id,1911,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/16,year,SCD diagnoses without PK,16045,exclude condition_occurrence_id,2187,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/16,year,SCD diagnoses without PK,1779,exclude condition_occurrence_id,119,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/16,year,SCD diagnoses without PK,10857,exclude condition_occurrence_id,1448,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/16,year,Hemoglobin labs without PK,757,exclude measurement_id,175,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/16,year,Hemoglobin labs without PK,2439,exclude measurement_id,613,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/16,year,Hemoglobin labs without PK,10518,exclude measurement_id,1728,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/16,year,Hemoglobin labs without PK,646,exclude measurement_id,119,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/16,year,Hemoglobin labs without PK,9702,exclude measurement_id,2187,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/16,year,Hemoglobin labs without PK,4710,exclude measurement_id,1911,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/16,year,Hemoglobin labs without PK,5585,exclude measurement_id,1448,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/16,year,Hemoglobin labs without PK,5960,exclude measurement_id,873,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/16,year,Hemoglobin labs without PK,9021,exclude measurement_id,1273,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/16,year,Hemoglobin labs without PK,2041,exclude measurement_id,302,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/17,year,duplicate procedures per visit & date,57375,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",651,41233,440,8,20,32,35,0.72,0.68,dr_ms_exp_la
+hospital_d,1/1/17,year,duplicate procedures per visit & date,205514,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2227,123730,1539,8,20,26,27,0.6,0.69,dr_ms_exp_la
+hospital_e,1/1/17,year,duplicate procedures per visit & date,1569,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1388,0,0,8,20,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/17,year,duplicate procedures per visit & date,165674,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1829,50697,1119,8,20,12,14,0.31,0.61,dr_ms_exp_la
+hospital_f,1/1/17,year,duplicate procedures per visit & date,115291,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2067,63480,354,8,20,0,47,0.55,0.17,dr_ms_exp_la
+hospital_b,1/1/17,year,duplicate procedures per visit & date,14019,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",185,1438,120,8,20,4,7.5,0.1,0.65,dr_ms_exp_la
+hospital_c,1/1/17,year,duplicate procedures per visit & date,83443,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",900,39335,585,8,20,30,31,0.47,0.65,dr_ms_exp_la
+hospital_a,1/1/17,year,duplicate procedures per visit & date,52102,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1476,14383,510,8,20,2,10,0.28,0.35,dr_ms_exp_la
+hospital_m,1/1/17,year,duplicate procedures per visit & date,2686,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",124,205,26,8,20,0,4,0.08,0.21,dr_ms_exp_la
+hospital_k,1/1/17,year,duplicate procedures per visit & date,25618,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",307,2486,129,8,20,2,6,0.1,0.42,dr_ms_exp_la
+hospital_a,1/1/17,year,SCD diagnoses without PK,10351,exclude condition_occurrence_id,1476,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/17,year,SCD diagnoses without PK,3697,exclude condition_occurrence_id,307,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/17,year,SCD diagnoses without PK,5766,exclude condition_occurrence_id,900,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/17,year,SCD diagnoses without PK,1733,exclude condition_occurrence_id,124,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/17,year,SCD diagnoses without PK,3683,exclude condition_occurrence_id,185,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/17,year,SCD diagnoses without PK,4470,exclude condition_occurrence_id,2067,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/17,year,SCD diagnoses without PK,7840,exclude condition_occurrence_id,1388,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/17,year,SCD diagnoses without PK,34423,exclude condition_occurrence_id,1829,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/17,year,SCD diagnoses without PK,11141,exclude condition_occurrence_id,651,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/17,year,SCD diagnoses without PK,16066,exclude condition_occurrence_id,2227,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/17,year,Hemoglobin labs without PK,10876,exclude measurement_id,1829,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/17,year,Hemoglobin labs without PK,8794,exclude measurement_id,1388,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/17,year,Hemoglobin labs without PK,2634,exclude measurement_id,651,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/17,year,Hemoglobin labs without PK,9012,exclude measurement_id,2227,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/17,year,Hemoglobin labs without PK,5675,exclude measurement_id,1476,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/17,year,Hemoglobin labs without PK,1941,exclude measurement_id,307,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/17,year,Hemoglobin labs without PK,6968,exclude measurement_id,900,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/17,year,Hemoglobin labs without PK,552,exclude measurement_id,124,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/17,year,Hemoglobin labs without PK,5113,exclude measurement_id,2067,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/17,year,Hemoglobin labs without PK,811,exclude measurement_id,185,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/18,year,duplicate procedures per visit & date,4008,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",130,1011,14,6,20,0,4.5,0.25,0.11,dr_ms_exp_la
+hospital_f,1/1/18,year,duplicate procedures per visit & date,106008,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2243,50921,337,6,20,0,36,0.48,0.15,dr_ms_exp_la
+hospital_d,1/1/18,year,duplicate procedures per visit & date,185080,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2212,112287,1553,6,20,25,26,0.61,0.7,dr_ms_exp_la
+hospital_g,1/1/18,year,duplicate procedures per visit & date,153847,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1916,47328,1145,6,20,11,14,0.31,0.6,dr_ms_exp_la
+hospital_k,1/1/18,year,duplicate procedures per visit & date,27060,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",336,1873,109,6,20,0,4,0.07,0.32,dr_ms_exp_la
+hospital_b,1/1/18,year,duplicate procedures per visit & date,15290,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",190,1624,124,6,20,6,8,0.11,0.65,dr_ms_exp_la
+hospital_c,1/1/18,year,duplicate procedures per visit & date,64971,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",915,32476,562,6,20,27,29,0.5,0.61,dr_ms_exp_la
+hospital_h,1/1/18,year,duplicate procedures per visit & date,48247,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",650,36912,435,6,20,33,35,0.77,0.67,dr_ms_exp_la
+hospital_a,1/1/18,year,duplicate procedures per visit & date,54405,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1499,17516,583,6,20,2,8,0.32,0.39,dr_ms_exp_la
+hospital_e,1/1/18,year,duplicate procedures per visit & date,1984,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1501,0,0,6,20,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/18,year,SCD diagnoses without PK,15548,exclude condition_occurrence_id,2212,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/18,year,SCD diagnoses without PK,34821,exclude condition_occurrence_id,1916,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/18,year,SCD diagnoses without PK,10258,exclude condition_occurrence_id,650,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/18,year,SCD diagnoses without PK,5113,exclude condition_occurrence_id,915,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/18,year,SCD diagnoses without PK,4037,exclude condition_occurrence_id,336,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/18,year,SCD diagnoses without PK,3836,exclude condition_occurrence_id,190,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/18,year,SCD diagnoses without PK,9174,exclude condition_occurrence_id,1499,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/18,year,SCD diagnoses without PK,8007,exclude condition_occurrence_id,1501,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/18,year,SCD diagnoses without PK,1801,exclude condition_occurrence_id,130,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/18,year,SCD diagnoses without PK,4790,exclude condition_occurrence_id,2243,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/18,year,Hemoglobin labs without PK,5023,exclude measurement_id,2243,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/18,year,Hemoglobin labs without PK,744,exclude measurement_id,130,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/18,year,Hemoglobin labs without PK,8363,exclude measurement_id,2212,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/18,year,Hemoglobin labs without PK,10642,exclude measurement_id,1916,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/18,year,Hemoglobin labs without PK,832,exclude measurement_id,190,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/18,year,Hemoglobin labs without PK,2264,exclude measurement_id,336,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/18,year,Hemoglobin labs without PK,2533,exclude measurement_id,650,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/18,year,Hemoglobin labs without PK,6132,exclude measurement_id,915,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/18,year,Hemoglobin labs without PK,5861,exclude measurement_id,1499,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/18,year,Hemoglobin labs without PK,9002,exclude measurement_id,1501,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/19,year,duplicate procedures per visit & date,18538,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",207,1690,138,6,20,5,8,0.09,0.67,dr_ms_exp_la
+hospital_g,1/1/19,year,duplicate procedures per visit & date,167718,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2057,51979,1217,6,20,12,14,0.31,0.59,dr_ms_exp_la
+hospital_a,1/1/19,year,duplicate procedures per visit & date,44759,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1538,12099,608,6,20,2,7.5,0.27,0.4,dr_ms_exp_la
+hospital_m,1/1/19,year,duplicate procedures per visit & date,2151,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",147,197,20,6,20,0,4,0.09,0.14,dr_ms_exp_la
+hospital_d,1/1/19,year,duplicate procedures per visit & date,205734,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2161,126261,1507,6,20,26,28,0.61,0.7,dr_ms_exp_la
+hospital_f,1/1/19,year,duplicate procedures per visit & date,114845,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2345,60016,351,6,20,0,40,0.52,0.15,dr_ms_exp_la
+hospital_e,1/1/19,year,duplicate procedures per visit & date,2108,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1600,0,0,6,20,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/19,year,duplicate procedures per visit & date,68909,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",947,34566,543,6,20,33,35,0.5,0.57,dr_ms_exp_la
+hospital_h,1/1/19,year,duplicate procedures per visit & date,58469,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",674,45423,448,6,20,34,39,0.78,0.66,dr_ms_exp_la
+hospital_k,1/1/19,year,duplicate procedures per visit & date,25628,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",342,1795,99,6,20,0,6,0.07,0.29,dr_ms_exp_la
+hospital_b,1/1/19,year,SCD diagnoses without PK,3462,exclude condition_occurrence_id,207,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/19,year,SCD diagnoses without PK,8788,exclude condition_occurrence_id,1600,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/19,year,SCD diagnoses without PK,11279,exclude condition_occurrence_id,674,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/19,year,SCD diagnoses without PK,5366,exclude condition_occurrence_id,947,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/19,year,SCD diagnoses without PK,3510,exclude condition_occurrence_id,342,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/19,year,SCD diagnoses without PK,15499,exclude condition_occurrence_id,2161,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/19,year,SCD diagnoses without PK,9082,exclude condition_occurrence_id,1538,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/19,year,SCD diagnoses without PK,36220,exclude condition_occurrence_id,2057,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/19,year,SCD diagnoses without PK,1704,exclude condition_occurrence_id,147,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/19,year,SCD diagnoses without PK,5442,exclude condition_occurrence_id,2345,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/19,year,Hemoglobin labs without PK,1021,exclude measurement_id,207,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/19,year,Hemoglobin labs without PK,443,exclude measurement_id,147,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/19,year,Hemoglobin labs without PK,5055,exclude measurement_id,1538,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/19,year,Hemoglobin labs without PK,11620,exclude measurement_id,2057,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/19,year,Hemoglobin labs without PK,8832,exclude measurement_id,2161,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/19,year,Hemoglobin labs without PK,5318,exclude measurement_id,2345,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/19,year,Hemoglobin labs without PK,10299,exclude measurement_id,1600,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/19,year,Hemoglobin labs without PK,6561,exclude measurement_id,947,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/19,year,Hemoglobin labs without PK,2765,exclude measurement_id,674,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/19,year,Hemoglobin labs without PK,2163,exclude measurement_id,342,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/20,year,duplicate procedures per visit & date,16776,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",212,1314,118,5,18,3.5,6,0.08,0.56,dr_ms_exp_la
+hospital_c,1/1/20,year,duplicate procedures per visit & date,59797,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",962,29859,510,5,18,27,28.5,0.5,0.53,dr_ms_exp_la
+hospital_h,1/1/20,year,duplicate procedures per visit & date,57189,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",681,44258,430,5,18,29,34,0.77,0.63,dr_ms_exp_la
+hospital_m,1/1/20,year,duplicate procedures per visit & date,2729,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",152,243,21,5,18,0,4,0.09,0.14,dr_ms_exp_la
+hospital_f,1/1/20,year,duplicate procedures per visit & date,98543,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2328,55076,250,5,18,0,43,0.56,0.11,dr_ms_exp_la
+hospital_e,1/1/20,year,duplicate procedures per visit & date,2364,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1604,104,14,5,18,0,5,0.04,0.01,dr_ms_exp_la
+hospital_a,1/1/20,year,duplicate procedures per visit & date,36706,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1586,8874,589,5,18,2,5,0.24,0.37,dr_ms_exp_la
+hospital_k,1/1/20,year,duplicate procedures per visit & date,14965,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",339,1448,87,5,18,0,6,0.1,0.26,dr_ms_exp_la
+hospital_d,1/1/20,year,duplicate procedures per visit & date,188614,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2134,115283,1397,5,18,24,26,0.61,0.65,dr_ms_exp_la
+hospital_g,1/1/20,year,duplicate procedures per visit & date,147619,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2128,42677,1150,5,18,8,10,0.29,0.54,dr_ms_exp_la
+hospital_a,1/1/20,year,SCD diagnoses without PK,8878,exclude condition_occurrence_id,1586,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/20,year,SCD diagnoses without PK,3012,exclude condition_occurrence_id,339,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/20,year,SCD diagnoses without PK,7672,exclude condition_occurrence_id,1604,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/20,year,SCD diagnoses without PK,1823,exclude condition_occurrence_id,152,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/20,year,SCD diagnoses without PK,4658,exclude condition_occurrence_id,2328,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/20,year,SCD diagnoses without PK,10232,exclude condition_occurrence_id,681,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/20,year,SCD diagnoses without PK,3041,exclude condition_occurrence_id,212,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/20,year,SCD diagnoses without PK,4781,exclude condition_occurrence_id,962,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/20,year,SCD diagnoses without PK,31737,exclude condition_occurrence_id,2128,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/20,year,SCD diagnoses without PK,14485,exclude condition_occurrence_id,2134,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/20,year,Hemoglobin labs without PK,2851,exclude measurement_id,681,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/20,year,Hemoglobin labs without PK,928,exclude measurement_id,212,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/20,year,Hemoglobin labs without PK,5144,exclude measurement_id,962,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/20,year,Hemoglobin labs without PK,4238,exclude measurement_id,1586,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/20,year,Hemoglobin labs without PK,8293,exclude measurement_id,1604,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/20,year,Hemoglobin labs without PK,1696,exclude measurement_id,339,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/20,year,Hemoglobin labs without PK,4602,exclude measurement_id,2328,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/20,year,Hemoglobin labs without PK,425,exclude measurement_id,152,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/20,year,Hemoglobin labs without PK,7654,exclude measurement_id,2134,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/20,year,Hemoglobin labs without PK,11216,exclude measurement_id,2128,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/21,year,duplicate procedures per visit & date,48315,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1659,11558,647,6,18,2,6,0.24,0.39,dr_ms_exp_la
+hospital_b,1/1/21,year,duplicate procedures per visit & date,17843,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",215,1780,132,6,18,4,8,0.1,0.61,dr_ms_exp_la
+hospital_c,1/1/21,year,duplicate procedures per visit & date,70656,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",986,34515,523,6,18,27,31,0.49,0.53,dr_ms_exp_la
+hospital_h,1/1/21,year,duplicate procedures per visit & date,66155,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",718,51838,482,6,18,36,41.5,0.78,0.67,dr_ms_exp_la
+hospital_e,1/1/21,year,duplicate procedures per visit & date,2865,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1646,128,33,6,18,0,2,0.04,0.02,dr_ms_exp_la
+hospital_m,1/1/21,year,duplicate procedures per visit & date,2242,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",158,200,16,6,18,0,4,0.09,0.1,dr_ms_exp_la
+hospital_k,1/1/21,year,duplicate procedures per visit & date,16534,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",345,1820,121,6,18,2,6,0.11,0.35,dr_ms_exp_la
+hospital_g,1/1/21,year,duplicate procedures per visit & date,185180,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2235,54378,1267,6,18,10,12,0.29,0.57,dr_ms_exp_la
+hospital_d,1/1/21,year,duplicate procedures per visit & date,179560,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2119,106531,1422,6,18,24,27,0.59,0.67,dr_ms_exp_la
+hospital_f,1/1/21,year,duplicate procedures per visit & date,100442,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2331,53025,256,6,18,0,73,0.53,0.11,dr_ms_exp_la
+hospital_a,1/1/21,year,SCD diagnoses without PK,9681,exclude condition_occurrence_id,1659,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/21,year,SCD diagnoses without PK,2454,exclude condition_occurrence_id,215,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/21,year,SCD diagnoses without PK,5075,exclude condition_occurrence_id,986,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/21,year,SCD diagnoses without PK,3576,exclude condition_occurrence_id,345,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/21,year,SCD diagnoses without PK,6612,exclude condition_occurrence_id,1646,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/21,year,SCD diagnoses without PK,1694,exclude condition_occurrence_id,158,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/21,year,SCD diagnoses without PK,4768,exclude condition_occurrence_id,2331,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/21,year,SCD diagnoses without PK,16603,exclude condition_occurrence_id,2119,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/21,year,SCD diagnoses without PK,33110,exclude condition_occurrence_id,2235,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/21,year,SCD diagnoses without PK,12111,exclude condition_occurrence_id,718,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/21,year,Hemoglobin labs without PK,9272,exclude measurement_id,1646,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/21,year,Hemoglobin labs without PK,316,exclude measurement_id,158,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/21,year,Hemoglobin labs without PK,2271,exclude measurement_id,345,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/21,year,Hemoglobin labs without PK,5705,exclude measurement_id,986,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/21,year,Hemoglobin labs without PK,5541,exclude measurement_id,1659,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/21,year,Hemoglobin labs without PK,1050,exclude measurement_id,215,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/21,year,Hemoglobin labs without PK,3332,exclude measurement_id,718,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/21,year,Hemoglobin labs without PK,13051,exclude measurement_id,2235,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/21,year,Hemoglobin labs without PK,7229,exclude measurement_id,2119,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/21,year,Hemoglobin labs without PK,4444,exclude measurement_id,2331,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/22,year,duplicate procedures per visit & date,3910,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",163,436,17,6,18,0,6,0.11,0.1,dr_ms_exp_la
+hospital_c,1/1/22,year,duplicate procedures per visit & date,59071,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1003,30796,537,6,18,28,29,0.52,0.54,dr_ms_exp_la
+hospital_h,1/1/22,year,duplicate procedures per visit & date,59109,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",697,45419,493,6,18,34,39,0.77,0.71,dr_ms_exp_la
+hospital_b,1/1/22,year,duplicate procedures per visit & date,17681,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",232,1946,150,6,18,4,8,0.11,0.65,dr_ms_exp_la
+hospital_k,1/1/22,year,duplicate procedures per visit & date,15756,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",348,1902,119,6,18,0,6,0.12,0.34,dr_ms_exp_la
+hospital_e,1/1/22,year,duplicate procedures per visit & date,3393,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1665,107,23,6,18,0,4,0.03,0.01,dr_ms_exp_la
+hospital_a,1/1/22,year,duplicate procedures per visit & date,52994,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1729,12842,723,6,18,4,6,0.24,0.42,dr_ms_exp_la
+hospital_g,1/1/22,year,duplicate procedures per visit & date,194380,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2351,57307,1407,6,18,10,12,0.29,0.6,dr_ms_exp_la
+hospital_d,1/1/22,year,duplicate procedures per visit & date,191013,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2095,111779,1388,6,18,25,28,0.59,0.66,dr_ms_exp_la
+hospital_f,1/1/22,year,duplicate procedures per visit & date,148873,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2277,91145,284,6,18,0,74,0.61,0.12,dr_ms_exp_la
+hospital_h,1/1/22,year,SCD diagnoses without PK,12145,exclude condition_occurrence_id,697,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/22,year,SCD diagnoses without PK,4820,exclude condition_occurrence_id,1003,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/22,year,SCD diagnoses without PK,3986,exclude condition_occurrence_id,348,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/22,year,SCD diagnoses without PK,2834,exclude condition_occurrence_id,232,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/22,year,SCD diagnoses without PK,2325,exclude condition_occurrence_id,163,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/22,year,SCD diagnoses without PK,17816,exclude condition_occurrence_id,2095,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/22,year,SCD diagnoses without PK,5810,exclude condition_occurrence_id,2277,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/22,year,SCD diagnoses without PK,8455,exclude condition_occurrence_id,1665,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/22,year,SCD diagnoses without PK,9816,exclude condition_occurrence_id,1729,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/22,year,SCD diagnoses without PK,30693,exclude condition_occurrence_id,2351,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/22,year,Hemoglobin labs without PK,598,exclude measurement_id,163,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/22,year,Hemoglobin labs without PK,6979,exclude measurement_id,1665,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/22,year,Hemoglobin labs without PK,13044,exclude measurement_id,2351,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/22,year,Hemoglobin labs without PK,5645,exclude measurement_id,1729,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/22,year,Hemoglobin labs without PK,7966,exclude measurement_id,2095,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/22,year,Hemoglobin labs without PK,4793,exclude measurement_id,2277,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/22,year,Hemoglobin labs without PK,2251,exclude measurement_id,348,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/22,year,Hemoglobin labs without PK,3000,exclude measurement_id,697,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/22,year,Hemoglobin labs without PK,5183,exclude measurement_id,1003,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/22,year,Hemoglobin labs without PK,1143,exclude measurement_id,232,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/23,year,duplicate procedures per visit & date,142519,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2188,84450,305,6,17,0,80,0.59,0.14,dr_ms_exp_la
+hospital_d,1/1/23,year,duplicate procedures per visit & date,192238,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2025,105240,1385,6,17,23,27,0.55,0.68,dr_ms_exp_la
+hospital_a,1/1/23,year,duplicate procedures per visit & date,61003,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1671,16046,790,6,17,4,7,0.26,0.47,dr_ms_exp_la
+hospital_b,1/1/23,year,duplicate procedures per visit & date,21309,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",233,2641,152,6,17,6,8,0.12,0.65,dr_ms_exp_la
+hospital_g,1/1/23,year,duplicate procedures per visit & date,185265,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2226,53833,1398,6,17,8,12,0.29,0.63,dr_ms_exp_la
+hospital_m,1/1/23,year,duplicate procedures per visit & date,3947,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",164,521,25,6,17,0,6,0.13,0.15,dr_ms_exp_la
+hospital_e,1/1/23,year,duplicate procedures per visit & date,3105,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1661,176,26,6,17,0,4,0.06,0.02,dr_ms_exp_la
+hospital_c,1/1/23,year,duplicate procedures per visit & date,56556,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",966,30306,529,6,17,30,31,0.54,0.55,dr_ms_exp_la
+hospital_h,1/1/23,year,duplicate procedures per visit & date,62440,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",703,46914,496,6,17,28.5,34.5,0.75,0.71,dr_ms_exp_la
+hospital_k,1/1/23,year,duplicate procedures per visit & date,21789,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",336,3239,133,6,17,2,6,0.15,0.4,dr_ms_exp_la
+hospital_f,1/1/23,year,SCD diagnoses without PK,6419,exclude condition_occurrence_id,2188,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/23,year,SCD diagnoses without PK,10664,exclude condition_occurrence_id,1671,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/23,year,SCD diagnoses without PK,21094,exclude condition_occurrence_id,2025,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/23,year,SCD diagnoses without PK,9448,exclude condition_occurrence_id,1661,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/23,year,SCD diagnoses without PK,3947,exclude condition_occurrence_id,233,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/23,year,SCD diagnoses without PK,31636,exclude condition_occurrence_id,2226,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/23,year,SCD diagnoses without PK,2527,exclude condition_occurrence_id,164,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/23,year,SCD diagnoses without PK,11570,exclude condition_occurrence_id,703,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/23,year,SCD diagnoses without PK,5444,exclude condition_occurrence_id,966,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/23,year,SCD diagnoses without PK,4293,exclude condition_occurrence_id,336,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/23,year,Hemoglobin labs without PK,12477,exclude measurement_id,2226,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/23,year,Hemoglobin labs without PK,1340,exclude measurement_id,233,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/23,year,Hemoglobin labs without PK,698,exclude measurement_id,164,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/23,year,Hemoglobin labs without PK,775,exclude measurement_id,1661,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/23,year,Hemoglobin labs without PK,5067,exclude measurement_id,2188,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/23,year,Hemoglobin labs without PK,6433,exclude measurement_id,1671,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/23,year,Hemoglobin labs without PK,7539,exclude measurement_id,2025,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/23,year,Hemoglobin labs without PK,2877,exclude measurement_id,336,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/23,year,Hemoglobin labs without PK,3126,exclude measurement_id,703,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/23,year,Hemoglobin labs without PK,5001,exclude measurement_id,966,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/24,year,duplicate procedures per visit & date,139861,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2167,80431,346,6,20,0,97,0.58,0.16,dr_ms_exp_la
+hospital_b,1/1/24,year,duplicate procedures per visit & date,25668,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",233,3200,150,6,20,7,11,0.12,0.64,dr_ms_exp_la
+hospital_c,1/1/24,year,duplicate procedures per visit & date,62917,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",969,33644,534,6,20,32,32,0.53,0.55,dr_ms_exp_la
+hospital_m,1/1/24,year,duplicate procedures per visit & date,3385,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",166,488,20,6,20,0,6,0.14,0.12,dr_ms_exp_la
+hospital_a,1/1/24,year,duplicate procedures per visit & date,65355,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1722,19175,834,6,20,4,8,0.29,0.48,dr_ms_exp_la
+hospital_d,1/1/24,year,duplicate procedures per visit & date,256544,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1911,144750,1390,6,20,25,29,0.56,0.73,dr_ms_exp_la
+hospital_e,1/1/24,year,duplicate procedures per visit & date,3222,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1674,120,17,6,20,0,6,0.04,0.01,dr_ms_exp_la
+hospital_k,1/1/24,year,duplicate procedures per visit & date,21523,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",332,3662,149,6,20,2,6,0.17,0.45,dr_ms_exp_la
+hospital_h,1/1/24,year,duplicate procedures per visit & date,59419,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",690,43291,488,6,20,32,37,0.73,0.71,dr_ms_exp_la
+hospital_g,1/1/24,year,duplicate procedures per visit & date,232654,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2233,63713,1213,6,20,6,16,0.27,0.54,dr_ms_exp_la
+hospital_g,1/1/24,year,SCD diagnoses without PK,36254,exclude condition_occurrence_id,2233,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/24,year,SCD diagnoses without PK,12184,exclude condition_occurrence_id,690,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/24,year,SCD diagnoses without PK,10089,exclude condition_occurrence_id,1674,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/24,year,SCD diagnoses without PK,4932,exclude condition_occurrence_id,332,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/24,year,SCD diagnoses without PK,11397,exclude condition_occurrence_id,1722,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/24,year,SCD diagnoses without PK,24999,exclude condition_occurrence_id,1911,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/24,year,SCD diagnoses without PK,7294,exclude condition_occurrence_id,2167,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/24,year,SCD diagnoses without PK,4217,exclude condition_occurrence_id,233,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/24,year,SCD diagnoses without PK,5299,exclude condition_occurrence_id,969,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/24,year,SCD diagnoses without PK,2678,exclude condition_occurrence_id,166,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/24,year,Hemoglobin labs without PK,3054,exclude measurement_id,690,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/24,year,Hemoglobin labs without PK,15040,exclude measurement_id,2233,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/24,year,Hemoglobin labs without PK,590,exclude measurement_id,166,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/24,year,Hemoglobin labs without PK,5833,exclude measurement_id,969,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/24,year,Hemoglobin labs without PK,1646,exclude measurement_id,233,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/24,year,Hemoglobin labs without PK,5819,exclude measurement_id,2167,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/24,year,Hemoglobin labs without PK,9087,exclude measurement_id,1911,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/24,year,Hemoglobin labs without PK,6183,exclude measurement_id,1722,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/24,year,Hemoglobin labs without PK,2707,exclude measurement_id,332,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/24,year,Hemoglobin labs without PK,1149,exclude measurement_id,1674,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/25,year,duplicate procedures per visit & date,75402,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1621,22046,836,6,21,4,8,0.29,0.52,dr_ms_exp_la
+hospital_e,1/1/25,year,duplicate procedures per visit & date,3438,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1590,221,32,6,21,0,3.5,0.06,0.02,dr_ms_exp_la
+hospital_b,1/1/25,year,duplicate procedures per visit & date,33733,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",245,4078,178,6,21,7,12,0.12,0.73,dr_ms_exp_la
+hospital_h,1/1/25,year,duplicate procedures per visit & date,79713,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",663,62628,507,6,21,42,49,0.79,0.76,dr_ms_exp_la
+hospital_c,1/1/25,year,duplicate procedures per visit & date,57836,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",818,31300,525,6,21,30,31,0.54,0.64,dr_ms_exp_la
+hospital_g,1/1/25,year,duplicate procedures per visit & date,221461,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2025,61300,1163,6,21,6,12,0.28,0.57,dr_ms_exp_la
+hospital_k,1/1/25,year,duplicate procedures per visit & date,29569,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",316,5142,162,6,21,2,6,0.17,0.51,dr_ms_exp_la
+hospital_f,1/1/25,year,duplicate procedures per visit & date,147318,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",2084,77912,336,6,21,0,86,0.53,0.16,dr_ms_exp_la
+hospital_m,1/1/25,year,duplicate procedures per visit & date,4855,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",149,481,24,6,21,0,6,0.1,0.16,dr_ms_exp_la
+hospital_d,1/1/25,year,duplicate procedures per visit & date,274652,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1735,154976,1374,6,21,29,33,0.56,0.79,dr_ms_exp_la
+hospital_e,1/1/25,year,SCD diagnoses without PK,10483,exclude condition_occurrence_id,1590,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/25,year,SCD diagnoses without PK,4942,exclude condition_occurrence_id,245,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/25,year,SCD diagnoses without PK,13762,exclude condition_occurrence_id,1621,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/25,year,SCD diagnoses without PK,13926,exclude condition_occurrence_id,663,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/25,year,SCD diagnoses without PK,5891,exclude condition_occurrence_id,316,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/25,year,SCD diagnoses without PK,5269,exclude condition_occurrence_id,818,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/25,year,SCD diagnoses without PK,35054,exclude condition_occurrence_id,2025,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/25,year,SCD diagnoses without PK,28437,exclude condition_occurrence_id,1735,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/25,year,SCD diagnoses without PK,2963,exclude condition_occurrence_id,149,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/25,year,SCD diagnoses without PK,7811,exclude condition_occurrence_id,2084,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/25,year,Hemoglobin labs without PK,6602,exclude measurement_id,1621,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/25,year,Hemoglobin labs without PK,9909,exclude measurement_id,1735,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/25,year,Hemoglobin labs without PK,5947,exclude measurement_id,2084,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/25,year,Hemoglobin labs without PK,852,exclude measurement_id,149,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/25,year,Hemoglobin labs without PK,3536,exclude measurement_id,663,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/25,year,Hemoglobin labs without PK,12349,exclude measurement_id,2025,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/25,year,Hemoglobin labs without PK,5809,exclude measurement_id,818,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/25,year,Hemoglobin labs without PK,2883,exclude measurement_id,316,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/25,year,Hemoglobin labs without PK,2297,exclude measurement_id,245,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/25,year,Hemoglobin labs without PK,874,exclude measurement_id,1590,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/26,year,duplicate procedures per visit & date,15058,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",214,1606,134,4,13,4,8,0.11,0.63,dr_ms_exp_la
+hospital_f,1/1/26,year,duplicate procedures per visit & date,67144,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1677,40851,212,4,13,0,69,0.61,0.13,dr_ms_exp_la
+hospital_g,1/1/26,year,duplicate procedures per visit & date,102227,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1602,29226,817,4,13,4,10,0.29,0.51,dr_ms_exp_la
+hospital_e,1/1/26,year,duplicate procedures per visit & date,347,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1021,16,9,4,13,0,16,0.05,0.01,dr_ms_exp_la
+hospital_a,1/1/26,year,duplicate procedures per visit & date,29193,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1214,7655,550,4,13,2,4,0.26,0.45,dr_ms_exp_la
+hospital_m,1/1/26,year,duplicate procedures per visit & date,2568,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",106,271,17,4,13,0,6,0.11,0.16,dr_ms_exp_la
+hospital_d,1/1/26,year,duplicate procedures per visit & date,109209,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",1359,58573,1098,4,13,16,17,0.54,0.81,dr_ms_exp_la
+hospital_h,1/1/26,year,duplicate procedures per visit & date,37673,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",542,29756,421,4,13,22,24,0.79,0.78,dr_ms_exp_la
+hospital_c,1/1/26,year,duplicate procedures per visit & date,24713,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",596,14035,386,4,13,17,18,0.57,0.65,dr_ms_exp_la
+hospital_k,1/1/26,year,duplicate procedures per visit & date,11314,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",271,2063,107,4,13,0,8,0.18,0.39,dr_ms_exp_la
+hospital_b,1/1/26,year,SCD diagnoses without PK,2461,exclude condition_occurrence_id,214,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/26,year,SCD diagnoses without PK,2540,exclude condition_occurrence_id,1021,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/26,year,SCD diagnoses without PK,5509,exclude condition_occurrence_id,1214,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/26,year,SCD diagnoses without PK,15504,exclude condition_occurrence_id,1602,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/26,year,SCD diagnoses without PK,3313,exclude condition_occurrence_id,1677,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/26,year,SCD diagnoses without PK,12068,exclude condition_occurrence_id,1359,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/26,year,SCD diagnoses without PK,1379,exclude condition_occurrence_id,106,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/26,year,SCD diagnoses without PK,6504,exclude condition_occurrence_id,542,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/26,year,SCD diagnoses without PK,2199,exclude condition_occurrence_id,596,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/26,year,SCD diagnoses without PK,2644,exclude condition_occurrence_id,271,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_b,1/1/26,year,Hemoglobin labs without PK,1044,exclude measurement_id,214,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_g,1/1/26,year,Hemoglobin labs without PK,5210,exclude measurement_id,1602,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_f,1/1/26,year,Hemoglobin labs without PK,2580,exclude measurement_id,1677,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_e,1/1/26,year,Hemoglobin labs without PK,189,exclude measurement_id,1021,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_a,1/1/26,year,Hemoglobin labs without PK,2626,exclude measurement_id,1214,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_d,1/1/26,year,Hemoglobin labs without PK,4062,exclude measurement_id,1359,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_m,1/1/26,year,Hemoglobin labs without PK,409,exclude measurement_id,106,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_h,1/1/26,year,Hemoglobin labs without PK,1564,exclude measurement_id,542,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_c,1/1/26,year,Hemoglobin labs without PK,2458,exclude measurement_id,596,0,0,0,0,0,0,0,0,dr_ms_exp_la
+hospital_k,1/1/26,year,Hemoglobin labs without PK,1144,exclude measurement_id,271,0,0,0,0,0,0,0,0,dr_ms_exp_la

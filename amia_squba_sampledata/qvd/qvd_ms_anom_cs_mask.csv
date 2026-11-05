@@ -1,0 +1,31 @@
+site,value_type,kl,output_function
+hospital_c,hydroxyurea dose,4.781402483685234,qvd_ms_anom_cs
+hospital_k,hydroxyurea dose,2.852084663206833,qvd_ms_anom_cs
+hospital_a,hydroxyurea dose,4.279795325357697,qvd_ms_anom_cs
+hospital_d,hydroxyurea dose,0.7124575827601215,qvd_ms_anom_cs
+hospital_g,hydroxyurea dose,3.616009451264233,qvd_ms_anom_cs
+hospital_e,hydroxyurea dose,3.0353316939202615,qvd_ms_anom_cs
+hospital_b,hydroxyurea dose,3.3630289718259947,qvd_ms_anom_cs
+hospital_f,hydroxyurea dose,4.122128696700207,qvd_ms_anom_cs
+hospital_m,hydroxyurea dose,NA,qvd_ms_anom_cs
+hospital_h,hydroxyurea dose,NA,qvd_ms_anom_cs
+hospital_c,hemoglobin lab results,0.06788432061555871,qvd_ms_anom_cs
+hospital_k,hemoglobin lab results,0.03093347266194571,qvd_ms_anom_cs
+hospital_a,hemoglobin lab results,0.034157379758395875,qvd_ms_anom_cs
+hospital_d,hemoglobin lab results,0.010856600270005371,qvd_ms_anom_cs
+hospital_g,hemoglobin lab results,0.03962809232232281,qvd_ms_anom_cs
+hospital_e,hemoglobin lab results,0.027900249239927406,qvd_ms_anom_cs
+hospital_b,hemoglobin lab results,0.016772495037988944,qvd_ms_anom_cs
+hospital_f,hemoglobin lab results,0.00993759632538398,qvd_ms_anom_cs
+hospital_m,hemoglobin lab results,0.052589161881338206,qvd_ms_anom_cs
+hospital_h,hemoglobin lab results,0.004561023172072697,qvd_ms_anom_cs
+hospital_c,ed visits,0.10371343262022927,qvd_ms_anom_cs
+hospital_k,ed visits,0.28155377110738683,qvd_ms_anom_cs
+hospital_a,ed visits,0.10323015605901875,qvd_ms_anom_cs
+hospital_d,ed visits,0.043957697048788505,qvd_ms_anom_cs
+hospital_g,ed visits,0.06457927046535208,qvd_ms_anom_cs
+hospital_e,ed visits,0.05163594635956743,qvd_ms_anom_cs
+hospital_b,ed visits,0.3315049112052522,qvd_ms_anom_cs
+hospital_f,ed visits,0.09913883968595084,qvd_ms_anom_cs
+hospital_m,ed visits,1.483298995980174,qvd_ms_anom_cs
+hospital_h,ed visits,0.17327535968579216,qvd_ms_anom_cs

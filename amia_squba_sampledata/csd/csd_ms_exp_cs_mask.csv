@@ -1,0 +1,298 @@
+site,variable,ct_denom,concept_id,output_function,ct_concept,prop_concept
+hospital_c,Hydroxyurea,15471,1377141,csd_ms_exp_cs,2010,0.129920496412643
+hospital_c,Hydroxyurea,15471,1377163,csd_ms_exp_cs,13022,0.8417038329778295
+hospital_c,Hydroxyurea,15471,963930,csd_ms_exp_cs,25,0.001615926572296555
+hospital_c,Hydroxyurea,15471,963938,csd_ms_exp_cs,5,3.2318531445931094e-4
+hospital_c,Hydroxyurea,15471,19023560,csd_ms_exp_cs,9,5.817335660267597e-4
+hospital_c,Hydroxyurea,15471,1377169,csd_ms_exp_cs,11,7.110076918104842e-4
+hospital_c,Hydroxyurea,15471,19007385,csd_ms_exp_cs,8,5.170965031348976e-4
+hospital_c,Hydroxyurea,15471,19023562,csd_ms_exp_cs,21,0.001357378320729106
+hospital_c,Hydroxyurea,15471,19023561,csd_ms_exp_cs,12,7.756447547023463e-4
+hospital_c,Hydroxyurea,15471,1377170,csd_ms_exp_cs,348,0.022493697886368045
+hospital_c,SCD Diagnosis,92913,4166115,csd_ms_exp_cs,264,0.0028413677311032903
+hospital_c,SCD Diagnosis,92913,4130067,csd_ms_exp_cs,1229,0.013227427808810392
+hospital_c,SCD Diagnosis,92913,4131126,csd_ms_exp_cs,8,8.610205245767546e-5
+hospital_c,SCD Diagnosis,92913,30683,csd_ms_exp_cs,23294,0.25070765124363653
+hospital_c,SCD Diagnosis,92913,4219568,csd_ms_exp_cs,42,4.5203577540279616e-4
+hospital_c,SCD Diagnosis,92913,22281,csd_ms_exp_cs,22090,0.23774929234875636
+hospital_c,SCD Diagnosis,92913,4131914,csd_ms_exp_cs,23,2.475434008158169e-4
+hospital_c,SCD Diagnosis,92913,315523,csd_ms_exp_cs,98,0.0010547501426065244
+hospital_c,SCD Diagnosis,92913,26942,csd_ms_exp_cs,9435,0.101546608117271
+hospital_c,SCD Diagnosis,92913,4213628,csd_ms_exp_cs,29929,0.3221185410007211
+hospital_c,SCD Diagnosis,92913,443738,csd_ms_exp_cs,419,0.004509594997470752
+hospital_c,SCD Diagnosis,92913,4209085,csd_ms_exp_cs,387,0.00416518678764005
+hospital_c,SCD Diagnosis,92913,4211932,csd_ms_exp_cs,42,4.5203577540279616e-4
+hospital_c,SCD Diagnosis,92913,321263,csd_ms_exp_cs,2313,0.024894255916825418
+hospital_c,SCD Diagnosis,92913,4121115,csd_ms_exp_cs,7,7.533929590046603e-5
+hospital_c,SCD Diagnosis,92913,4166099,csd_ms_exp_cs,393,0.004229763326983307
+hospital_c,SCD Diagnosis,92913,4049095,csd_ms_exp_cs,18,1.937296180297698e-4
+hospital_c,SCD Diagnosis,92913,4103763,csd_ms_exp_cs,46,4.950868016316338e-4
+hospital_c,SCD Diagnosis,92913,4131913,csd_ms_exp_cs,9,9.68648090148849e-5
+hospital_c,SCD Diagnosis,92913,4264046,csd_ms_exp_cs,26,2.7983167048744527e-4
+hospital_c,SCD Diagnosis,92913,4216915,csd_ms_exp_cs,2178,0.023441283781602144
+hospital_c,SCD Diagnosis,92913,40485018,csd_ms_exp_cs,21,2.2601788770139808e-4
+hospital_c,SCD Diagnosis,92913,4130068,csd_ms_exp_cs,556,0.005984092645808445
+hospital_c,SCD Diagnosis,92913,4167364,csd_ms_exp_cs,86,9.255970639200112e-4
+hospital_d,Hydroxyurea,150289,19023561,csd_ms_exp_cs,2704,0.01799200207600024
+hospital_d,Hydroxyurea,150289,19023562,csd_ms_exp_cs,7101,0.04724896699026542
+hospital_d,Hydroxyurea,150289,1377170,csd_ms_exp_cs,869,0.005782192974868421
+hospital_d,Hydroxyurea,150289,1377168,csd_ms_exp_cs,9335,0.06211366101311473
+hospital_d,Hydroxyurea,150289,1377167,csd_ms_exp_cs,5197,0.03458004245154336
+hospital_d,Hydroxyurea,150289,1377169,csd_ms_exp_cs,17470,0.1162427057203122
+hospital_d,Hydroxyurea,150289,19007385,csd_ms_exp_cs,3951,0.026289349187232598
+hospital_d,Hydroxyurea,150289,40051647,csd_ms_exp_cs,2821,0.018770502165827173
+hospital_d,Hydroxyurea,150289,963936,csd_ms_exp_cs,889,0.0059152699133003745
+hospital_d,Hydroxyurea,150289,1377141,csd_ms_exp_cs,17657,0.11748697509465097
+hospital_d,Hydroxyurea,150289,1377163,csd_ms_exp_cs,78187,0.520244329258961
+hospital_d,Hydroxyurea,150289,963930,csd_ms_exp_cs,356,0.002368769504088789
+hospital_d,Hydroxyurea,150289,19023560,csd_ms_exp_cs,1133,0.0075388085621702185
+hospital_d,Hydroxyurea,150289,963938,csd_ms_exp_cs,2619,0.017426425087664434
+hospital_d,SCD Diagnosis,317269,4216915,csd_ms_exp_cs,5311,0.016739738203228174
+hospital_d,SCD Diagnosis,317269,443738,csd_ms_exp_cs,2566,0.008087774097059594
+hospital_d,SCD Diagnosis,317269,4103763,csd_ms_exp_cs,4,1.2607597968915967e-5
+hospital_d,SCD Diagnosis,317269,4166099,csd_ms_exp_cs,104,3.2779754719181514e-4
+hospital_d,SCD Diagnosis,317269,30683,csd_ms_exp_cs,77741,0.24503181842537405
+hospital_d,SCD Diagnosis,317269,4130190,csd_ms_exp_cs,213,6.713545918447752e-4
+hospital_d,SCD Diagnosis,317269,4167364,csd_ms_exp_cs,11,3.467089441451891e-5
+hospital_d,SCD Diagnosis,317269,4131914,csd_ms_exp_cs,49,1.544430751192206e-4
+hospital_d,SCD Diagnosis,317269,4213628,csd_ms_exp_cs,90165,0.28419101771682703
+hospital_d,SCD Diagnosis,317269,40485018,csd_ms_exp_cs,23,7.249368832126682e-5
+hospital_d,SCD Diagnosis,317269,4130068,csd_ms_exp_cs,5810,0.018312536049850444
+hospital_d,SCD Diagnosis,317269,4211932,csd_ms_exp_cs,198,6.240760994613404e-4
+hospital_d,SCD Diagnosis,317269,321263,csd_ms_exp_cs,11272,0.0355282110764052
+hospital_d,SCD Diagnosis,317269,4209085,csd_ms_exp_cs,3535,0.011141964705029485
+hospital_d,SCD Diagnosis,317269,4130067,csd_ms_exp_cs,416,0.0013111901887672606
+hospital_d,SCD Diagnosis,317269,4131126,csd_ms_exp_cs,3,9.455698476686976e-6
+hospital_d,SCD Diagnosis,317269,4166115,csd_ms_exp_cs,414,0.0013048863897828025
+hospital_d,SCD Diagnosis,317269,4219568,csd_ms_exp_cs,8,2.5215195937831933e-5
+hospital_d,SCD Diagnosis,317269,315523,csd_ms_exp_cs,38,1.197721807047017e-4
+hospital_d,SCD Diagnosis,317269,26942,csd_ms_exp_cs,37272,0.11747759787435898
+hospital_d,SCD Diagnosis,317269,22281,csd_ms_exp_cs,81861,0.2580176443333575
+hospital_d,SCD Diagnosis,317269,4264046,csd_ms_exp_cs,123,3.87683637544166e-4
+hospital_d,SCD Diagnosis,317269,4121115,csd_ms_exp_cs,13,4.097469339897689e-5
+hospital_d,SCD Diagnosis,317269,4049095,csd_ms_exp_cs,119,3.7507603957525004e-4
+hospital_m,Hydroxyurea,2921,963938,csd_ms_exp_cs,5,0.0017117425539198905
+hospital_m,Hydroxyurea,2921,1377169,csd_ms_exp_cs,9,0.0030811365970558027
+hospital_m,Hydroxyurea,2921,40051650,csd_ms_exp_cs,6,0.0020540910647038686
+hospital_m,Hydroxyurea,2921,40051649,csd_ms_exp_cs,8,0.0027387880862718246
+hospital_m,Hydroxyurea,2921,1377167,csd_ms_exp_cs,3,0.0010270455323519343
+hospital_m,Hydroxyurea,2921,1377168,csd_ms_exp_cs,11,0.003765833618623759
+hospital_m,Hydroxyurea,2921,963936,csd_ms_exp_cs,10,0.003423485107839781
+hospital_m,Hydroxyurea,2921,19007385,csd_ms_exp_cs,2865,0.9808284833960972
+hospital_m,Hydroxyurea,2921,1377141,csd_ms_exp_cs,4,0.0013693940431359123
+hospital_m,SCD Diagnosis,25600,30683,csd_ms_exp_cs,4542,0.177421875
+hospital_m,SCD Diagnosis,25600,4209085,csd_ms_exp_cs,248,0.0096875
+hospital_m,SCD Diagnosis,25600,4131126,csd_ms_exp_cs,3,1.171875e-4
+hospital_m,SCD Diagnosis,25600,321263,csd_ms_exp_cs,1106,0.043203125
+hospital_m,SCD Diagnosis,25600,4131914,csd_ms_exp_cs,14,5.46875e-4
+hospital_m,SCD Diagnosis,25600,4166115,csd_ms_exp_cs,40,0.0015625
+hospital_m,SCD Diagnosis,25600,443738,csd_ms_exp_cs,475,0.0185546875
+hospital_m,SCD Diagnosis,25600,4216915,csd_ms_exp_cs,1004,0.03921875
+hospital_m,SCD Diagnosis,25600,4167364,csd_ms_exp_cs,9,3.515625e-4
+hospital_m,SCD Diagnosis,25600,40485018,csd_ms_exp_cs,4,1.5625e-4
+hospital_m,SCD Diagnosis,25600,4130067,csd_ms_exp_cs,146,0.005703125
+hospital_m,SCD Diagnosis,25600,22281,csd_ms_exp_cs,4520,0.1765625
+hospital_m,SCD Diagnosis,25600,315523,csd_ms_exp_cs,73,0.0028515625
+hospital_m,SCD Diagnosis,25600,4264046,csd_ms_exp_cs,8,3.125e-4
+hospital_m,SCD Diagnosis,25600,4130068,csd_ms_exp_cs,1131,0.0441796875
+hospital_m,SCD Diagnosis,25600,4213628,csd_ms_exp_cs,9515,0.3716796875
+hospital_m,SCD Diagnosis,25600,26942,csd_ms_exp_cs,2762,0.107890625
+hospital_e,Hydroxyurea,35706,19023561,csd_ms_exp_cs,249,0.006973617879348009
+hospital_e,Hydroxyurea,35706,19007385,csd_ms_exp_cs,406,0.01137063798801322
+hospital_e,Hydroxyurea,35706,1377170,csd_ms_exp_cs,3009,0.08427155099983197
+hospital_e,Hydroxyurea,35706,19023562,csd_ms_exp_cs,289,0.008093877779644877
+hospital_e,Hydroxyurea,35706,1377169,csd_ms_exp_cs,28,7.841819302078082e-4
+hospital_e,Hydroxyurea,35706,963936,csd_ms_exp_cs,65,0.001820422337982412
+hospital_e,Hydroxyurea,35706,963930,csd_ms_exp_cs,34,9.522209152523386e-4
+hospital_e,Hydroxyurea,35706,1377141,csd_ms_exp_cs,17051,0.4775387889990478
+hospital_e,Hydroxyurea,35706,1377167,csd_ms_exp_cs,122,0.00341679269590545
+hospital_e,Hydroxyurea,35706,963938,csd_ms_exp_cs,422,0.011818741948131966
+hospital_e,Hydroxyurea,35706,19023560,csd_ms_exp_cs,202,0.0056573124964991875
+hospital_e,Hydroxyurea,35706,1377168,csd_ms_exp_cs,19,5.321234526410127e-4
+hospital_e,Hydroxyurea,35706,1377163,csd_ms_exp_cs,13810,0.386769730577494
+hospital_e,SCD Diagnosis,93754,4130068,csd_ms_exp_cs,84,8.959617722977153e-4
+hospital_e,SCD Diagnosis,93754,22281,csd_ms_exp_cs,50,5.333105787486401e-4
+hospital_e,SCD Diagnosis,93754,40485018,csd_ms_exp_cs,10,1.0666211574972802e-4
+hospital_e,SCD Diagnosis,93754,26942,csd_ms_exp_cs,18861,0.201175416515562
+hospital_e,SCD Diagnosis,93754,30683,csd_ms_exp_cs,70859,0.7557970859909977
+hospital_e,SCD Diagnosis,93754,315523,csd_ms_exp_cs,8,8.532969259978241e-5
+hospital_e,SCD Diagnosis,93754,4211932,csd_ms_exp_cs,10,1.0666211574972802e-4
+hospital_e,SCD Diagnosis,93754,4213628,csd_ms_exp_cs,1896,0.020223137146148432
+hospital_e,SCD Diagnosis,93754,321263,csd_ms_exp_cs,1746,0.01862320540990251
+hospital_e,SCD Diagnosis,93754,443738,csd_ms_exp_cs,205,0.0021865733728694244
+hospital_e,SCD Diagnosis,93754,4264046,csd_ms_exp_cs,25,2.6665528937432005e-4
+hospital_k,Hydroxyurea,11007,19023561,csd_ms_exp_cs,3147,0.28590896702098667
+hospital_k,Hydroxyurea,11007,1377170,csd_ms_exp_cs,22,0.001998728082129554
+hospital_k,Hydroxyurea,11007,19023562,csd_ms_exp_cs,554,0.05033160715908058
+hospital_k,Hydroxyurea,11007,1377167,csd_ms_exp_cs,1992,0.18097574270918507
+hospital_k,Hydroxyurea,11007,1377169,csd_ms_exp_cs,10,9.085127646043427e-4
+hospital_k,Hydroxyurea,11007,1377141,csd_ms_exp_cs,1333,0.12110475152175888
+hospital_k,Hydroxyurea,11007,1377163,csd_ms_exp_cs,1791,0.16271463614063778
+hospital_k,Hydroxyurea,11007,1377168,csd_ms_exp_cs,6,5.451076587626056e-4
+hospital_k,Hydroxyurea,11007,19007385,csd_ms_exp_cs,32,0.0029072408467338967
+hospital_k,Hydroxyurea,11007,963930,csd_ms_exp_cs,9,0.00081766148814390845
+hospital_k,Hydroxyurea,11007,963938,csd_ms_exp_cs,4,3.634051058417371e-4
+hospital_k,Hydroxyurea,11007,19023560,csd_ms_exp_cs,2107,0.191423639502135
+hospital_k,SCD Diagnosis,74141,321263,csd_ms_exp_cs,1485,0.020029403433997384
+hospital_k,SCD Diagnosis,74141,4131914,csd_ms_exp_cs,4,5.3951255041070395e-5
+hospital_k,SCD Diagnosis,74141,26942,csd_ms_exp_cs,8826,0.11904344424812183
+hospital_k,SCD Diagnosis,74141,4213628,csd_ms_exp_cs,14528,0.19595095830916767
+hospital_k,SCD Diagnosis,74141,4219568,csd_ms_exp_cs,6,8.092688256160559e-5
+hospital_k,SCD Diagnosis,74141,4130068,csd_ms_exp_cs,537,0.0072429559892637
+hospital_k,SCD Diagnosis,74141,4211932,csd_ms_exp_cs,56,7.553175705749855e-4
+hospital_k,SCD Diagnosis,74141,4209085,csd_ms_exp_cs,937,0.012638081493370739
+hospital_k,SCD Diagnosis,74141,22281,csd_ms_exp_cs,2713,0.036592438731605996
+hospital_k,SCD Diagnosis,74141,30683,csd_ms_exp_cs,41793,0.5636962004828637
+hospital_k,SCD Diagnosis,74141,4121115,csd_ms_exp_cs,5,6.743906880133799e-5
+hospital_k,SCD Diagnosis,74141,4166115,csd_ms_exp_cs,164,0.002212001456683886
+hospital_k,SCD Diagnosis,74141,315523,csd_ms_exp_cs,67,9.03683521937929e-4
+hospital_k,SCD Diagnosis,74141,40485018,csd_ms_exp_cs,413,0.005570467082990518
+hospital_k,SCD Diagnosis,74141,4049095,csd_ms_exp_cs,8,1.0790251008214079e-4
+hospital_k,SCD Diagnosis,74141,4264046,csd_ms_exp_cs,3,4.0463441280802794e-5
+hospital_k,SCD Diagnosis,74141,443738,csd_ms_exp_cs,350,0.0047207348160936595
+hospital_k,SCD Diagnosis,74141,4130067,csd_ms_exp_cs,585,0.007890371049756545
+hospital_k,SCD Diagnosis,74141,4216915,csd_ms_exp_cs,1661,0.02240325865580448
+hospital_a,Hydroxyurea,53640,1377167,csd_ms_exp_cs,74,0.0013795674869500373
+hospital_a,Hydroxyurea,53640,19007385,csd_ms_exp_cs,184,0.00343027591349739
+hospital_a,Hydroxyurea,53640,963938,csd_ms_exp_cs,392,0.007307979120059657
+hospital_a,Hydroxyurea,53640,963936,csd_ms_exp_cs,1740,0.03243847874720358
+hospital_a,Hydroxyurea,53640,1377169,csd_ms_exp_cs,177,0.0032997762863534678
+hospital_a,Hydroxyurea,53640,19023562,csd_ms_exp_cs,795,0.01482102908277405
+hospital_a,Hydroxyurea,53640,963930,csd_ms_exp_cs,549,0.01023489932885906
+hospital_a,Hydroxyurea,53640,1377168,csd_ms_exp_cs,179,0.003337061894108874
+hospital_a,Hydroxyurea,53640,1377141,csd_ms_exp_cs,10872,0.20268456375838925
+hospital_a,Hydroxyurea,53640,19023560,csd_ms_exp_cs,1114,0.020768083519761373
+hospital_a,Hydroxyurea,53640,1377163,csd_ms_exp_cs,35753,0.6665361670395228
+hospital_a,Hydroxyurea,53640,19023561,csd_ms_exp_cs,1667,0.031077554064131246
+hospital_a,Hydroxyurea,53640,1377170,csd_ms_exp_cs,144,0.0026845637583892616
+hospital_a,SCD Diagnosis,193339,26942,csd_ms_exp_cs,14138,0.07312544287495022
+hospital_a,SCD Diagnosis,193339,4166099,csd_ms_exp_cs,572,0.0029585339740042104
+hospital_a,SCD Diagnosis,193339,4103763,csd_ms_exp_cs,97,5.017094326545601e-4
+hospital_a,SCD Diagnosis,193339,4167364,csd_ms_exp_cs,53,2.741298961926978e-4
+hospital_a,SCD Diagnosis,193339,4049095,csd_ms_exp_cs,40,2.0689048769260212e-4
+hospital_a,SCD Diagnosis,193339,443738,csd_ms_exp_cs,983,0.005084333735045697
+hospital_a,SCD Diagnosis,193339,321263,csd_ms_exp_cs,6309,0.03263180217131567
+hospital_a,SCD Diagnosis,193339,4213628,csd_ms_exp_cs,32959,0.17047258959651182
+hospital_a,SCD Diagnosis,193339,4130068,csd_ms_exp_cs,2934,0.015175417272252365
+hospital_a,SCD Diagnosis,193339,4131126,csd_ms_exp_cs,109,5.637765789623407e-4
+hospital_a,SCD Diagnosis,193339,4264046,csd_ms_exp_cs,14,7.241167069241074e-5
+hospital_a,SCD Diagnosis,193339,4130067,csd_ms_exp_cs,2189,0.01132208193897765
+hospital_a,SCD Diagnosis,193339,315523,csd_ms_exp_cs,128,6.620495606163267e-4
+hospital_a,SCD Diagnosis,193339,22281,csd_ms_exp_cs,40926,0.21168000248268584
+hospital_a,SCD Diagnosis,193339,4216915,csd_ms_exp_cs,4686,0.02423722063318834
+hospital_a,SCD Diagnosis,193339,4166115,csd_ms_exp_cs,628,0.003248180656773853
+hospital_a,SCD Diagnosis,193339,4211932,csd_ms_exp_cs,214,0.0011068641091554214
+hospital_a,SCD Diagnosis,193339,4209085,csd_ms_exp_cs,2770,0.014327166272712697
+hospital_a,SCD Diagnosis,193339,4130190,csd_ms_exp_cs,21,1.0861750603861611e-4
+hospital_a,SCD Diagnosis,193339,30683,csd_ms_exp_cs,83444,0.4315942463755373
+hospital_a,SCD Diagnosis,193339,4219568,csd_ms_exp_cs,4,2.068904876926021e-5
+hospital_a,SCD Diagnosis,193339,4131914,csd_ms_exp_cs,62,3.206802559235333e-4
+hospital_a,SCD Diagnosis,193339,4121115,csd_ms_exp_cs,5,2.5861310961575264e-5
+hospital_a,SCD Diagnosis,193339,40485018,csd_ms_exp_cs,54,2.7930215838501283e-4
+hospital_h,Hydroxyurea,19737,19023560,csd_ms_exp_cs,57,0.0028879768961848303
+hospital_h,Hydroxyurea,19737,963930,csd_ms_exp_cs,10,5.066626133657597e-4
+hospital_h,Hydroxyurea,19737,1377170,csd_ms_exp_cs,32,0.0016213203627704312
+hospital_h,Hydroxyurea,19737,19023561,csd_ms_exp_cs,344,0.017429193899782137
+hospital_h,Hydroxyurea,19737,1377163,csd_ms_exp_cs,15483,0.7844657242742058
+hospital_h,Hydroxyurea,19737,19023562,csd_ms_exp_cs,3172,0.16071338095961898
+hospital_h,Hydroxyurea,19737,1377141,csd_ms_exp_cs,639,0.03237574099407205
+hospital_h,SCD Diagnosis,197569,40485018,csd_ms_exp_cs,15,7.592284214628814e-5
+hospital_h,SCD Diagnosis,197569,443738,csd_ms_exp_cs,980,0.004960292353557491
+hospital_h,SCD Diagnosis,197569,4130190,csd_ms_exp_cs,24,1.2147654743406101e-4
+hospital_h,SCD Diagnosis,197569,30683,csd_ms_exp_cs,25842,0.13079987244962518
+hospital_h,SCD Diagnosis,197569,4131914,csd_ms_exp_cs,10,5.061522809752542e-5
+hospital_h,SCD Diagnosis,197569,321263,csd_ms_exp_cs,4648,0.023525958019729815
+hospital_h,SCD Diagnosis,197569,4167364,csd_ms_exp_cs,7,3.5430659668267796e-5
+hospital_h,SCD Diagnosis,197569,4219568,csd_ms_exp_cs,9,4.555370528777288e-5
+hospital_h,SCD Diagnosis,197569,4216915,csd_ms_exp_cs,1631,0.008255343702706397
+hospital_h,SCD Diagnosis,197569,26942,csd_ms_exp_cs,29698,0.150317104404031
+hospital_h,SCD Diagnosis,197569,22281,csd_ms_exp_cs,35284,0.1785907708193087
+hospital_h,SCD Diagnosis,197569,4209085,csd_ms_exp_cs,2218,0.011226457592031138
+hospital_h,SCD Diagnosis,197569,315523,csd_ms_exp_cs,36,1.8221482115109153e-4
+hospital_h,SCD Diagnosis,197569,4166115,csd_ms_exp_cs,140,7.086131933653559e-4
+hospital_h,SCD Diagnosis,197569,4211932,csd_ms_exp_cs,18,9.110741057554576e-5
+hospital_h,SCD Diagnosis,197569,4130067,csd_ms_exp_cs,347,0.0017563484149841322
+hospital_h,SCD Diagnosis,197569,4213628,csd_ms_exp_cs,95162,0.4816646336216714
+hospital_h,SCD Diagnosis,197569,4264046,csd_ms_exp_cs,8,4.0492182478020336e-5
+hospital_h,SCD Diagnosis,197569,4130068,csd_ms_exp_cs,1474,0.007460684621575247
+hospital_h,SCD Diagnosis,197569,4103763,csd_ms_exp_cs,15,7.592284214628814e-5
+hospital_h,SCD Diagnosis,197569,4166099,csd_ms_exp_cs,3,1.5184568429257627e-5
+hospital_g,Hydroxyurea,46155,1377169,csd_ms_exp_cs,6294,0.13636659083522912
+hospital_g,Hydroxyurea,46155,1377167,csd_ms_exp_cs,956,0.020712815512945508
+hospital_g,Hydroxyurea,46155,1377170,csd_ms_exp_cs,530,0.011483046257176903
+hospital_g,Hydroxyurea,46155,19023561,csd_ms_exp_cs,2761,0.05982017116238761
+hospital_g,Hydroxyurea,46155,19023560,csd_ms_exp_cs,480,0.010399740006499838
+hospital_g,Hydroxyurea,46155,1377163,csd_ms_exp_cs,9031,0.19566677499729174
+hospital_g,Hydroxyurea,46155,1377168,csd_ms_exp_cs,3917,0.08486621167804138
+hospital_g,Hydroxyurea,46155,963930,csd_ms_exp_cs,93,0.0020149496262593437
+hospital_g,Hydroxyurea,46155,19023562,csd_ms_exp_cs,3781,0.08191961867619976
+hospital_g,Hydroxyurea,46155,19007385,csd_ms_exp_cs,18312,0.3967500812479688
+hospital_g,SCD Diagnosis,520826,4219568,csd_ms_exp_cs,7,1.3440189237864469e-5
+hospital_g,SCD Diagnosis,520826,4166115,csd_ms_exp_cs,991,0.0019027467906748126
+hospital_g,SCD Diagnosis,520826,4166099,csd_ms_exp_cs,170,3.2640459577670854e-4
+hospital_g,SCD Diagnosis,520826,4103763,csd_ms_exp_cs,12,2.304032440776766e-5
+hospital_g,SCD Diagnosis,520826,315523,csd_ms_exp_cs,446,8.563320571553648e-4
+hospital_g,SCD Diagnosis,520826,4209085,csd_ms_exp_cs,5516,0.010590869119437202
+hospital_g,SCD Diagnosis,520826,22281,csd_ms_exp_cs,42017,0.08067377588676448
+hospital_g,SCD Diagnosis,520826,4130067,csd_ms_exp_cs,1930,0.003705652175582632
+hospital_g,SCD Diagnosis,520826,40485018,csd_ms_exp_cs,148,2.841640010291345e-4
+hospital_g,SCD Diagnosis,520826,4049095,csd_ms_exp_cs,172,3.302446498446698e-4
+hospital_g,SCD Diagnosis,520826,443738,csd_ms_exp_cs,3661,0.007029218971403117
+hospital_g,SCD Diagnosis,520826,321263,csd_ms_exp_cs,12998,0.02495651138768034
+hospital_g,SCD Diagnosis,520826,4131914,csd_ms_exp_cs,307,5.89448299432056e-4
+hospital_g,SCD Diagnosis,520826,30683,csd_ms_exp_cs,127047,0.24393367458613818
+hospital_g,SCD Diagnosis,520826,4211932,csd_ms_exp_cs,154,2.956841632330183e-4
+hospital_g,SCD Diagnosis,520826,4216915,csd_ms_exp_cs,9221,0.017704569280335467
+hospital_g,SCD Diagnosis,520826,4130068,csd_ms_exp_cs,5858,0.01124751836505858
+hospital_g,SCD Diagnosis,520826,4213628,csd_ms_exp_cs,244382,0.4692200466182564
+hospital_g,SCD Diagnosis,520826,4264046,csd_ms_exp_cs,22,4.224059474757405e-5
+hospital_g,SCD Diagnosis,520826,26942,csd_ms_exp_cs,65713,0.1261707364839697
+hospital_g,SCD Diagnosis,520826,4167364,csd_ms_exp_cs,46,8.832124356310938e-5
+hospital_g,SCD Diagnosis,520826,4121115,csd_ms_exp_cs,8,1.5360216271845107e-5
+hospital_b,Hydroxyurea,5592,19023560,csd_ms_exp_cs,598,0.10693848354792561
+hospital_b,Hydroxyurea,5592,19023561,csd_ms_exp_cs,676,0.12088698140200287
+hospital_b,Hydroxyurea,5592,963930,csd_ms_exp_cs,15,0.002682403433476395
+hospital_b,Hydroxyurea,5592,1377170,csd_ms_exp_cs,20,0.00357653791130186
+hospital_b,Hydroxyurea,5592,1377141,csd_ms_exp_cs,1333,0.23837625178826896
+hospital_b,Hydroxyurea,5592,19023562,csd_ms_exp_cs,176,0.031473533619456366
+hospital_b,Hydroxyurea,5592,1377163,csd_ms_exp_cs,2774,0.49606580829756797
+hospital_b,SCD Diagnosis,47616,443738,csd_ms_exp_cs,434,0.009114583333333334
+hospital_b,SCD Diagnosis,47616,4130067,csd_ms_exp_cs,101,0.002121135752688172
+hospital_b,SCD Diagnosis,47616,315523,csd_ms_exp_cs,9,1.8901209677419354e-4
+hospital_b,SCD Diagnosis,47616,22281,csd_ms_exp_cs,2344,0.049227150537634407
+hospital_b,SCD Diagnosis,47616,4264046,csd_ms_exp_cs,16,3.360215053763441e-4
+hospital_b,SCD Diagnosis,47616,4130068,csd_ms_exp_cs,53,0.0011130712365591399
+hospital_b,SCD Diagnosis,47616,30683,csd_ms_exp_cs,4165,0.08747059811827956
+hospital_b,SCD Diagnosis,47616,4216915,csd_ms_exp_cs,6,1.2600806451612903e-4
+hospital_b,SCD Diagnosis,47616,26942,csd_ms_exp_cs,6209,0.13039734543010753
+hospital_b,SCD Diagnosis,47616,40485018,csd_ms_exp_cs,10,2.1001344086021506e-4
+hospital_b,SCD Diagnosis,47616,4213628,csd_ms_exp_cs,33079,0.6947034610215054
+hospital_b,SCD Diagnosis,47616,321263,csd_ms_exp_cs,1185,0.024886592741935484
+hospital_b,SCD Diagnosis,47616,4209085,csd_ms_exp_cs,5,1.0500672043010753e-4
+hospital_f,Hydroxyurea,22142,1377169,csd_ms_exp_cs,860,0.038840213169542046
+hospital_f,Hydroxyurea,22142,963938,csd_ms_exp_cs,143,0.006458314515400596
+hospital_f,Hydroxyurea,22142,1377168,csd_ms_exp_cs,734,0.03314967030981845
+hospital_f,Hydroxyurea,22142,19007385,csd_ms_exp_cs,17492,0.7899918706530575
+hospital_f,Hydroxyurea,22142,1377167,csd_ms_exp_cs,10,4.516303856923494e-4
+hospital_f,Hydroxyurea,22142,963936,csd_ms_exp_cs,36,0.0016258693884924579
+hospital_f,Hydroxyurea,22142,1377141,csd_ms_exp_cs,2867,0.12948243157799658
+hospital_f,SCD Diagnosis,82990,4166115,csd_ms_exp_cs,7,8.434751174840342e-5
+hospital_f,SCD Diagnosis,82990,4121115,csd_ms_exp_cs,9,1.0844680081937583e-4
+hospital_f,SCD Diagnosis,82990,4219568,csd_ms_exp_cs,8,9.639715628388963e-5
+hospital_f,SCD Diagnosis,82990,4216915,csd_ms_exp_cs,2236,0.02694300518134715
+hospital_f,SCD Diagnosis,82990,4049095,csd_ms_exp_cs,3,3.614893360645861e-5
+hospital_f,SCD Diagnosis,82990,4103763,csd_ms_exp_cs,10,1.2049644535486203e-4
+hospital_f,SCD Diagnosis,82990,26942,csd_ms_exp_cs,17065,0.20562718399807206
+hospital_f,SCD Diagnosis,82990,4264046,csd_ms_exp_cs,5,6.0248222677431016e-5
+hospital_f,SCD Diagnosis,82990,4213628,csd_ms_exp_cs,42672,0.5141824316182673
+hospital_f,SCD Diagnosis,82990,4130068,csd_ms_exp_cs,482,0.00580792866610435
+hospital_f,SCD Diagnosis,82990,22281,csd_ms_exp_cs,6381,0.07688878178093746
+hospital_f,SCD Diagnosis,82990,4130067,csd_ms_exp_cs,120,0.0014459573442583444
+hospital_f,SCD Diagnosis,82990,30683,csd_ms_exp_cs,7975,0.09609591517050246
+hospital_f,SCD Diagnosis,82990,4130190,csd_ms_exp_cs,6,7.229786721291722e-5
+hospital_f,SCD Diagnosis,82990,315523,csd_ms_exp_cs,20,2.4099289070972406e-4
+hospital_f,SCD Diagnosis,82990,321263,csd_ms_exp_cs,3475,0.04187251476081456
+hospital_f,SCD Diagnosis,82990,40485018,csd_ms_exp_cs,4,4.8198578141944815e-5
+hospital_f,SCD Diagnosis,82990,4209085,csd_ms_exp_cs,1285,0.015483793228099771
+hospital_f,SCD Diagnosis,82990,443738,csd_ms_exp_cs,1220,0.014700566333293167
+hospital_f,SCD Diagnosis,82990,4211932,csd_ms_exp_cs,7,8.434751174840342e-5

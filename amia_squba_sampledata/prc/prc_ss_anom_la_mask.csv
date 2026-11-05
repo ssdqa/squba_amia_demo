@@ -1,0 +1,49 @@
+site,time_start,time_increment,event_a_name,event_b_name,total_pts,stat_type,stat_ct,prop_event,output_function
+combined,2015-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7907,Both Events,2315,0.29277855065132163,prc_ss_anom_la
+combined,2015-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7907,Event A Only,2220,0.280763880106235,prc_ss_anom_la
+combined,2015-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7907,Event B Only,286,0.03617048185152397,prc_ss_anom_la
+combined,2015-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7907,Neither Event,3086,0.39028708739091944,prc_ss_anom_la
+combined,2016-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8167,Both Events,2373,0.29055956899718377,prc_ss_anom_la
+combined,2016-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8167,Event A Only,2237,0.27390718746173626,prc_ss_anom_la
+combined,2016-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8167,Event B Only,323,0.03954940614668789,prc_ss_anom_la
+combined,2016-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8167,Neither Event,3234,0.3959838373943921,prc_ss_anom_la
+combined,2017-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8435,Both Events,2330,0.27622999407231774,prc_ss_anom_la
+combined,2017-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8435,Event A Only,2333,0.27658565500889154,prc_ss_anom_la
+combined,2017-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8435,Event B Only,285,0.033787788974510964,prc_ss_anom_la
+combined,2017-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8435,Neither Event,3487,0.41339656194427976,prc_ss_anom_la
+combined,2018-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8585,Both Events,2296,0.2674432149097263,prc_ss_anom_la
+combined,2018-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8585,Event A Only,2438,0.28398369248689576,prc_ss_anom_la
+combined,2018-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8585,Event B Only,274,0.031916132789749564,prc_ss_anom_la
+combined,2018-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8585,Neither Event,3577,0.41665695981362844,prc_ss_anom_la
+combined,2019-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8773,Both Events,2448,0.27903795736920095,prc_ss_anom_la
+combined,2019-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8773,Event A Only,2419,0.27573236065200046,prc_ss_anom_la
+combined,2019-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8773,Event B Only,289,0.032941981078308445,prc_ss_anom_la
+combined,2019-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8773,Neither Event,3617,0.41228770090049016,prc_ss_anom_la
+combined,2020-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8266,Both Events,1970,0.23832567142511493,prc_ss_anom_la
+combined,2020-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8266,Event A Only,2444,0.2956690055649649,prc_ss_anom_la
+combined,2020-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8266,Event B Only,246,0.029760464553593033,prc_ss_anom_la
+combined,2020-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8266,Neither Event,3606,0.4362448584563271,prc_ss_anom_la
+combined,2021-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8615,Both Events,2248,0.26094022054556004,prc_ss_anom_la
+combined,2021-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8615,Event A Only,2252,0.26140452698781197,prc_ss_anom_la
+combined,2021-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8615,Event B Only,297,0.034474753337202554,prc_ss_anom_la
+combined,2021-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8615,Neither Event,3818,0.4431804991294254,prc_ss_anom_la
+combined,2022-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8817,Both Events,2606,0.29556538505160485,prc_ss_anom_la
+combined,2022-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8817,Event A Only,1990,0.22570035159351254,prc_ss_anom_la
+combined,2022-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8817,Event B Only,331,0.03754111375751389,prc_ss_anom_la
+combined,2022-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8817,Neither Event,3890,0.4411931495973687,prc_ss_anom_la
+combined,2023-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8889,Both Events,2611,0.2937338283271459,prc_ss_anom_la
+combined,2023-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8889,Event A Only,2104,0.2366970412869839,prc_ss_anom_la
+combined,2023-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8889,Event B Only,326,0.0366745415682304,prc_ss_anom_la
+combined,2023-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,8889,Neither Event,3848,0.43289458881763976,prc_ss_anom_la
+combined,2024-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9034,Both Events,2853,0.31580695151649324,prc_ss_anom_la
+combined,2024-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9034,Event A Only,2039,0.2257029001549701,prc_ss_anom_la
+combined,2024-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9034,Event B Only,364,0.0402922293557671,prc_ss_anom_la
+combined,2024-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9034,Neither Event,3778,0.41819791897276953,prc_ss_anom_la
+combined,2025-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9029,Both Events,2855,0.31620334477793777,prc_ss_anom_la
+combined,2025-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9029,Event A Only,2164,0.23967216746040537,prc_ss_anom_la
+combined,2025-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9029,Event B Only,372,0.04120057592202902,prc_ss_anom_la
+combined,2025-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,9029,Neither Event,3638,0.4029239118396279,prc_ss_anom_la
+combined,2026-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7006,Both Events,1672,0.23865258349985727,prc_ss_anom_la
+combined,2026-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7006,Event A Only,2058,0.2937482158150157,prc_ss_anom_la
+combined,2026-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7006,Event B Only,237,0.0338281473023123,prc_ss_anom_la
+combined,2026-01-01,year,SS/SB0 Diagnosis,SCD Associated Pain,7006,Neither Event,3039,0.43377105338281474,prc_ss_anom_la

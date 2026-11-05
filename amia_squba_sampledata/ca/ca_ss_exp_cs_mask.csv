@@ -1,0 +1,5 @@
+site,attrition_step,step_number,num_pts,prop_retained_prior,ct_diff_prior,prop_diff_prior,prop_retained_start,output_function
+PEDSnet,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",1,20455,NA,NA,NA,1,ca_ss_exp_cs
+PEDSnet,Patients with an SS/SB0 genotype diagnosis,2,16190,0.7914935223661697,4265,0.20850647763383037,0.7914935223661697,ca_ss_exp_cs
+PEDSnet,Patients with a hydroxyurea exposure,3,6798,0.41988882025941937,9392,0.5801111797405806,0.33233928134930335,ca_ss_exp_cs
+PEDSnet,Patients with a face-to-face visit with a hematologist,4,5032,0.7402177110914975,1766,0.2597822889085025,0.24600342214617452,ca_ss_exp_cs

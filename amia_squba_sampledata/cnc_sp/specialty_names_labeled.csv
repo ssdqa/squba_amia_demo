@@ -1,0 +1,183 @@
+specialty_concept_id,specialty_concept_name,specialty_name
+38003780,Acupuncturist,Acupuncture
+45756747,Adolescent Medicine,General Pediatrics & Primary Care
+38004448,Allergy / Immunology,Allergy/Immunology
+38004450,Anesthesiology,Anesthesiology
+38004065,Athletic Trainer,Sports Medicine
+38004119,Audiologist,Audiology
+38004126,Audiologist-Hearing Aid Fitter,Audiology
+38004489,Audiology,Audiology
+38004123,Audiology Assistant,Audiology
+38004451,Cardiology,Cardiology
+38004146,Cardiology Technician,Cardiology
+45756754,Cardiovascular Disease,Cardiology
+38004090,Certified Respiratory Therapist,Pulmonology
+45756755,Child Abuse Pediatrics,Social Work
+45756756,Child and Adolescent Psychiatry,Psychology & Psychiatry
+38003640,Clinical Child & Adolescent Psychologist,Psychology & Psychiatry
+45756760,Clinical Genetics (MD),Genetics
+32412,Clinical Genetics and Genomics (MD),Genetics
+38004692,Clinical Laboratory,Pathology
+38004294,Clinical Medical Laboratory,Pathology
+45756763,Clinical Neurophysiology,Neurology
+38003631,Clinical Neuropsychologist,Psychology & Psychiatry
+38004390,Clinical Nurse Specialist,Nurse/PA
+38003937,Clinical Pathology/Laboratory Medicine Physician,Pathology
+38004493,Clinical Psychology,Psychology & Psychiatry
+44777788,Clinical Psychology,Psychology & Psychiatry
+38003657,Clinical Social Worker,Social Work
+38004471,Colorectal Surgery,Surgery
+45756765,Congenital Cardiac Surgery,Cardiology
+38003623,Counselor,Psychology & Psychiatry
+38004500,Critical care (intensivist),Critical Care
+38003684,Dental Hygienist,Dentistry
+38003672,Dentist,Dentistry
+903277,Dentistry,Dentistry
+38004452,Dermatology,Dermatology
+38004219,Developmental Disabilities Clinic/Center,Developmental/Behavioral
+45756768,Developmental-Behavioral Pediatrics,Developmental/Behavioral
+45756769,Diagnostic Radiology,Radiology
+38004009,Diagnostic Ultrasound Physician,Radiology
+38004510,Emergency Medicine,Emergency Medicine
+38003844,Emergency Medicine Physician,Emergency Medicine
+38003868,"Endocrinology, Diabetes & Metabolism Physician",Endocrinology
+45756771,"Endocrinology, Diabetes and Metabolism",Endocrinology
+45756772,Epilepsy,Neurology
+38003851,Family Medicine Physician,General Pediatrics & Primary Care
+38004377,Family Nurse Practitioner,General Pediatrics & Primary Care
+38004453,Family Practice,General Pediatrics & Primary Care
+38004455,Gastroenterology,Gastroenterology
+38003869,Gastroenterology Physician,Gastroenterology
+38004279,General Acute Care Hospital,Critical Care
+2000000063,General Pediatrics,General Pediatrics & Primary Care
+38004446,General Practice,General Pediatrics & Primary Care
+38004447,General Surgery,Surgery
+38004513,Gynecology / Oncology,OB/GYN
+38003902,Gynecology Physician,OB/GYN
+38004501,Hematology,Hematology
+38003871,Hematology (Internal Medicine) Physician,Hematology
+38004502,Hematology / Oncology,Hematology/Oncology
+903281,Hematopoietic Cell Transplantation and Cellular Therapy,Cell Transplant/Cell Therapy
+45756777,Hospice and Palliative Medicine,Palliative Care
+38003857,Hospice and Palliative Medicine (Family Medicine) Physician,Palliative Care
+903278,Hospital Medicine,Hospital Medicine
+38004484,Infectious Disease,Infectious Disease
+38004456,Internal Medicine,Internal Medicine
+45756778,Internal Medicine - Critical Care Medicine,Critical Care
+38003860,Internal Medicine Physician,Internal Medicine
+38004511,Interventional Radiology,Radiology
+38003790,Legal Medicine,Legal Medicine
+38003772,Licensed Practical Nurse,Nurse/PA
+38003774,Licensed Psychiatric Technician,Psychology & Psychiatry
+38003879,Magnetic Resonance Imaging (MRI) Internal Medicine Physician,Radiology
+38004068,Massage Therapist,Massage Therapy
+45756780,Maternal and Fetal Medicine,OB/GYN
+38004504,Maxillofacial Surgery,Surgery
+45756781,Medical Biochemical Genetics,Genetics
+45756782,Medical Genetics and Genomics,Genetics
+38004507,Medical Oncology,Oncology
+38003886,Medical Oncology Physician,Oncology
+38004370,Medical Physician Assistant,Nurse/PA
+45756784,Medical Toxicology,Toxicology
+38003625,Mental Health Counselor,Psychology & Psychiatry
+45756786,Neonatal-Perinatal Medicine,Neonatal Medicine
+38004479,Nephrology,Nephrology
+38004458,Neurology,Neurology
+38003985,Neurology Physician,Neurology
+45756788,Neurology with Special Qualification in Child Neurology,Neurology
+45756791,Neuroradiology,Neurology
+38004459,Neurosurgery,Neurology
+45756792,Neurotology,Neurology
+44814650,No information,Other/Unknown
+0,No matching concept,Other/Unknown
+38003894,Nuclear Medicine Physician,Nuclear Medicine
+38004487,Nurse Practitioner,Nurse/PA
+38003688,Nutritionist,Nutrition
+38004461,Obstetrics / Gynecology,OB/GYN
+38003905,Obstetrics Physician,OB/GYN
+38004076,Occupational Therapist,Occupational Therapy
+38004492,Occupational Therapy,Occupational Therapy
+38003709,Ophthalmic Technician/Technologist,Opthalmology/Optometry
+38004463,Ophthalmology,Opthalmology/Optometry
+38003699,Optometrist,Opthalmology/Optometry
+38004481,Optometry,Opthalmology/Optometry
+44777673,Orthodontics,Dentistry
+45756794,Orthopaedic Sports Medicine,Sports Medicine
+38004465,Orthopedic Surgery,Orthopedics
+44814649,Other,Other/Unknown
+38004155,Other Specialist/Technologist,Other/Unknown
+38004449,Otolaryngology,Otolaryngology
+38004494,Pain Management,Pain Management
+38004466,Pathology,Pathology
+45756797,Pathology - Clinical,Pathology
+45756802,Pathology - Pediatric,Pathology
+38003940,Pediatric Adolescent Medicine Physician,General Pediatrics & Primary Care
+45756804,Pediatric Anesthesiology,Anesthesiology
+45756805,Pediatric Cardiology,Cardiology
+38003948,Pediatric Cardiology Physician,Cardiology
+38004407,Pediatric Clinical Nurse Specialist,Nurse/PA
+45756806,Pediatric Critical Care Medicine,Critical Care
+38003677,Pediatric Dentistry,Dentistry
+45756807,Pediatric Dermatology,Dermatology
+45756808,Pediatric Emergency Medicine,Emergency Medicine
+45756809,Pediatric Endocrinology,Endocrinology
+45756810,Pediatric Gastroenterology,Gastroenterology
+45756811,Pediatric Hematology-Oncology,Hematology/Oncology
+45756812,Pediatric Infectious Diseases,Infectious Disease
+38004477,Pediatric Medicine,Other/Unknown
+45756813,Pediatric Nephrology,Nephrology
+38003946,Pediatric Neurodevelopmental Disabilities Physician,Developmental/Behavioral
+38003691,Pediatric Nutrition Registered Dietitian,Nutrition
+38004087,Pediatric Occupational Therapist,Occupational Therapy
+38003909,Pediatric Orthopaedic Surgery Physician,Orthopedics
+45756814,Pediatric Otolaryngology,Otolaryngology
+45756815,Pediatric Pulmonology,Pulmonology
+45756816,Pediatric Radiology,Radiology
+45756817,Pediatric Rehabilitation Medicine,Rehabilitative Medicine
+45756818,Pediatric Rheumatology,Rheumatology
+38003959,Pediatric Sleep Medicine Physician,Sleep Medicine
+45756819,Pediatric Surgery,Surgery
+45756820,Pediatric Transplant Hepatology,Transplant Hepatology
+45756821,Pediatric Urology,Urology
+38003810,Pharmacist,Pharmacy
+38003819,Pharmacy Technician,Pharmacy
+38004468,Physical Medicine And Rehabilitation,Rehabilitative Medicine
+38004490,Physical Therapist,Physical Therapy
+38004369,Physician Assistant,Nurse/PA
+38004512,Physician Assistant,Nurse/PA
+38004467,Plastic And Reconstructive Surgery,Surgery
+38004247,Primary Care Clinic/Center,General Pediatrics & Primary Care
+38003627,Professional Counselor,Psychology & Psychiatry
+38004349,Prosthetic/Orthotic Supplier,Prosthetics
+38003752,Psychiatric/Mental Health Registered Nurse,Psychology & Psychiatry
+38004469,Psychiatry,Psychology & Psychiatry
+38003634,Psychologist,Psychology & Psychiatry
+45756824,Public Health and General Preventive Medicine,General Pediatrics & Primary Care
+38004472,Pulmonary Disease,Pulmonology
+38003881,Pulmonary Disease Physician,Pulmonology
+38004509,Radiation Oncology,Oncology
+45756825,Radiology,Radiology
+38004250,Radiology Clinic/Center,Radiology
+38004069,Recreation Therapist,Sports Medicine
+38003690,Registered Dietitian,Nutrition
+38004694,Registered Dietitian or Nutrition Professional,Nutrition
+38003716,Registered Nurse,Nurse/PA
+45756826,Reproductive Endocrinology / Infertility,Endocrinology
+38004491,Rheumatology,Rheumatology
+38003882,Rheumatology Physician,Rheumatology
+45756827,Sleep Medicine,Sleep Medicine
+38003656,Social Worker,Social Work
+38004499,Social Worker,Social Work
+38003794,Specialist,Other/Unknown
+38004125,Speech-Language Pathologist,Speech-Language Pathology
+38004122,Speech/Language/Hearing Specialist/Technologist,Speech-Language Pathology
+45756828,Sports Medicine,Sports Medicine
+38004445,Student in an Organized Health Care Education/Training Program,Other/Unknown
+45756830,Thoracic and Cardiac Surgery,Surgery
+38004473,Thoracic Surgery,Surgery
+45756831,Transplant Hepatology,Transplant Hepatology
+38003827,Transplant Surgery Physician,Surgery
+38004514,Unknown Physician Specialty,Other/Unknown
+38004474,Urology,Urology
+45756833,Vascular and Interventional Radiology,Radiology
+38004496,Vascular Surgery,Surgery

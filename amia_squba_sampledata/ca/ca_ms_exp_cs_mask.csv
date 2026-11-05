@@ -1,0 +1,41 @@
+site,num_pts,step_number,attrition_step,prop_retained_prior,ct_diff_prior,prop_diff_prior,prop_retained_start,output_function
+hospital_b,484,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_f,2978,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_k,722,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_e,2848,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_c,1335,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_d,3646,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_m,242,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_h,1559,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_a,3092,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_g,3549,1,"Patients with an SCD diagnosis, with first diagnosis at < 18 years old",NA,NA,NA,1,ca_ms_exp_cs
+hospital_m,170,2,Patients with an SS/SB0 genotype diagnosis,0.7024793388429752,72,0.2975206611570248,0.7024793388429752,ca_ms_exp_cs
+hospital_c,790,2,Patients with an SS/SB0 genotype diagnosis,0.5917602996254682,545,0.40823970037453183,0.5917602996254682,ca_ms_exp_cs
+hospital_d,2896,2,Patients with an SS/SB0 genotype diagnosis,0.7942951179374658,750,0.2057048820625343,0.7942951179374658,ca_ms_exp_cs
+hospital_h,1124,2,Patients with an SS/SB0 genotype diagnosis,0.7209749839640796,435,0.27902501603592045,0.7209749839640796,ca_ms_exp_cs
+hospital_g,2692,2,Patients with an SS/SB0 genotype diagnosis,0.758523527754297,857,0.241476472245703,0.758523527754297,ca_ms_exp_cs
+hospital_a,2404,2,Patients with an SS/SB0 genotype diagnosis,0.777490297542044,688,0.222509702457956,0.777490297542044,ca_ms_exp_cs
+hospital_k,600,2,Patients with an SS/SB0 genotype diagnosis,0.8310249307479224,122,0.16897506925207756,0.8310249307479224,ca_ms_exp_cs
+hospital_e,2723,2,Patients with an SS/SB0 genotype diagnosis,0.9561095505617978,125,0.04389044943820225,0.9561095505617978,ca_ms_exp_cs
+hospital_f,2466,2,Patients with an SS/SB0 genotype diagnosis,0.8280725319006045,512,0.17192746809939558,0.8280725319006045,ca_ms_exp_cs
+hospital_b,325,2,Patients with an SS/SB0 genotype diagnosis,0.6714876033057852,159,0.3285123966942149,0.6714876033057852,ca_ms_exp_cs
+hospital_f,426,3,Patients with a hydroxyurea exposure,0.17274939172749393,2040,0.8272506082725061,0.1430490261920752,ca_ms_exp_cs
+hospital_b,193,3,Patients with a hydroxyurea exposure,0.5938461538461538,132,0.40615384615384614,0.3987603305785124,ca_ms_exp_cs
+hospital_e,1461,3,Patients with a hydroxyurea exposure,0.5365405802423797,1262,0.4634594197576203,0.5129915730337079,ca_ms_exp_cs
+hospital_k,250,3,Patients with a hydroxyurea exposure,0.4166666666666667,350,0.5833333333333334,0.3462603878116344,ca_ms_exp_cs
+hospital_g,1486,3,Patients with a hydroxyurea exposure,0.5520059435364042,1206,0.44799405646359586,0.41870949563257254,ca_ms_exp_cs
+hospital_h,418,3,Patients with a hydroxyurea exposure,0.3718861209964413,706,0.6281138790035588,0.268120590121873,ca_ms_exp_cs
+hospital_a,1068,3,Patients with a hydroxyurea exposure,0.4442595673876872,1336,0.5557404326123128,0.34540750323415265,ca_ms_exp_cs
+hospital_m,75,3,Patients with a hydroxyurea exposure,0.4411764705882353,95,0.5588235294117647,0.30991735537190085,ca_ms_exp_cs
+hospital_d,1053,3,Patients with a hydroxyurea exposure,0.3636049723756906,1843,0.6363950276243094,0.28880965441579814,ca_ms_exp_cs
+hospital_c,368,3,Patients with a hydroxyurea exposure,0.46582278481012657,422,0.5341772151898734,0.27565543071161047,ca_ms_exp_cs
+hospital_f,412,4,Patients with a face-to-face visit with a hematologist,0.9671361502347418,14,0.03286384976525822,0.13834788448623236,ca_ms_exp_cs
+hospital_b,169,4,Patients with a face-to-face visit with a hematologist,0.8756476683937824,24,0.12435233160621761,0.34917355371900827,ca_ms_exp_cs
+hospital_k,239,4,Patients with a face-to-face visit with a hematologist,0.956,11,0.044,0.33102493074792244,ca_ms_exp_cs
+hospital_c,356,4,Patients with a face-to-face visit with a hematologist,0.967391304347826,12,0.03260869565217391,0.26666666666666666,ca_ms_exp_cs
+hospital_m,59,4,Patients with a face-to-face visit with a hematologist,0.7866666666666666,16,0.21333333333333335,0.24380165289256198,ca_ms_exp_cs
+hospital_d,993,4,Patients with a face-to-face visit with a hematologist,0.9430199430199431,60,0.05698005698005698,0.2723532638507954,ca_ms_exp_cs
+hospital_g,1434,4,Patients with a face-to-face visit with a hematologist,0.9650067294751009,52,0.034993270524899055,0.4040574809805579,ca_ms_exp_cs
+hospital_h,355,4,Patients with a face-to-face visit with a hematologist,0.8492822966507177,63,0.1507177033492823,0.22771007055805004,ca_ms_exp_cs
+hospital_a,1015,4,Patients with a face-to-face visit with a hematologist,0.950374531835206,53,0.04962546816479401,0.3282664941785252,ca_ms_exp_cs
+hospital_e,0,4,Patients with a face-to-face visit with a hematologist,0,0,0,0,ca_ms_exp_cs

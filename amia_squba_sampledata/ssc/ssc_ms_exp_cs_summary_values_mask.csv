@@ -1,0 +1,511 @@
+site,cohort_id,cohort_characteristic,fact_group,allsite_median,allsite_q1,allsite_q3,fact_summary,cohort_total_pt,output_function
+hospital_a,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,3.3,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,1.03,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,28.134999999999998,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,41.59,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,10.053,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,187.225,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,20.585,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,14.715,1068,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,3.8899999999999997,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,1.105,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,14.165,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,16.11,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,8.3165,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,81.64,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,10.625,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,6.885,2404,ssc_ms_exp_cs
+hospital_a,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,4.03,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,1.205,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,10.71,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,9.64,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,7.4239999999999995,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,52.8,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,8.065000000000001,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,4.58,3092,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,5.87,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,5.36,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,53.93,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,72.8,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,7.532,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,285.28,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,96.86,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,3.39,193,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,4.99,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,4.42,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,34.05,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,39.71,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,6.478,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,153.33,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,61.69,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,1.59,325,ssc_ms_exp_cs
+hospital_b,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,5.295,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,3.975,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,22.805,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,18.775,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,3.918,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,79.785,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,34.905,484,ssc_ms_exp_cs
+hospital_b,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,0.8,484,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,6.16,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,5.805,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,54.93,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,63.12,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,12.652999999999999,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,325.005,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,108.66,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,21.315,368,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,5.17,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,4.27,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,36.004999999999995,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,29.835,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,11.2675,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,162.83499999999998,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,64.27,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,12.08,790,ssc_ms_exp_cs
+hospital_c,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,6.05,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,4.35,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,24.51,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,13.25,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,10.292,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,68.97,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,37.92,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,2.65,1335,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,3.43,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,0.55,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,45.2,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,117.95,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,11.699,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,261.36,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,135.11,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,18.34,1053,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,4.14,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,0.665,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,23.64,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,40.599999999999994,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,10.461,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,107.31,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,64.50999999999999,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,6.23,2896,ssc_ms_exp_cs
+hospital_d,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,4.16,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,0.62,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,19.835,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,27.475,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,10.0165,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,71.24,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,46.730000000000004,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,3.575,3646,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,5.91,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,2.57,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,13.04,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,30.45,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,7.855,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,412.27,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,0.49,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,0,1461,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,5.55,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,1.87,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,8.52,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,15.06,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,5.788,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,195.82,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,0.24,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,0,2723,ssc_ms_exp_cs
+hospital_e,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,5.79,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,2.065,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,8.02,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,14.934999999999999,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,5.54,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,188.61,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,0.21,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,0,2848,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,4.74,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,3.135,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,71.245,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,120.525,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,11.072,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,334.39,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,209.235,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,21.634999999999998,426,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,0.215,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,0.02,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,17.035,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,11.33,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,10.1725,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,15.77,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,15.85,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,0.5,2466,ssc_ms_exp_cs
+hospital_f,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,0.27,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,0.02,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,15.965,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,10.5,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,9.881,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,15.754999999999999,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,15.01,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,0.47,2978,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,-2451017.19,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,-2451017.34,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,67.41999999999999,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,38.739999999999995,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,10.171,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,283.01,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,116.49000000000001,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,26.395000000000003,1486,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,-2451447.555,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,-2451447.555,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,42.695,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,24.475,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,8.163,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,185.55,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,78.68,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,17.4,2692,ssc_ms_exp_cs
+hospital_g,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,-2451421.52,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,-2451421.52,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,32.01,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,16.98,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,7.165,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,131.74,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,55.82,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,11.72,3549,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,4.42,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,2.61,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,67.105,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,69.25999999999999,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,9.092500000000001,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,205.095,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,80.095,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,10.975000000000001,418,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,4.055,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,1.935,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,29.64,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,23.435,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,6.218999999999999,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,100.93,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,38.215,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,5.305,1124,ssc_ms_exp_cs
+hospital_h,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,4.63,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,2.01,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,23.25,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,12.27,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,4.977,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,69.26,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,26.6,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,3.54,1559,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,3.115,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,1.4449999999999998,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,58.43,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,70.22999999999999,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,7.326,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,466.88,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,77.505,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,15.629999999999999,250,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,3.54,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,1.355,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,28.405,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,20.975,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,5.477,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,227.08999999999997,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,40.41,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,7.59,600,ssc_ms_exp_cs
+hospital_k,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,3.965,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,1.58,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,23.865000000000002,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,13.705,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,5.5055,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,171.22,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,33.415,722,ssc_ms_exp_cs
+hospital_k,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,5.71,722,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,0.02,8.93,7.89,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,0,6.38,6.84,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,14.81,81.8775,37.78,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,19.08,131.945,39.78,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,4.871,14.628,10.987,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,135.0675,576.565,159.19,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,5.81,161.745,38.55,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,0.28,26.255,12.75,75,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,0.09,8.2575,7.195,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,0.01,4.99,6.18,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,6.95,50.69500000000001,12.504999999999999,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,4.5625,68.2625,12.98,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,3.5157499999999997,13.342749999999999,8.153500000000001,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,21,334.3725,56.56,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,3.9825,91.1075,14.285,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,0.07,15.797500000000001,2.065,170,ssc_ms_exp_cs
+hospital_m,base_cohort,median_age_cohort_entry,Cohort Details,1.49,0.09,8.75,7.525,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_age_first_visit,Cohort Details,0.16,0.01,5.26,5.6850000000000005,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_conditions_ppy,Clinical Facts,16.53,5.56,45.42,10.165,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_drugs_ppy,Clinical Facts,14.39,2.81,54.965,8.015,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_fu,Cohort Details,7.762,2.899,12.857,6.728,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_labs_ppy,Clinical Facts,74.21,12.625,276.335,30.495,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_procedures_ppy,Clinical Facts,18.01,3.48,76.25999999999999,11.25,242,ssc_ms_exp_cs
+hospital_m,base_cohort,median_specialty_visits_ppy,Utilization,1.84,0,12.81,0.91,242,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.8361423220973783,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8164794007490637,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.5056179775280899,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.09550561797752809,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.027153558052434457,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.09737827715355805,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.0299625468164794,1068,ssc_ms_exp_cs
+hospital_a,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.02902621722846442,1068,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.6763727121464226,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.0024958402662229617,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.8148918469217971,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.5058236272878536,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.08153078202995008,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.022878535773710483,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.09026622296173045,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.03743760399334443,2404,ssc_ms_exp_cs
+hospital_a,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.032029950083194675,2404,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.5776196636481242,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.0038809831824062097,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.7930142302716688,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.49902975420439843,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.08441138421733506,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.0258732212160414,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.09605433376455369,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.04042690815006468,3092,ssc_ms_exp_cs
+hospital_a,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.0407503234152652,3092,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.9430051813471503,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.0051813471502590676,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8238341968911918,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.5025906735751295,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.08808290155440414,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.046632124352331605,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.09844559585492228,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.02072538860103627,193,ssc_ms_exp_cs
+hospital_b,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.0051813471502590676,193,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.8246153846153846,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.027692307692307693,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.76,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.49846153846153846,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.08,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.05846153846153846,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.1076923076923077,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.027692307692307693,325,ssc_ms_exp_cs
+hospital_b,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.018461538461538463,325,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.6322314049586777,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.045454545454545456,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.6818181818181818,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.493801652892562,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.09297520661157024,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.07644628099173553,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.128099173553719,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.028925619834710745,484,ssc_ms_exp_cs
+hospital_b,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.03925619834710744,484,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.904891304347826,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.002717391304347826,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8994565217391305,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.4891304347826087,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.019021739130434784,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.024456521739130436,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.024456521739130436,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0,368,ssc_ms_exp_cs
+hospital_c,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.035326086956521736,368,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.740506329113924,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.01139240506329114,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.740506329113924,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.47468354430379744,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.0189873417721519,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.0189873417721519,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.04177215189873418,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.002531645569620253,790,ssc_ms_exp_cs
+hospital_c,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.1670886075949367,790,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.5647940074906367,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.012734082397003745,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.6494382022471911,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.4756554307116105,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.02397003745318352,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.027715355805243445,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.04943820224719101,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.00299625468164794,1335,ssc_ms_exp_cs
+hospital_c,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.2441947565543071,1335,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.8736942070275404,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.004748338081671415,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8613485280151947,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.49002849002849,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.07502374169040836,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.026590693257359924,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.08167141500474834,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.012345679012345678,1053,ssc_ms_exp_cs
+hospital_d,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.013295346628679962,1053,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.6550414364640884,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.015883977900552487,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.7040745856353591,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.4713397790055249,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.06975138121546962,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.02175414364640884,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.08736187845303868,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.008632596685082873,2896,ssc_ms_exp_cs
+hospital_d,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.162292817679558,2896,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.5704882062534284,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.022490400438837082,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.6812945693911135,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.4777838727372463,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.0721338453099287,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.026330224904004388,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.0902358749314317,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.009873834339001646,3646,ssc_ms_exp_cs
+hospital_d,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.16977509599561164,3646,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.7987679671457906,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.0013689253935660506,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.9274469541409993,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.5003422313483915,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.03764544832306639,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.043121149897330596,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.023956194387405885,1461,ssc_ms_exp_cs
+hospital_e,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.004106776180698152,1461,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.6177010650018362,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.010282776349614395,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.8810135879544619,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.4899008446566287,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.045170767535806094,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.05325009181050312,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.033786265148733015,2723,ssc_ms_exp_cs
+hospital_e,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.021667278736687477,2723,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.5962078651685393,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.009831460674157303,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.8792134831460674,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.4866573033707865,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.04529494382022472,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.05372191011235955,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.03441011235955056,2848,ssc_ms_exp_cs
+hospital_e,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.02282303370786517,2848,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.9483568075117371,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.002347417840375587,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8169014084507042,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.5,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.018779342723004695,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.06103286384976526,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.007042253521126761,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0,426,ssc_ms_exp_cs
+hospital_f,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.004694835680751174,426,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.42011354420113545,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.025547445255474453,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.7566909975669099,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.5056772100567721,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.021897810218978103,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.10665044606650446,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.008110300081103,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.0024330900243309003,2466,ssc_ms_exp_cs
+hospital_f,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.028386050283860504,2466,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.3878441907320349,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.026527871054398924,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.7340496977837475,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.5010073875083949,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.02216252518468771,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.1051040967092008,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.0083948959032908,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.005372733378106112,2978,ssc_ms_exp_cs
+hospital_f,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.052048354600402955,2978,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.9226110363391655,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.008748317631224764,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8775235531628532,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.46837146702557203,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.08748317631224764,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.01547779273216689,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.02557200538358008,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0,1486,ssc_ms_exp_cs
+hospital_g,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.07267833109017496,1486,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.8424962852897474,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.011144130757800892,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.8610698365527489,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.4769687964338782,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.08432392273402675,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.016716196136701337,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.03714710252600297,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0,2692,ssc_ms_exp_cs
+hospital_g,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.07392273402674591,2692,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.7038602423217808,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.017187940264863342,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.7962806424344886,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.47478162862778245,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.1073541842772612,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.017187940264863342,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.055226824457593686,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0,3549,ssc_ms_exp_cs
+hospital_g,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.11411665257819104,3549,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.9114832535885168,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.0023923444976076554,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.8971291866028708,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.47129186602870815,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.0430622009569378,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.028708133971291867,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.04784688995215311,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.011961722488038277,418,ssc_ms_exp_cs
+hospital_h,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.011961722488038277,418,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.7455516014234875,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.011565836298932384,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.847864768683274,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.4919928825622776,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.04715302491103203,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.026690391459074734,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.05871886120996441,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.02224199288256228,1124,ssc_ms_exp_cs
+hospital_h,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.03291814946619217,1124,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.5926876202694035,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.01667735728030789,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.7876844130853111,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.49518922386144965,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.0750481077613855,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.027581783194355357,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.08402822322001283,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.03143040410519564,1559,ssc_ms_exp_cs
+hospital_h,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.05259781911481719,1559,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.872,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.008,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.788,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.54,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.076,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.052,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.056,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.032,250,ssc_ms_exp_cs
+hospital_k,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.064,250,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.72,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.02,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.71,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.49666666666666665,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.1,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.055,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.07,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.041666666666666664,600,ssc_ms_exp_cs
+hospital_k,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.10333333333333333,600,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.6551246537396122,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.018005540166204988,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.6648199445983379,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.4930747922437673,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.10249307479224377,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.062326869806094184,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.07894736842105263,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.04709141274238227,722,ssc_ms_exp_cs
+hospital_k,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.12880886426592797,722,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.8892927556876833,0.848,0.9198290906515034,0.84,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_asian_race,Demographics,0.0037328646930096204,0.002358649504683604,0.007295336787564767,0.02666666666666667,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_black_race,Demographics,0.8425913624531932,0.8165849026744738,0.8922277782428665,0.6533333333333333,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_female,Demographics,0.4966666666666667,0.489354948594079,0.502028563018445,0.49333333333333335,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_hispanic,Demographics,0.07551187084520418,0.03899963648153425,0.08793297024386501,0.16,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.026910112359550563,0.02499006461868781,0.04215112675707167,0.02666666666666667,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_other_race,Demographics,0.05192344497607655,0.02995929151201771,0.09345156161635562,0.13333333333333333,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.016535533806690976,0.0029904306220095694,0.02846095870921102,0.13333333333333333,75,ssc_ms_exp_cs
+hospital_m,Hydroxyurea Exposure,prop_white_race,Demographics,0.019981006647673313,0.00687644098470387,0.033751119524507406,0.02666666666666667,75,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6981863560732113,0.6270361578673993,0.7442902833460966,0.611764705882353,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.013724907099742435,0.011206199334173453,0.01941176470588235,0.01764705882352941,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_black_race,Demographics,0.758345498783455,0.717626582278481,0.8396215382429048,0.6,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_female,Demographics,0.49094686360945317,0.47525485733631767,0.4980128205128205,0.4647058823529412,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.0748756906077348,0.04566633187961258,0.08362563755800757,0.11176470588235295,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.02231633971005966,0.017982129560685033,0.047922597864768685,0.01764705882352941,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_other_race,Demographics,0.06435943060498221,0.04464163687667641,0.08801694020149496,0.08823529411764706,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.024967150287434986,0.004056883348485908,0.036524769282191574,0.21176470588235294,170,ssc_ms_exp_cs
+hospital_m,SS/SB0 Diagnosis,prop_white_race,Demographics,0.04881201590956667,0.029297025233694048,0.09598068350668648,0.06470588235294118,170,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_SCD Associated Pain,Outcomes,0.5851536419587638,0.5662175571813346,0.6232255200111431,0.48760330578512395,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_asian_race,Demographics,0.017596740215534167,0.01371990111782978,0.025518503400508465,0.03305785123966942,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_black_race,Demographics,0.7079339398009646,0.6689386007965319,0.7916817759750794,0.5206611570247934,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_female,Demographics,0.48986604780727694,0.47618754121801943,0.4948423311192277,0.45867768595041325,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_hispanic,Demographics,0.07972974598936028,0.05200466919265071,0.1001136077470754,0.10743801652892562,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_mixed_race,Demographics,0.026956004049179874,0.019359260502657856,0.0536739913058815,0.01652892561983471,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_other_race,Demographics,0.08148779582053273,0.054098138698668086,0.08937112107460683,0.08677685950413223,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_unknown_race,Demographics,0.030178011969953192,0.006498008618329994,0.03892270920243615,0.2603305785123967,242,ssc_ms_exp_cs
+hospital_m,base_cohort,prop_white_race,Demographics,0.06762122360699538,0.04357483121154964,0.12513581134399374,0.08264462809917356,242,ssc_ms_exp_cs

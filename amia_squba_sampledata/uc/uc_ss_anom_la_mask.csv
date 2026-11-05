@@ -1,0 +1,49 @@
+site,time_start,time_increment,variable,total_rows,total_pt,unmapped_rows,unmapped_pt,median_all_with0s,median_all_without0s,median_site_with0s,median_site_without0s,unmapped_row_prop,unmapped_pt_prop,output_function
+combined,2015-01-01,year,hydroxyurea dose,16486,9980,4428,776,0,2,0,2,0.27,0.08,uc_ss_anom_la
+combined,2015-01-01,year,hemoglobin unit,51610,9980,259,138,0,1,0,1,0.01,0.01,uc_ss_anom_la
+combined,2015-01-01,year,conditions,455279,9980,17634,1403,0,4,0,4,0.04,0.14,uc_ss_anom_la
+combined,2015-01-01,year,procedures,923841,9980,126243,3270,0,8,0,8,0.14,0.33,uc_ss_anom_la
+combined,2016-01-01,year,hydroxyurea dose,24117,10629,5035,861,0,2,0,2,0.21,0.08,uc_ss_anom_la
+combined,2016-01-01,year,hemoglobin unit,51379,10629,173,82,0,1,0,1,0,0.01,uc_ss_anom_la
+combined,2016-01-01,year,conditions,474963,10629,12778,1221,0,3,0,3,0.03,0.11,uc_ss_anom_la
+combined,2016-01-01,year,procedures,881285,10629,112656,3203,0,8,0,8,0.13,0.3,uc_ss_anom_la
+combined,2017-01-01,year,hydroxyurea dose,25044,11154,4964,880,0,2,0,2,0.2,0.08,uc_ss_anom_la
+combined,2017-01-01,year,hemoglobin unit,52376,11154,188,64,0,1,0,1,0,0.01,uc_ss_anom_la
+combined,2017-01-01,year,conditions,499842,11154,13031,1389,0,3,0,3,0.03,0.12,uc_ss_anom_la
+combined,2017-01-01,year,procedures,926120,11154,124008,3261,0,8,0,8,0.13,0.29,uc_ss_anom_la
+combined,2018-01-01,year,hydroxyurea dose,26394,11592,5034,923,0,2,0,2,0.19,0.08,uc_ss_anom_la
+combined,2018-01-01,year,hemoglobin unit,51396,11592,155,50,0,1,0,1,0,0,uc_ss_anom_la
+combined,2018-01-01,year,conditions,505859,11592,13204,1361,0,3,0,3,0.03,0.12,uc_ss_anom_la
+combined,2018-01-01,year,procedures,848433,11592,117004,3250,0,8,0,8,0.14,0.28,uc_ss_anom_la
+combined,2019-01-01,year,hydroxyurea dose,34624,12018,5264,1007,0,2,0,2,0.15,0.08,uc_ss_anom_la
+combined,2019-01-01,year,hemoglobin unit,54077,12018,314,211,0,1,0,1,0.01,0.02,uc_ss_anom_la
+combined,2019-01-01,year,conditions,573288,12018,14747,1506,0,3,0,3,0.03,0.13,uc_ss_anom_la
+combined,2019-01-01,year,procedures,907840,12018,134758,3386,0,9,0,9,0.15,0.28,uc_ss_anom_la
+combined,2020-01-01,year,hydroxyurea dose,25125,12126,5524,1097,0,2,0,2,0.22,0.09,uc_ss_anom_la
+combined,2020-01-01,year,hemoglobin unit,47047,12126,550,208,0,1,0,1,0.01,0.02,uc_ss_anom_la
+combined,2020-01-01,year,conditions,533197,12126,13783,1315,0,3,0,3,0.03,0.11,uc_ss_anom_la
+combined,2020-01-01,year,procedures,778306,12126,102773,3096,0,7,0,7,0.13,0.26,uc_ss_anom_la
+combined,2021-01-01,year,hydroxyurea dose,28792,12412,5924,1151,0,2,0,2,0.21,0.09,uc_ss_anom_la
+combined,2021-01-01,year,hemoglobin unit,52211,12412,389,55,0,1,0,1,0.01,0,uc_ss_anom_la
+combined,2021-01-01,year,conditions,597877,12412,16380,1387,0,4,0,4,0.03,0.11,uc_ss_anom_la
+combined,2021-01-01,year,procedures,860814,12412,123947,3359,0,8,0,8,0.14,0.27,uc_ss_anom_la
+combined,2022-01-01,year,hydroxyurea dose,27686,12560,6155,1222,0,3,0,3,0.22,0.1,uc_ss_anom_la
+combined,2022-01-01,year,hemoglobin unit,50602,12560,166,43,0,1,0,1,0,0,uc_ss_anom_la
+combined,2022-01-01,year,conditions,600141,12560,16741,1579,0,3,0,3,0.03,0.13,uc_ss_anom_la
+combined,2022-01-01,year,procedures,963441,12560,136860,3625,0,8,0,8,0.14,0.29,uc_ss_anom_la
+combined,2023-01-01,year,hydroxyurea dose,29752,12173,6842,1366,0,3,0,3,0.23,0.11,uc_ss_anom_la
+combined,2023-01-01,year,hemoglobin unit,45333,12173,213,44,0,1,0,1,0,0,uc_ss_anom_la
+combined,2023-01-01,year,conditions,618068,12173,15119,1507,0,4,0,4,0.02,0.12,uc_ss_anom_la
+combined,2023-01-01,year,procedures,963673,12173,127260,3714,0,8,0,8,0.13,0.31,uc_ss_anom_la
+combined,2024-01-01,year,hydroxyurea dose,32485,12097,6528,1363,0,3,0,3,0.2,0.11,uc_ss_anom_la
+combined,2024-01-01,year,hemoglobin unit,51108,12097,171,27,0,1,0,1,0,0,uc_ss_anom_la
+combined,2024-01-01,year,conditions,696343,12097,17697,1608,0,4,0,4,0.03,0.13,uc_ss_anom_la
+combined,2024-01-01,year,procedures,1111439,12097,170384,3813,0,11,0,11,0.15,0.32,uc_ss_anom_la
+combined,2025-01-01,year,hydroxyurea dose,31245,11246,7298,1466,0,2,0,2,0.23,0.13,uc_ss_anom_la
+combined,2025-01-01,year,hemoglobin unit,51058,11246,18,18,0,1,0,1,0,0,uc_ss_anom_la
+combined,2025-01-01,year,conditions,745756,11246,19487,1567,0,4,0,4,0.03,0.14,uc_ss_anom_la
+combined,2025-01-01,year,procedures,1160727,11246,165082,3749,0,9,0,9,0.14,0.33,uc_ss_anom_la
+combined,2026-01-01,year,hydroxyurea dose,9692,8602,3013,939,1,2,1,2,0.31,0.11,uc_ss_anom_la
+combined,2026-01-01,year,hemoglobin unit,21286,8602,5,5,0,1,0,1,0,0,uc_ss_anom_la
+combined,2026-01-01,year,conditions,315261,8602,8897,978,0,3,0,3,0.03,0.11,uc_ss_anom_la
+combined,2026-01-01,year,procedures,500461,8602,68125,2713,0,6,0,6,0.14,0.32,uc_ss_anom_la

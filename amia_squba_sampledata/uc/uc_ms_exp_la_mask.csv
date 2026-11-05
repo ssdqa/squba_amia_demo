@@ -1,0 +1,481 @@
+site,time_start,time_increment,variable,total_rows,total_pt,unmapped_rows,median_all_with0s,median_all_without0s,median_site_with0s,median_site_without0s,unmapped_row_prop,output_function,unmapped_pt,unmapped_pt_prop
+hospital_m,2015-01-01,year,hydroxyurea dose,251,106,251,0,2,3,3,1,uc_ms_exp_la,17,0.16037735849056603
+hospital_g,2015-01-01,year,hydroxyurea dose,2763,1629,554,0,2,0,2,0.2,uc_ms_exp_la,189,0.11602209944751381
+hospital_h,2015-01-01,year,hydroxyurea dose,1041,617,1041,0,2,3,3,1,uc_ms_exp_la,66,0.10696920583468396
+hospital_c,2015-01-01,year,hydroxyurea dose,797,848,391,0,2,3,3,0.49,uc_ms_exp_la,89,0.10495283018867925
+hospital_b,2015-01-01,year,hydroxyurea dose,202,157,65,0,2,2,2,0.32,uc_ms_exp_la,29,0.18471337579617833
+hospital_e,2015-01-01,year,hydroxyurea dose,1469,1050,144,0,2,0,1,0.1,uc_ms_exp_la,80,0.0761904761904762
+hospital_f,2015-01-01,year,hydroxyurea dose,849,1682,90,0,2,1,2,0.11,uc_ms_exp_la,38,0.022592152199762187
+hospital_a,2015-01-01,year,hydroxyurea dose,2580,1425,1628,0,2,4,9,0.63,uc_ms_exp_la,151,0.10596491228070175
+hospital_k,2015-01-01,year,hydroxyurea dose,301,292,14,0,2,0,1,0.05,uc_ms_exp_la,9,0.030821917808219176
+hospital_d,2015-01-01,year,hydroxyurea dose,6233,2174,260,0,2,0,2,0.04,uc_ms_exp_la,114,0.05243790248390064
+hospital_b,2015-01-01,year,hemoglobin unit,921,157,12,0,1,0,1,0.01,uc_ms_exp_la,2,0.012738853503184714
+hospital_c,2015-01-01,year,hemoglobin unit,6932,848,62,0,1,0,1,0.01,uc_ms_exp_la,28,0.0330188679245283
+hospital_e,2015-01-01,year,hemoglobin unit,7329,1050,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2015-01-01,year,hemoglobin unit,11080,1629,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2015-01-01,year,hemoglobin unit,531,106,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2015-01-01,year,hemoglobin unit,2478,617,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2015-01-01,year,hemoglobin unit,4374,1682,36,0,1,0,8,0.01,uc_ms_exp_la,8,0.0047562425683709865
+hospital_a,2015-01-01,year,hemoglobin unit,5168,1425,78,0,1,0,2,0.02,uc_ms_exp_la,33,0.023157894736842106
+hospital_d,2015-01-01,year,hemoglobin unit,10642,2174,81,0,1,0,1,0.01,uc_ms_exp_la,70,0.03219871205151794
+hospital_k,2015-01-01,year,hemoglobin unit,2155,292,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2015-01-01,year,conditions,6707,106,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2015-01-01,year,conditions,139563,1629,13752,0,4,3,6,0.1,uc_ms_exp_la,867,0.5322283609576427
+hospital_h,2015-01-01,year,conditions,45385,617,434,0,4,0,2,0.01,uc_ms_exp_la,66,0.10696920583468396
+hospital_e,2015-01-01,year,conditions,9896,1050,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2015-01-01,year,conditions,52757,848,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2015-01-01,year,conditions,6189,157,311,0,4,0,2,0.05,uc_ms_exp_la,48,0.3057324840764331
+hospital_a,2015-01-01,year,conditions,31839,1425,20,0,4,0,1,0,uc_ms_exp_la,12,0.008421052631578947
+hospital_k,2015-01-01,year,conditions,19513,292,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2015-01-01,year,conditions,101482,2174,3017,0,4,0,2,0.03,uc_ms_exp_la,350,0.1609935602575897
+hospital_f,2015-01-01,year,conditions,41948,1682,100,0,4,0,1,0,uc_ms_exp_la,60,0.0356718192627824
+hospital_a,2015-01-01,year,procedures,48439,1425,3918,0,8,0,8,0.08,uc_ms_exp_la,315,0.22105263157894736
+hospital_d,2015-01-01,year,procedures,284732,2174,37463,0,8,4,8,0.13,uc_ms_exp_la,1319,0.6067157313707452
+hospital_f,2015-01-01,year,procedures,156906,1682,336,0,8,0,2,0,uc_ms_exp_la,119,0.07074910820451843
+hospital_k,2015-01-01,year,procedures,29835,292,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2015-01-01,year,procedures,24866,157,6599,0,8,3,15,0.27,uc_ms_exp_la,83,0.5286624203821656
+hospital_c,2015-01-01,year,procedures,90758,848,1961,0,8,0,3,0.02,uc_ms_exp_la,271,0.31957547169811323
+hospital_e,2015-01-01,year,procedures,1139,1050,40,0,8,0,1,0.04,uc_ms_exp_la,33,0.03142857142857143
+hospital_h,2015-01-01,year,procedures,51917,617,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2015-01-01,year,procedures,228537,1629,74271,0,8,10,15,0.32,uc_ms_exp_la,1062,0.6519337016574586
+hospital_m,2015-01-01,year,procedures,6712,106,1655,0,8,4,6,0.25,uc_ms_exp_la,68,0.6415094339622641
+hospital_g,2016-01-01,year,hydroxyurea dose,2923,1728,546,0,2,0,2,0.19,uc_ms_exp_la,179,0.10358796296296297
+hospital_h,2016-01-01,year,hydroxyurea dose,1083,613,1083,0,2,4,4,1,uc_ms_exp_la,72,0.11745513866231648
+hospital_b,2016-01-01,year,hydroxyurea dose,218,175,93,0,2,2,2,0.43,uc_ms_exp_la,39,0.22285714285714286
+hospital_d,2016-01-01,year,hydroxyurea dose,11135,2187,207,0,2,0,1,0.02,uc_ms_exp_la,105,0.04801097393689986
+hospital_m,2016-01-01,year,hydroxyurea dose,284,119,284,0,2,5.5,5.5,1,uc_ms_exp_la,22,0.18487394957983194
+hospital_f,2016-01-01,year,hydroxyurea dose,938,1911,102,0,2,0,2,0.11,uc_ms_exp_la,44,0.023024594453165882
+hospital_e,2016-01-01,year,hydroxyurea dose,3020,1273,214,0,2,0,1,0.07,uc_ms_exp_la,106,0.08326787117046347
+hospital_c,2016-01-01,year,hydroxyurea dose,832,873,400,0,2,3,3,0.48,uc_ms_exp_la,113,0.12943871706758306
+hospital_k,2016-01-01,year,hydroxyurea dose,455,302,8,0,2,0,1.5,0.02,uc_ms_exp_la,5,0.016556291390728478
+hospital_a,2016-01-01,year,hydroxyurea dose,3229,1448,2103,0,2,6,10,0.65,uc_ms_exp_la,179,0.12361878453038674
+hospital_a,2016-01-01,year,hemoglobin unit,5585,1448,94,0,1,0,1,0.02,uc_ms_exp_la,40,0.027624309392265192
+hospital_d,2016-01-01,year,hemoglobin unit,9702,2187,36,0,1,0,1,0,uc_ms_exp_la,24,0.010973936899862825
+hospital_m,2016-01-01,year,hemoglobin unit,646,119,9,0,1,0,1,0.01,uc_ms_exp_la,6,0.05042016806722689
+hospital_f,2016-01-01,year,hemoglobin unit,4710,1911,22,0,1,0,2,0,uc_ms_exp_la,9,0.004709576138147566
+hospital_h,2016-01-01,year,hemoglobin unit,2439,613,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2016-01-01,year,hemoglobin unit,10518,1728,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2016-01-01,year,hemoglobin unit,757,175,5,0,1,0,1,0.01,uc_ms_exp_la,2,0.011428571428571429
+hospital_k,2016-01-01,year,hemoglobin unit,2041,302,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2016-01-01,year,hemoglobin unit,9021,1273,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2016-01-01,year,hemoglobin unit,5960,873,18,0,1,0,1,0,uc_ms_exp_la,10,0.011454753722794959
+hospital_a,2016-01-01,year,conditions,36513,1448,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2016-01-01,year,conditions,20423,302,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2016-01-01,year,conditions,46426,873,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2016-01-01,year,conditions,21228,1273,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2016-01-01,year,conditions,8088,175,16,0,3,0,2,0,uc_ms_exp_la,9,0.05142857142857143
+hospital_g,2016-01-01,year,conditions,141755,1728,8744,0,3,1,4,0.06,uc_ms_exp_la,739,0.42766203703703703
+hospital_h,2016-01-01,year,conditions,40067,613,668,0,3,0,4,0.02,uc_ms_exp_la,89,0.14518760195758565
+hospital_m,2016-01-01,year,conditions,6035,119,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2016-01-01,year,conditions,51421,1911,92,0,3,0,1,0,uc_ms_exp_la,60,0.03139717425431711
+hospital_d,2016-01-01,year,conditions,103007,2187,3272,0,3,0,3,0.03,uc_ms_exp_la,332,0.1518061271147691
+hospital_b,2016-01-01,year,procedures,17357,175,3573,0,8,1,14.5,0.21,uc_ms_exp_la,82,0.4685714285714286
+hospital_e,2016-01-01,year,procedures,1447,1273,67,0,8,0,1,0.05,uc_ms_exp_la,47,0.036920659858601726
+hospital_c,2016-01-01,year,procedures,74765,873,1624,0,8,0,2,0.02,uc_ms_exp_la,281,0.3218785796105384
+hospital_k,2016-01-01,year,procedures,27667,302,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2016-01-01,year,procedures,206210,1728,62163,0,8,11,15,0.3,uc_ms_exp_la,1067,0.6174768518518519
+hospital_h,2016-01-01,year,procedures,54573,613,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_a,2016-01-01,year,procedures,51525,1448,3376,0,8,0,6,0.07,uc_ms_exp_la,324,0.22375690607734808
+hospital_f,2016-01-01,year,procedures,176123,1911,32,0,8,0,2,0,uc_ms_exp_la,11,0.0057561486132914706
+hospital_d,2016-01-01,year,procedures,264693,2187,40154,0,8,4,7,0.15,uc_ms_exp_la,1319,0.6031092821216278
+hospital_m,2016-01-01,year,procedures,6925,119,1667,0,8,5,7.5,0.24,uc_ms_exp_la,72,0.6050420168067226
+hospital_m,2017-01-01,year,hydroxyurea dose,205,124,205,0,2,2.5,2.5,1,uc_ms_exp_la,20,0.16129032258064516
+hospital_a,2017-01-01,year,hydroxyurea dose,3532,1476,2265,0,2,5,9,0.64,uc_ms_exp_la,184,0.12466124661246612
+hospital_k,2017-01-01,year,hydroxyurea dose,653,307,13,0,2,0,1,0.02,uc_ms_exp_la,7,0.02280130293159609
+hospital_c,2017-01-01,year,hydroxyurea dose,929,900,453,0,2,2,2,0.49,uc_ms_exp_la,125,0.1388888888888889
+hospital_e,2017-01-01,year,hydroxyurea dose,3047,1388,210,0,2,0,1,0.07,uc_ms_exp_la,104,0.07492795389048991
+hospital_g,2017-01-01,year,hydroxyurea dose,2993,1829,545,0,2,0,2,0.18,uc_ms_exp_la,189,0.10333515582285402
+hospital_b,2017-01-01,year,hydroxyurea dose,187,185,82,0,2,1,1,0.44,uc_ms_exp_la,46,0.24864864864864866
+hospital_f,2017-01-01,year,hydroxyurea dose,802,2067,83,0,2,0,2,0.1,uc_ms_exp_la,39,0.018867924528301886
+hospital_h,2017-01-01,year,hydroxyurea dose,893,651,893,0,2,4,4,1,uc_ms_exp_la,71,0.10906298003072197
+hospital_d,2017-01-01,year,hydroxyurea dose,11803,2227,227,0,2,0,1,0.02,uc_ms_exp_la,101,0.04535249214189493
+hospital_a,2017-01-01,year,hemoglobin unit,5675,1476,102,0,1,0,1,0.02,uc_ms_exp_la,33,0.022357723577235773
+hospital_k,2017-01-01,year,hemoglobin unit,1941,307,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2017-01-01,year,hemoglobin unit,6968,900,26,0,1,0,3,0,uc_ms_exp_la,3,0.0033333333333333335
+hospital_m,2017-01-01,year,hemoglobin unit,552,124,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2017-01-01,year,hemoglobin unit,8794,1388,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2017-01-01,year,hemoglobin unit,10876,1829,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2017-01-01,year,hemoglobin unit,811,185,10,0,1,0,1,0.01,uc_ms_exp_la,3,0.016216216216216217
+hospital_f,2017-01-01,year,hemoglobin unit,5113,2067,40,0,1,0,1.5,0.01,uc_ms_exp_la,10,0.004837929366231253
+hospital_d,2017-01-01,year,hemoglobin unit,9012,2227,11,0,1,0,3.5,0,uc_ms_exp_la,8,0.003592276605298608
+hospital_h,2017-01-01,year,hemoglobin unit,2634,651,12,0,1,0,1,0,uc_ms_exp_la,7,0.010752688172043012
+hospital_a,2017-01-01,year,conditions,34973,1476,12,0,3,0,2,0,uc_ms_exp_la,8,0.005420054200542005
+hospital_m,2017-01-01,year,conditions,6395,124,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2017-01-01,year,conditions,45738,900,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2017-01-01,year,conditions,19691,307,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2017-01-01,year,conditions,23085,1388,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2017-01-01,year,conditions,155654,1829,9160,0,3,1,3,0.06,uc_ms_exp_la,785,0.4291962821213778
+hospital_b,2017-01-01,year,conditions,9397,185,11,0,3,0,1,0,uc_ms_exp_la,8,0.043243243243243246
+hospital_f,2017-01-01,year,conditions,61833,2067,102,0,3,0,1,0,uc_ms_exp_la,82,0.03967102080309628
+hospital_d,2017-01-01,year,conditions,98788,2227,3161,0,3,0,2,0.03,uc_ms_exp_la,421,0.18904355635383924
+hospital_h,2017-01-01,year,conditions,44288,651,595,0,3,0,3,0.01,uc_ms_exp_la,92,0.141321044546851
+hospital_a,2017-01-01,year,procedures,56003,1476,3901,0,8,0,6,0.07,uc_ms_exp_la,332,0.22493224932249323
+hospital_k,2017-01-01,year,procedures,25618,307,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2017-01-01,year,procedures,5655,124,1353,0,8,6,7.5,0.24,uc_ms_exp_la,70,0.5645161290322581
+hospital_c,2017-01-01,year,procedures,85229,900,1786,0,8,0,3,0.02,uc_ms_exp_la,262,0.2911111111111111
+hospital_f,2017-01-01,year,procedures,192069,2067,18,0,8,0,2,0,uc_ms_exp_la,9,0.0043541364296081275
+hospital_b,2017-01-01,year,procedures,17437,185,3418,0,8,1,6,0.2,uc_ms_exp_la,91,0.4918918918918919
+hospital_e,2017-01-01,year,procedures,1646,1388,77,0,8,0,1,0.05,uc_ms_exp_la,59,0.04250720461095101
+hospital_g,2017-01-01,year,procedures,248332,1829,82213,0,8,13,17.5,0.33,uc_ms_exp_la,1096,0.5992345544013122
+hospital_d,2017-01-01,year,procedures,236756,2227,31242,0,8,4,6,0.13,uc_ms_exp_la,1343,0.6030534351145038
+hospital_h,2017-01-01,year,procedures,57375,651,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2018-01-01,year,hydroxyurea dose,696,336,0,0,2,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2018-01-01,year,hydroxyurea dose,1002,650,1002,0,2,3,3,1,uc_ms_exp_la,71,0.10923076923076923
+hospital_c,2018-01-01,year,hydroxyurea dose,1263,915,528,0,2,3,3,0.42,uc_ms_exp_la,124,0.1355191256830601
+hospital_b,2018-01-01,year,hydroxyurea dose,307,190,118,0,2,2,2,0.38,uc_ms_exp_la,46,0.24210526315789474
+hospital_d,2018-01-01,year,hydroxyurea dose,12798,2212,254,0,2,0,1,0.02,uc_ms_exp_la,112,0.05063291139240506
+hospital_g,2018-01-01,year,hydroxyurea dose,3006,1916,586,0,2,0,2,0.19,uc_ms_exp_la,196,0.1022964509394572
+hospital_f,2018-01-01,year,hydroxyurea dose,981,2243,117,0,2,0,2,0.12,uc_ms_exp_la,45,0.020062416406598307
+hospital_m,2018-01-01,year,hydroxyurea dose,137,130,137,0,2,2,2,1,uc_ms_exp_la,23,0.17692307692307693
+hospital_a,2018-01-01,year,hydroxyurea dose,3256,1499,2057,0,2,3.5,10,0.63,uc_ms_exp_la,180,0.12008005336891261
+hospital_e,2018-01-01,year,hydroxyurea dose,2948,1501,235,0,2,0,1,0.08,uc_ms_exp_la,126,0.08394403730846102
+hospital_a,2018-01-01,year,hemoglobin unit,5861,1499,22,0,1,0,1,0,uc_ms_exp_la,18,0.01200800533689126
+hospital_e,2018-01-01,year,hemoglobin unit,9002,1501,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2018-01-01,year,hemoglobin unit,744,130,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2018-01-01,year,hemoglobin unit,5023,2243,31,0,1,0,1,0.01,uc_ms_exp_la,7,0.003120820329915292
+hospital_g,2018-01-01,year,hemoglobin unit,10642,1916,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2018-01-01,year,hemoglobin unit,8363,2212,13,0,1,0,1.5,0,uc_ms_exp_la,3,0.00135623869801085
+hospital_k,2018-01-01,year,hemoglobin unit,2264,336,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2018-01-01,year,hemoglobin unit,2533,650,78,0,1,0,1,0.03,uc_ms_exp_la,13,0.02
+hospital_b,2018-01-01,year,hemoglobin unit,832,190,10,0,1,0,1,0.01,uc_ms_exp_la,9,0.04736842105263158
+hospital_c,2018-01-01,year,hemoglobin unit,6132,915,20,0,1,0,1,0,uc_ms_exp_la,5,0.00546448087431694
+hospital_g,2018-01-01,year,conditions,166213,1916,9161,0,3,1,3.5,0.06,uc_ms_exp_la,776,0.40501043841336115
+hospital_d,2018-01-01,year,conditions,98097,2212,3263,0,3,0,3,0.03,uc_ms_exp_la,416,0.18806509945750452
+hospital_m,2018-01-01,year,conditions,6274,130,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2018-01-01,year,conditions,65458,2243,96,0,3,0,1,0,uc_ms_exp_la,65,0.028979045920642
+hospital_a,2018-01-01,year,conditions,33710,1499,13,0,3,0,5,0,uc_ms_exp_la,9,0.00600400266844563
+hospital_e,2018-01-01,year,conditions,24187,1501,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2018-01-01,year,conditions,10356,190,22,0,3,0,2,0,uc_ms_exp_la,6,0.031578947368421054
+hospital_h,2018-01-01,year,conditions,39053,650,657,0,3,0,3,0.02,uc_ms_exp_la,97,0.14923076923076922
+hospital_c,2018-01-01,year,conditions,39044,915,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2018-01-01,year,conditions,23467,336,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2018-01-01,year,procedures,7426,130,1529,0,8,3,7,0.21,uc_ms_exp_la,57,0.43846153846153846
+hospital_f,2018-01-01,year,procedures,174254,2243,40,0,8,0,2.5,0,uc_ms_exp_la,16,0.007133303611234953
+hospital_c,2018-01-01,year,procedures,66050,915,1079,0,8,0,3,0.02,uc_ms_exp_la,197,0.21530054644808744
+hospital_b,2018-01-01,year,procedures,19920,190,4630,0,8,2,9,0.23,uc_ms_exp_la,102,0.5368421052631579
+hospital_h,2018-01-01,year,procedures,48247,650,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2018-01-01,year,procedures,27060,336,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2018-01-01,year,procedures,208862,2212,23782,0,8,3,5,0.11,uc_ms_exp_la,1345,0.6080470162748643
+hospital_g,2018-01-01,year,procedures,234324,1916,80043,0,8,12,16,0.34,uc_ms_exp_la,1160,0.605427974947808
+hospital_e,2018-01-01,year,procedures,2059,1501,75,0,8,0,1,0.04,uc_ms_exp_la,62,0.041305796135909394
+hospital_a,2018-01-01,year,procedures,60231,1499,5826,0,8,0,8,0.1,uc_ms_exp_la,311,0.2074716477651768
+hospital_b,2019-01-01,year,hydroxyurea dose,331,207,88,0,2,1,2,0.27,uc_ms_exp_la,46,0.2222222222222222
+hospital_d,2019-01-01,year,hydroxyurea dose,20475,2161,259,0,2,0,1,0.01,uc_ms_exp_la,121,0.05599259602036094
+hospital_g,2019-01-01,year,hydroxyurea dose,3104,2057,643,0,2,0,2,0.21,uc_ms_exp_la,225,0.10938259601361205
+hospital_m,2019-01-01,year,hydroxyurea dose,246,147,246,0,2,3,3,1,uc_ms_exp_la,28,0.19047619047619047
+hospital_a,2019-01-01,year,hydroxyurea dose,3417,1538,2168,0,2,4,10,0.63,uc_ms_exp_la,182,0.11833550065019506
+hospital_c,2019-01-01,year,hydroxyurea dose,983,947,475,0,2,3,3,0.48,uc_ms_exp_la,121,0.12777191129883844
+hospital_h,2019-01-01,year,hydroxyurea dose,736,674,736,0,2,3,3,1,uc_ms_exp_la,62,0.09198813056379822
+hospital_k,2019-01-01,year,hydroxyurea dose,505,342,0,0,2,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2019-01-01,year,hydroxyurea dose,1546,2345,341,0,2,1,3,0.22,uc_ms_exp_la,81,0.034541577825159916
+hospital_e,2019-01-01,year,hydroxyurea dose,3281,1600,308,0,2,0,1,0.09,uc_ms_exp_la,141,0.088125
+hospital_k,2019-01-01,year,hemoglobin unit,2163,342,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2019-01-01,year,hemoglobin unit,6561,947,13,0,1,0,1,0,uc_ms_exp_la,3,0.0031678986272439284
+hospital_h,2019-01-01,year,hemoglobin unit,2765,674,35,0,1,0,1,0.01,uc_ms_exp_la,15,0.02225519287833828
+hospital_e,2019-01-01,year,hemoglobin unit,10299,1600,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2019-01-01,year,hemoglobin unit,5318,2345,6,0,1,0,2,0,uc_ms_exp_la,5,0.0021321961620469083
+hospital_d,2019-01-01,year,hemoglobin unit,8832,2161,7,0,1,0,1,0,uc_ms_exp_la,4,0.0018509949097639982
+hospital_a,2019-01-01,year,hemoglobin unit,5055,1538,29,0,1,0,1,0.01,uc_ms_exp_la,12,0.007802340702210663
+hospital_g,2019-01-01,year,hemoglobin unit,11620,2057,229,0,1,0,1,0.02,uc_ms_exp_la,173,0.08410306271268839
+hospital_m,2019-01-01,year,hemoglobin unit,443,147,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2019-01-01,year,hemoglobin unit,1021,207,18,0,1,0,1,0.02,uc_ms_exp_la,8,0.03864734299516908
+hospital_c,2019-01-01,year,conditions,40561,947,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2019-01-01,year,conditions,46719,674,708,0,3,0,3,0.02,uc_ms_exp_la,92,0.13649851632047477
+hospital_k,2019-01-01,year,conditions,25858,342,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2019-01-01,year,conditions,25846,1600,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2019-01-01,year,conditions,10372,207,6,0,3,0,1,0,uc_ms_exp_la,5,0.024154589371980676
+hospital_f,2019-01-01,year,conditions,75664,2345,82,0,3,0,1,0,uc_ms_exp_la,56,0.023880597014925373
+hospital_d,2019-01-01,year,conditions,106598,2161,3173,0,3,0,2,0.03,uc_ms_exp_la,398,0.1841739935215178
+hospital_a,2019-01-01,year,conditions,34543,1538,28,0,3,0,14,0,uc_ms_exp_la,3,0.0019505851755526658
+hospital_g,2019-01-01,year,conditions,201428,2057,10755,0,3,2,4,0.05,uc_ms_exp_la,957,0.46524064171123
+hospital_m,2019-01-01,year,conditions,5699,147,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2019-01-01,year,procedures,58469,674,0,0,9,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2019-01-01,year,procedures,69537,947,628,0,9,0,2,0.01,uc_ms_exp_la,147,0.15522703273495247
+hospital_k,2019-01-01,year,procedures,25628,342,0,0,9,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2019-01-01,year,procedures,177089,2345,258,0,9,0,6,0,uc_ms_exp_la,49,0.020895522388059702
+hospital_e,2019-01-01,year,procedures,2192,1600,84,0,9,0,1,0.04,uc_ms_exp_la,59,0.036875
+hospital_b,2019-01-01,year,procedures,24559,207,6021,0,9,3,10,0.25,uc_ms_exp_la,111,0.5362318840579711
+hospital_d,2019-01-01,year,procedures,233702,2161,27968,0,9,4,6,0.12,uc_ms_exp_la,1385,0.6409069875057843
+hospital_a,2019-01-01,year,procedures,52091,1538,7332,0,9,0,10,0.14,uc_ms_exp_la,323,0.21001300390117036
+hospital_m,2019-01-01,year,procedures,5154,147,1300,0,9,4,6,0.25,uc_ms_exp_la,74,0.5034013605442177
+hospital_g,2019-01-01,year,procedures,259419,2057,91167,0,9,15,20,0.35,uc_ms_exp_la,1238,0.6018473505104521
+hospital_d,2020-01-01,year,hydroxyurea dose,11741,2134,298,0,2,0,2,0.03,uc_ms_exp_la,126,0.059044048734770385
+hospital_g,2020-01-01,year,hydroxyurea dose,3010,2128,889,0,2,1,2,0.3,uc_ms_exp_la,275,0.12922932330827067
+hospital_e,2020-01-01,year,hydroxyurea dose,3039,1604,320,0,2,0,1,0.11,uc_ms_exp_la,156,0.09725685785536159
+hospital_a,2020-01-01,year,hydroxyurea dose,3179,1586,2140,0,2,4,10,0.67,uc_ms_exp_la,187,0.11790668348045397
+hospital_k,2020-01-01,year,hydroxyurea dose,486,339,11,0,2,0,2,0.02,uc_ms_exp_la,7,0.02064896755162242
+hospital_m,2020-01-01,year,hydroxyurea dose,224,152,224,0,2,3,3,1,uc_ms_exp_la,28,0.18421052631578946
+hospital_f,2020-01-01,year,hydroxyurea dose,1240,2328,283,0,2,2,3,0.23,uc_ms_exp_la,79,0.033934707903780066
+hospital_h,2020-01-01,year,hydroxyurea dose,847,681,847,0,2,2.5,2.5,1,uc_ms_exp_la,72,0.10572687224669604
+hospital_c,2020-01-01,year,hydroxyurea dose,1019,962,447,0,2,3,3,0.44,uc_ms_exp_la,130,0.13513513513513514
+hospital_b,2020-01-01,year,hydroxyurea dose,340,212,74,0,2,1,1,0.22,uc_ms_exp_la,43,0.2028301886792453
+hospital_m,2020-01-01,year,hemoglobin unit,425,152,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2020-01-01,year,hemoglobin unit,4602,2328,10,0,1,0,2,0,uc_ms_exp_la,5,0.002147766323024055
+hospital_g,2020-01-01,year,hemoglobin unit,11216,2128,214,0,1,0,1,0.02,uc_ms_exp_la,166,0.07800751879699248
+hospital_d,2020-01-01,year,hemoglobin unit,7654,2134,11,0,1,0,1,0,uc_ms_exp_la,5,0.0023430178069353325
+hospital_c,2020-01-01,year,hemoglobin unit,5144,962,11,0,1,0,2,0,uc_ms_exp_la,8,0.008316008316008316
+hospital_b,2020-01-01,year,hemoglobin unit,928,212,16,0,1,0,1,0.02,uc_ms_exp_la,9,0.04245283018867924
+hospital_a,2020-01-01,year,hemoglobin unit,4238,1586,14,0,1,0,1,0,uc_ms_exp_la,11,0.0069356872635561164
+hospital_e,2020-01-01,year,hemoglobin unit,8293,1604,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2020-01-01,year,hemoglobin unit,1696,339,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2020-01-01,year,hemoglobin unit,2851,681,304,0,1,0,1,0.11,uc_ms_exp_la,21,0.030837004405286344
+hospital_c,2020-01-01,year,conditions,34466,962,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2020-01-01,year,conditions,11715,212,21,0,3,0,2.5,0,uc_ms_exp_la,4,0.018867924528301886
+hospital_e,2020-01-01,year,conditions,24482,1604,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_a,2020-01-01,year,conditions,34562,1586,7,0,3,0,6,0,uc_ms_exp_la,6,0.0037831021437578815
+hospital_k,2020-01-01,year,conditions,19153,339,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2020-01-01,year,conditions,57381,681,1046,0,3,0,4,0.02,uc_ms_exp_la,92,0.13509544787077826
+hospital_m,2020-01-01,year,conditions,7341,152,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2020-01-01,year,conditions,67103,2328,98,0,3,0,1.5,0,uc_ms_exp_la,32,0.013745704467353952
+hospital_d,2020-01-01,year,conditions,95786,2134,2932,0,3,0,2,0.03,uc_ms_exp_la,402,0.18837863167760074
+hospital_g,2020-01-01,year,conditions,181208,2128,9680,0,3,1,4,0.05,uc_ms_exp_la,784,0.3684210526315789
+hospital_h,2020-01-01,year,procedures,57189,681,0,0,7,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2020-01-01,year,procedures,20054,212,3278,0,7,1,7,0.16,uc_ms_exp_la,87,0.41037735849056606
+hospital_c,2020-01-01,year,procedures,60494,962,697,0,7,0,3,0.01,uc_ms_exp_la,129,0.1340956340956341
+hospital_a,2020-01-01,year,procedures,40822,1586,4116,0,7,0,10,0.1,uc_ms_exp_la,231,0.14564943253467844
+hospital_k,2020-01-01,year,procedures,14965,339,0,0,7,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2020-01-01,year,procedures,2452,1604,88,0,7,0,1,0.04,uc_ms_exp_la,68,0.04239401496259352
+hospital_f,2020-01-01,year,procedures,146855,2328,195,0,7,0,6,0,uc_ms_exp_la,30,0.01288659793814433
+hospital_m,2020-01-01,year,procedures,5943,152,1524,0,7,4,6,0.26,uc_ms_exp_la,65,0.4276315789473684
+hospital_d,2020-01-01,year,procedures,213804,2134,25190,0,7,3,5,0.12,uc_ms_exp_la,1277,0.598406747891284
+hospital_g,2020-01-01,year,procedures,215728,2128,67685,0,7,11,13,0.31,uc_ms_exp_la,1209,0.5681390977443609
+hospital_k,2021-01-01,year,hydroxyurea dose,659,345,11,0,2,0,2,0.02,uc_ms_exp_la,8,0.02318840579710145
+hospital_e,2021-01-01,year,hydroxyurea dose,3306,1646,309,0,2,0,2,0.09,uc_ms_exp_la,148,0.0899149453219927
+hospital_m,2021-01-01,year,hydroxyurea dose,257,158,257,0,2,2,2,1,uc_ms_exp_la,34,0.21518987341772153
+hospital_a,2021-01-01,year,hydroxyurea dose,3877,1659,2426,0,2,4,8,0.63,uc_ms_exp_la,227,0.13682941531042797
+hospital_b,2021-01-01,year,hydroxyurea dose,296,215,17,0,2,0,1,0.06,uc_ms_exp_la,14,0.06511627906976744
+hospital_c,2021-01-01,year,hydroxyurea dose,1495,986,516,0,2,3,3,0.35,uc_ms_exp_la,125,0.12677484787018256
+hospital_h,2021-01-01,year,hydroxyurea dose,891,718,891,0,2,3,3,1,uc_ms_exp_la,82,0.11420612813370473
+hospital_d,2021-01-01,year,hydroxyurea dose,13233,2119,315,0,2,0,1,0.02,uc_ms_exp_la,137,0.06465313827277018
+hospital_g,2021-01-01,year,hydroxyurea dose,3368,2235,935,0,2,1,2,0.28,uc_ms_exp_la,302,0.13512304250559284
+hospital_f,2021-01-01,year,hydroxyurea dose,1410,2331,256,0,2,1.5,2,0.18,uc_ms_exp_la,81,0.03474903474903475
+hospital_f,2021-01-01,year,hemoglobin unit,4444,2331,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2021-01-01,year,hemoglobin unit,7229,2119,12,0,1,0,2,0,uc_ms_exp_la,6,0.002831524303916942
+hospital_g,2021-01-01,year,hemoglobin unit,13051,2235,26,0,1,0,2,0,uc_ms_exp_la,3,0.0013422818791946308
+hospital_h,2021-01-01,year,hemoglobin unit,3332,718,336,0,1,0,1,0.1,uc_ms_exp_la,27,0.037604456824512536
+hospital_b,2021-01-01,year,hemoglobin unit,1050,215,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2021-01-01,year,hemoglobin unit,5705,986,13,0,1,0,1,0,uc_ms_exp_la,3,0.0030425963488843813
+hospital_a,2021-01-01,year,hemoglobin unit,5541,1659,12,0,1,0,1,0,uc_ms_exp_la,10,0.006027727546714889
+hospital_k,2021-01-01,year,hemoglobin unit,2271,345,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2021-01-01,year,hemoglobin unit,9272,1646,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2021-01-01,year,hemoglobin unit,316,158,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2021-01-01,year,conditions,6421,158,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2021-01-01,year,conditions,26810,345,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2021-01-01,year,conditions,22074,1646,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2021-01-01,year,conditions,40763,986,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2021-01-01,year,conditions,11801,215,27,0,4,0,1.5,0,uc_ms_exp_la,8,0.037209302325581395
+hospital_a,2021-01-01,year,conditions,41863,1659,12,0,4,0,4,0,uc_ms_exp_la,8,0.004822182037371911
+hospital_h,2021-01-01,year,conditions,70632,718,1433,0,4,0,4,0.02,uc_ms_exp_la,101,0.14066852367688024
+hospital_d,2021-01-01,year,conditions,96489,2119,3645,0,4,0,3,0.04,uc_ms_exp_la,363,0.171307220386975
+hospital_g,2021-01-01,year,conditions,211082,2235,11224,0,4,1,4,0.05,uc_ms_exp_la,891,0.39865771812080536
+hospital_f,2021-01-01,year,conditions,69942,2331,47,0,4,0,1,0,uc_ms_exp_la,23,0.009867009867009866
+hospital_e,2021-01-01,year,procedures,2985,1646,120,0,8,0,1,0.04,uc_ms_exp_la,86,0.05224787363304982
+hospital_k,2021-01-01,year,procedures,16534,345,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2021-01-01,year,procedures,4928,158,1341,0,8,3,6,0.27,uc_ms_exp_la,66,0.4177215189873418
+hospital_b,2021-01-01,year,procedures,18207,215,364,0,8,0,2,0.02,uc_ms_exp_la,69,0.3209302325581395
+hospital_a,2021-01-01,year,procedures,54787,1659,6472,0,8,0,9,0.12,uc_ms_exp_la,289,0.17420132610006028
+hospital_c,2021-01-01,year,procedures,71491,986,835,0,8,0,2,0.01,uc_ms_exp_la,136,0.13793103448275862
+hospital_h,2021-01-01,year,procedures,66155,718,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2021-01-01,year,procedures,205552,2119,25992,0,8,5,7,0.13,uc_ms_exp_la,1332,0.6285983954695611
+hospital_g,2021-01-01,year,procedures,274322,2235,88614,0,8,12,14,0.32,uc_ms_exp_la,1342,0.6004474272930649
+hospital_f,2021-01-01,year,procedures,145853,2331,209,0,8,0,6,0,uc_ms_exp_la,39,0.01673101673101673
+hospital_d,2022-01-01,year,hydroxyurea dose,11196,2095,282,0,3,0,1,0.03,uc_ms_exp_la,142,0.06778042959427208
+hospital_f,2022-01-01,year,hydroxyurea dose,1974,2277,419,0,3,1,3,0.21,uc_ms_exp_la,86,0.037768994290733424
+hospital_e,2022-01-01,year,hydroxyurea dose,3208,1665,389,0,3,0,2,0.12,uc_ms_exp_la,160,0.0960960960960961
+hospital_g,2022-01-01,year,hydroxyurea dose,3361,2351,780,0,3,0,2,0.23,uc_ms_exp_la,278,0.1182475542322416
+hospital_a,2022-01-01,year,hydroxyurea dose,4522,1729,2889,0,3,5,8,0.64,uc_ms_exp_la,286,0.16541353383458646
+hospital_k,2022-01-01,year,hydroxyurea dose,782,348,12,0,3,0,1,0.02,uc_ms_exp_la,7,0.020114942528735632
+hospital_h,2022-01-01,year,hydroxyurea dose,502,697,502,0,3,3,3,1,uc_ms_exp_la,86,0.12338593974175036
+hospital_c,2022-01-01,year,hydroxyurea dose,1230,1003,517,0,3,3,3,0.42,uc_ms_exp_la,137,0.1365902293120638
+hospital_b,2022-01-01,year,hydroxyurea dose,577,232,42,0,3,0,1,0.07,uc_ms_exp_la,14,0.0603448275862069
+hospital_m,2022-01-01,year,hydroxyurea dose,334,163,334,0,3,2,2,1,uc_ms_exp_la,32,0.19631901840490798
+hospital_d,2022-01-01,year,hemoglobin unit,7966,2095,11,0,1,0,2,0,uc_ms_exp_la,2,9.546539379474941e-4
+hospital_f,2022-01-01,year,hemoglobin unit,4793,2277,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2022-01-01,year,hemoglobin unit,6979,1665,36,0,1,0,36,0.01,uc_ms_exp_la,2,0.0012012012012012011
+hospital_a,2022-01-01,year,hemoglobin unit,5645,1729,14,0,1,0,1,0,uc_ms_exp_la,12,0.006940427993059572
+hospital_g,2022-01-01,year,hemoglobin unit,13044,2351,12,0,1,0,1.5,0,uc_ms_exp_la,5,0.002126754572522331
+hospital_m,2022-01-01,year,hemoglobin unit,598,163,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2022-01-01,year,hemoglobin unit,1143,232,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2022-01-01,year,hemoglobin unit,2251,348,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2022-01-01,year,hemoglobin unit,3000,697,108,0,1,0,1,0.04,uc_ms_exp_la,25,0.035868005738880916
+hospital_c,2022-01-01,year,hemoglobin unit,5183,1003,13,0,1,0,1,0,uc_ms_exp_la,9,0.00897308075772682
+hospital_m,2022-01-01,year,conditions,10007,163,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2022-01-01,year,conditions,105029,2095,3628,0,3,0,2,0.03,uc_ms_exp_la,451,0.2152744630071599
+hospital_f,2022-01-01,year,conditions,93861,2277,101,0,3,0,1,0,uc_ms_exp_la,33,0.014492753623188406
+hospital_e,2022-01-01,year,conditions,27385,1665,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_a,2022-01-01,year,conditions,45098,1729,12,0,3,0,1,0,uc_ms_exp_la,8,0.004626951995373048
+hospital_g,2022-01-01,year,conditions,185882,2351,11871,0,3,1,4,0.06,uc_ms_exp_la,956,0.40663547426626967
+hospital_h,2022-01-01,year,conditions,60843,697,1126,0,3,0,4,0.02,uc_ms_exp_la,132,0.18938307030129126
+hospital_c,2022-01-01,year,conditions,39670,1003,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2022-01-01,year,conditions,19151,348,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2022-01-01,year,conditions,13215,232,13,0,3,0,2,0,uc_ms_exp_la,8,0.034482758620689655
+hospital_m,2022-01-01,year,procedures,9232,163,2930,0,8,8,10,0.32,uc_ms_exp_la,73,0.44785276073619634
+hospital_f,2022-01-01,year,procedures,226440,2277,165,0,8,0,6,0,uc_ms_exp_la,29,0.012736056214317084
+hospital_d,2022-01-01,year,procedures,222440,2095,31427,0,8,6,8,0.14,uc_ms_exp_la,1349,0.6439140811455847
+hospital_e,2022-01-01,year,procedures,3581,1665,188,0,8,0,1,0.05,uc_ms_exp_la,115,0.06906906906906907
+hospital_a,2022-01-01,year,procedures,59933,1729,6939,0,8,0,9,0.12,uc_ms_exp_la,362,0.20936957779063042
+hospital_g,2022-01-01,year,procedures,289082,2351,94095,0,8,10,13,0.33,uc_ms_exp_la,1477,0.6282433007230965
+hospital_h,2022-01-01,year,procedures,59109,697,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2022-01-01,year,procedures,59817,1003,746,0,8,0,2,0.01,uc_ms_exp_la,152,0.15154536390827517
+hospital_b,2022-01-01,year,procedures,18051,232,370,0,8,0,2,0.02,uc_ms_exp_la,68,0.29310344827586204
+hospital_k,2022-01-01,year,procedures,15756,348,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2023-01-01,year,hydroxyurea dose,1027,336,12,0,3,0,1,0.01,uc_ms_exp_la,8,0.023809523809523808
+hospital_f,2023-01-01,year,hydroxyurea dose,2314,2188,398,0,3,1,3,0.17,uc_ms_exp_la,104,0.04753199268738574
+hospital_d,2023-01-01,year,hydroxyurea dose,11757,2025,328,0,3,0,2,0.03,uc_ms_exp_la,134,0.06617283950617284
+hospital_a,2023-01-01,year,hydroxyurea dose,4927,1671,3152,0,3,5,7.5,0.64,uc_ms_exp_la,330,0.19748653500897667
+hospital_m,2023-01-01,year,hydroxyurea dose,234,164,234,0,3,4,4,1,uc_ms_exp_la,30,0.18292682926829268
+hospital_g,2023-01-01,year,hydroxyurea dose,3684,2226,1025,0,3,1,2,0.28,uc_ms_exp_la,364,0.16352201257861634
+hospital_b,2023-01-01,year,hydroxyurea dose,675,233,31,0,3,0,2,0.05,uc_ms_exp_la,15,0.06437768240343347
+hospital_e,2023-01-01,year,hydroxyurea dose,3113,1661,316,0,3,0,2,0.1,uc_ms_exp_la,156,0.09391932570740517
+hospital_h,2023-01-01,year,hydroxyurea dose,839,703,839,0,3,2,2,1,uc_ms_exp_la,107,0.15220483641536273
+hospital_c,2023-01-01,year,hydroxyurea dose,1182,966,518,0,3,3,3,0.44,uc_ms_exp_la,125,0.12939958592132506
+hospital_k,2023-01-01,year,hemoglobin unit,2877,336,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2023-01-01,year,hemoglobin unit,5067,2188,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_a,2023-01-01,year,hemoglobin unit,6433,1671,61,0,1,0,2,0.01,uc_ms_exp_la,14,0.008378216636744464
+hospital_d,2023-01-01,year,hemoglobin unit,7539,2025,11,0,1,0,1,0,uc_ms_exp_la,4,0.0019753086419753087
+hospital_g,2023-01-01,year,hemoglobin unit,12477,2226,8,0,1,0,1,0,uc_ms_exp_la,5,0.0022461814914645105
+hospital_e,2023-01-01,year,hemoglobin unit,775,1661,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2023-01-01,year,hemoglobin unit,1340,233,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2023-01-01,year,hemoglobin unit,698,164,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2023-01-01,year,hemoglobin unit,5001,966,12,0,1,0,1,0,uc_ms_exp_la,4,0.004140786749482402
+hospital_h,2023-01-01,year,hemoglobin unit,3126,703,141,0,1,0,1,0.05,uc_ms_exp_la,21,0.029871977240398292
+hospital_k,2023-01-01,year,conditions,23572,336,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2023-01-01,year,conditions,95904,2188,99,0,4,0,1,0,uc_ms_exp_la,33,0.015082266910420476
+hospital_d,2023-01-01,year,conditions,105155,2025,3310,0,4,0,2,0.03,uc_ms_exp_la,407,0.20098765432098764
+hospital_a,2023-01-01,year,conditions,52039,1671,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2023-01-01,year,conditions,20685,233,24,0,4,0,2.5,0,uc_ms_exp_la,3,0.012875536480686695
+hospital_g,2023-01-01,year,conditions,175955,2226,10088,0,4,1,4,0.06,uc_ms_exp_la,925,0.41554357592093444
+hospital_e,2023-01-01,year,conditions,28131,1661,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2023-01-01,year,conditions,10856,164,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2023-01-01,year,conditions,68313,703,1598,0,4,0,4,0.02,uc_ms_exp_la,136,0.1934566145092461
+hospital_c,2023-01-01,year,conditions,37458,966,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2023-01-01,year,procedures,225602,2025,33364,0,8,6,8,0.15,uc_ms_exp_la,1359,0.6711111111111111
+hospital_f,2023-01-01,year,procedures,225865,2188,225,0,8,0,6,0,uc_ms_exp_la,44,0.02010968921389397
+hospital_a,2023-01-01,year,procedures,69658,1671,8655,0,8,0,10,0.12,uc_ms_exp_la,351,0.21005385996409337
+hospital_k,2023-01-01,year,procedures,21789,336,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2023-01-01,year,procedures,62440,703,0,0,8,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2023-01-01,year,procedures,57498,966,942,0,8,0,2,0.02,uc_ms_exp_la,151,0.15631469979296067
+hospital_m,2023-01-01,year,procedures,8997,164,2467,0,8,6,8,0.27,uc_ms_exp_la,73,0.4451219512195122
+hospital_e,2023-01-01,year,procedures,3312,1661,207,0,8,0,1,0.06,uc_ms_exp_la,122,0.07344972907886815
+hospital_g,2023-01-01,year,procedures,266725,2226,80922,0,8,9,12,0.3,uc_ms_exp_la,1528,0.6864330637915543
+hospital_b,2023-01-01,year,procedures,21787,233,478,0,8,0,2,0.02,uc_ms_exp_la,86,0.36909871244635195
+hospital_h,2024-01-01,year,hydroxyurea dose,937,690,937,0,3,3,3,1,uc_ms_exp_la,107,0.15507246376811595
+hospital_g,2024-01-01,year,hydroxyurea dose,3840,2233,947,0,3,1,2,0.25,uc_ms_exp_la,342,0.15315718763994626
+hospital_a,2024-01-01,year,hydroxyurea dose,5239,1722,2781,0,3,4,6,0.53,uc_ms_exp_la,322,0.18699186991869918
+hospital_d,2024-01-01,year,hydroxyurea dose,13348,1911,306,0,3,0,1,0.02,uc_ms_exp_la,138,0.07221350078492936
+hospital_e,2024-01-01,year,hydroxyurea dose,3398,1674,310,0,3,0,1,0.09,uc_ms_exp_la,148,0.0884109916367981
+hospital_k,2024-01-01,year,hydroxyurea dose,898,332,14,0,3,0,2,0.02,uc_ms_exp_la,8,0.024096385542168676
+hospital_f,2024-01-01,year,hydroxyurea dose,2635,2167,462,0,3,1,2.5,0.18,uc_ms_exp_la,118,0.05445316105214582
+hospital_c,2024-01-01,year,hydroxyurea dose,1293,969,531,0,3,3,3,0.41,uc_ms_exp_la,129,0.13312693498452013
+hospital_b,2024-01-01,year,hydroxyurea dose,695,233,50,0,3,0,2,0.07,uc_ms_exp_la,22,0.0944206008583691
+hospital_m,2024-01-01,year,hydroxyurea dose,202,166,202,0,3,2,2,1,uc_ms_exp_la,36,0.21686746987951808
+hospital_g,2024-01-01,year,hemoglobin unit,15040,2233,10,0,1,0,1,0,uc_ms_exp_la,5,0.0022391401701746527
+hospital_h,2024-01-01,year,hemoglobin unit,3054,690,156,0,1,0,1,0.05,uc_ms_exp_la,17,0.02463768115942029
+hospital_m,2024-01-01,year,hemoglobin unit,590,166,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2024-01-01,year,hemoglobin unit,5819,2167,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2024-01-01,year,hemoglobin unit,1646,233,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2024-01-01,year,hemoglobin unit,5833,969,15,0,1,0,1,0,uc_ms_exp_la,8,0.008255933952528379
+hospital_e,2024-01-01,year,hemoglobin unit,1149,1674,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2024-01-01,year,hemoglobin unit,2707,332,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2024-01-01,year,hemoglobin unit,9087,1911,7,0,1,0,2,0,uc_ms_exp_la,4,0.0020931449502878076
+hospital_a,2024-01-01,year,hemoglobin unit,6183,1722,8,0,1,0,1,0,uc_ms_exp_la,3,0.0017421602787456446
+hospital_a,2024-01-01,year,conditions,56519,1722,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2024-01-01,year,conditions,136326,1911,4339,0,4,0,3,0.03,uc_ms_exp_la,399,0.2087912087912088
+hospital_m,2024-01-01,year,conditions,9317,166,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2024-01-01,year,conditions,103705,2167,133,0,4,0,1,0,uc_ms_exp_la,44,0.02030456852791878
+hospital_c,2024-01-01,year,conditions,40321,969,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2024-01-01,year,conditions,21534,233,22,0,4,0,2.5,0,uc_ms_exp_la,3,0.012875536480686695
+hospital_e,2024-01-01,year,conditions,29438,1674,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2024-01-01,year,conditions,28886,332,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2024-01-01,year,conditions,192422,2233,12080,0,4,2,4,0.06,uc_ms_exp_la,1026,0.45947156291983876
+hospital_h,2024-01-01,year,conditions,77875,690,1123,0,4,0,5,0.01,uc_ms_exp_la,131,0.18985507246376812
+hospital_h,2024-01-01,year,procedures,59419,690,0,0,11,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2024-01-01,year,procedures,333109,2233,99666,0,11,12,16,0.3,uc_ms_exp_la,1529,0.6847290640394089
+hospital_e,2024-01-01,year,procedures,3477,1674,255,0,11,0,1,0.07,uc_ms_exp_la,132,0.07885304659498207
+hospital_k,2024-01-01,year,procedures,21523,332,0,0,11,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2024-01-01,year,procedures,74881,969,11964,0,11,0,21,0.16,uc_ms_exp_la,231,0.23839009287925697
+hospital_b,2024-01-01,year,procedures,26499,233,831,0,11,0,3,0.03,uc_ms_exp_la,97,0.41630901287553645
+hospital_f,2024-01-01,year,procedures,207818,2167,310,0,11,0,6,0,uc_ms_exp_la,31,0.01430549146285187
+hospital_m,2024-01-01,year,procedures,7579,166,2123,0,11,7,9,0.28,uc_ms_exp_la,80,0.4819277108433735
+hospital_a,2024-01-01,year,procedures,77208,1722,11853,0,11,0,13,0.15,uc_ms_exp_la,341,0.19802555168408828
+hospital_d,2024-01-01,year,procedures,299926,1911,43382,0,11,6,9,0.14,uc_ms_exp_la,1372,0.717948717948718
+hospital_d,2025-01-01,year,hydroxyurea dose,13034,1735,295,0,2,0,1,0.02,uc_ms_exp_la,137,0.07896253602305475
+hospital_f,2025-01-01,year,hydroxyurea dose,1790,2084,364,0,2,1,2,0.2,uc_ms_exp_la,96,0.046065259117082535
+hospital_m,2025-01-01,year,hydroxyurea dose,262,149,262,0,2,2,2,1,uc_ms_exp_la,39,0.26174496644295303
+hospital_c,2025-01-01,year,hydroxyurea dose,985,818,543,0,2,3,3,0.55,uc_ms_exp_la,131,0.16014669926650366
+hospital_k,2025-01-01,year,hydroxyurea dose,608,316,0,0,2,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2025-01-01,year,hydroxyurea dose,3558,2025,927,0,2,1,2,0.26,uc_ms_exp_la,355,0.17530864197530865
+hospital_h,2025-01-01,year,hydroxyurea dose,1691,663,1691,0,2,3,3,1,uc_ms_exp_la,200,0.30165912518853694
+hospital_e,2025-01-01,year,hydroxyurea dose,3008,1590,247,0,2,0,1,0.08,uc_ms_exp_la,122,0.07672955974842767
+hospital_b,2025-01-01,year,hydroxyurea dose,946,245,59,0,2,0,2,0.06,uc_ms_exp_la,29,0.11836734693877551
+hospital_a,2025-01-01,year,hydroxyurea dose,5363,1621,2910,0,2,3,5,0.54,uc_ms_exp_la,357,0.2202344231955583
+hospital_d,2025-01-01,year,hemoglobin unit,9909,1735,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2025-01-01,year,hemoglobin unit,5947,2084,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2025-01-01,year,hemoglobin unit,852,149,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_a,2025-01-01,year,hemoglobin unit,6602,1621,13,0,1,0,1,0,uc_ms_exp_la,13,0.008019740900678593
+hospital_b,2025-01-01,year,hemoglobin unit,2297,245,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2025-01-01,year,hemoglobin unit,874,1590,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2025-01-01,year,hemoglobin unit,2883,316,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2025-01-01,year,hemoglobin unit,5809,818,11,0,1,0,1,0,uc_ms_exp_la,2,0.0024449877750611247
+hospital_h,2025-01-01,year,hemoglobin unit,3536,663,4,0,1,0,1,0,uc_ms_exp_la,3,0.004524886877828055
+hospital_g,2025-01-01,year,hemoglobin unit,12349,2025,14,0,1,0,1,0,uc_ms_exp_la,6,0.002962962962962963
+hospital_f,2025-01-01,year,conditions,112403,2084,172,0,4,0,1,0,uc_ms_exp_la,40,0.019193857965451054
+hospital_m,2025-01-01,year,conditions,9826,149,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2025-01-01,year,conditions,141532,1735,4534,0,4,0,3,0.03,uc_ms_exp_la,433,0.24956772334293947
+hospital_a,2025-01-01,year,conditions,66522,1621,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2025-01-01,year,conditions,30400,1590,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2025-01-01,year,conditions,26029,245,42,0,4,0,1.5,0,uc_ms_exp_la,10,0.04081632653061224
+hospital_g,2025-01-01,year,conditions,206713,2025,12708,0,4,1,4,0.06,uc_ms_exp_la,918,0.4533333333333333
+hospital_c,2025-01-01,year,conditions,40854,818,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2025-01-01,year,conditions,34726,316,0,0,4,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2025-01-01,year,conditions,76751,663,2031,0,4,0,5,0.03,uc_ms_exp_la,166,0.25037707390648567
+hospital_a,2025-01-01,year,procedures,92274,1621,16872,0,9,0,13,0.18,uc_ms_exp_la,349,0.21529919802590994
+hospital_d,2025-01-01,year,procedures,318286,1735,43634,0,9,7,11,0.14,uc_ms_exp_la,1343,0.7740634005763689
+hospital_f,2025-01-01,year,procedures,211104,2084,144,0,9,0,6,0,uc_ms_exp_la,26,0.012476007677543186
+hospital_m,2025-01-01,year,procedures,11441,149,3238,0,9,6,8,0.28,uc_ms_exp_la,85,0.5704697986577181
+hospital_k,2025-01-01,year,procedures,29569,316,0,0,9,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2025-01-01,year,procedures,317493,2025,95354,0,9,9,11,0.3,uc_ms_exp_la,1468,0.7249382716049383
+hospital_h,2025-01-01,year,procedures,79713,663,0,0,9,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2025-01-01,year,procedures,61798,818,3962,0,9,0,5,0.06,uc_ms_exp_la,206,0.25183374083129584
+hospital_e,2025-01-01,year,procedures,3750,1590,312,0,9,0,1,0.08,uc_ms_exp_la,157,0.09874213836477988
+hospital_b,2025-01-01,year,procedures,35299,245,1566,0,9,1,3,0.04,uc_ms_exp_la,115,0.46938775510204084
+hospital_c,2026-01-01,year,hydroxyurea dose,429,596,223,1,2,2,2,0.52,uc_ms_exp_la,83,0.13926174496644295
+hospital_k,2026-01-01,year,hydroxyurea dose,158,271,0,1,2,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2026-01-01,year,hydroxyurea dose,743,542,743,1,2,2,2,1,uc_ms_exp_la,154,0.28413284132841327
+hospital_d,2026-01-01,year,hydroxyurea dose,3431,1359,150,1,2,0,1,0.04,uc_ms_exp_la,86,0.06328182487122884
+hospital_m,2026-01-01,year,hydroxyurea dose,111,106,111,1,2,2,2,1,uc_ms_exp_la,27,0.25471698113207547
+hospital_a,2026-01-01,year,hydroxyurea dose,1681,1214,1120,1,2,2,3,0.67,uc_ms_exp_la,250,0.20593080724876442
+hospital_g,2026-01-01,year,hydroxyurea dose,1523,1602,452,1,2,1,1,0.3,uc_ms_exp_la,244,0.1523096129837703
+hospital_f,2026-01-01,year,hydroxyurea dose,753,1677,176,1,2,1,2,0.23,uc_ms_exp_la,67,0.03995229576624926
+hospital_e,2026-01-01,year,hydroxyurea dose,527,1021,11,1,2,0,1,0.02,uc_ms_exp_la,11,0.010773751224289911
+hospital_b,2026-01-01,year,hydroxyurea dose,336,214,27,1,2,0,1,0.08,uc_ms_exp_la,17,0.0794392523364486
+hospital_b,2026-01-01,year,hemoglobin unit,1044,214,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_a,2026-01-01,year,hemoglobin unit,2626,1214,14,0,1,0,1,0.01,uc_ms_exp_la,6,0.004942339373970346
+hospital_g,2026-01-01,year,hemoglobin unit,5210,1602,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2026-01-01,year,hemoglobin unit,2580,1677,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_e,2026-01-01,year,hemoglobin unit,189,1021,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2026-01-01,year,hemoglobin unit,4062,1359,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2026-01-01,year,hemoglobin unit,409,106,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_h,2026-01-01,year,hemoglobin unit,1564,542,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2026-01-01,year,hemoglobin unit,2458,596,14,0,1,0,1,0.01,uc_ms_exp_la,4,0.006711409395973154
+hospital_k,2026-01-01,year,hemoglobin unit,1144,271,0,0,1,0,0,0,uc_ms_exp_la,0,0
+hospital_b,2026-01-01,year,conditions,11580,214,28,0,3,0,2.5,0,uc_ms_exp_la,5,0.02336448598130841
+hospital_e,2026-01-01,year,conditions,7145,1021,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_g,2026-01-01,year,conditions,87635,1602,5700,0,3,0,3,0.07,uc_ms_exp_la,585,0.3651685393258427
+hospital_a,2026-01-01,year,conditions,28084,1214,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_f,2026-01-01,year,conditions,47883,1677,31,0,3,0,1,0,uc_ms_exp_la,22,0.01311866428145498
+hospital_c,2026-01-01,year,conditions,17940,596,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2026-01-01,year,conditions,12466,271,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_m,2026-01-01,year,conditions,4864,106,0,0,3,0,0,0,uc_ms_exp_la,0,0
+hospital_d,2026-01-01,year,conditions,59929,1359,2090,0,3,0,3.5,0.03,uc_ms_exp_la,266,0.19573215599705665
+hospital_h,2026-01-01,year,conditions,37735,542,1048,0,3,0,4,0.03,uc_ms_exp_la,99,0.18265682656826568
+hospital_b,2026-01-01,year,procedures,16154,214,1096,0,6,0,4,0.07,uc_ms_exp_la,99,0.46261682242990654
+hospital_f,2026-01-01,year,procedures,98016,1677,116,0,6,0,2,0,uc_ms_exp_la,44,0.02623732856290996
+hospital_a,2026-01-01,year,procedures,33698,1214,4505,0,6,0,9,0.13,uc_ms_exp_la,230,0.18945634266886327
+hospital_e,2026-01-01,year,procedures,387,1021,40,0,6,0,1,0.1,uc_ms_exp_la,32,0.031341821743388835
+hospital_g,2026-01-01,year,procedures,145542,1602,43004,0,6,5,6,0.3,uc_ms_exp_la,1199,0.7484394506866417
+hospital_d,2026-01-01,year,procedures,125086,1359,15877,0,6,3,7,0.13,uc_ms_exp_la,927,0.6821192052980133
+hospital_m,2026-01-01,year,procedures,6091,106,1700,0,6,8,8,0.28,uc_ms_exp_la,68,0.6415094339622641
+hospital_h,2026-01-01,year,procedures,37673,542,0,0,6,0,0,0,uc_ms_exp_la,0,0
+hospital_k,2026-01-01,year,procedures,11314,271,0,0,6,0,0,0,uc_ms_exp_la,0,0
+hospital_c,2026-01-01,year,procedures,26500,596,1787,0,6,0,8,0.07,uc_ms_exp_la,114,0.1912751677852349

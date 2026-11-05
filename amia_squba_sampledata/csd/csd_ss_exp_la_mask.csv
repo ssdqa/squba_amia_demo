@@ -1,0 +1,433 @@
+time_start,time_increment,site,variable,ct_denom,concept_id,output_function,ct_concept,prop_concept
+2015-01-01,year,combined,Hydroxyurea,16486,1377141,csd_ss_exp_la,2574,0.1561324760402766
+2015-01-01,year,combined,Hydroxyurea,16486,40051647,csd_ss_exp_la,82,0.004973917263132355
+2015-01-01,year,combined,Hydroxyurea,16486,1377168,csd_ss_exp_la,479,0.02905495572000485
+2015-01-01,year,combined,Hydroxyurea,16486,19023560,csd_ss_exp_la,322,0.019531723886934367
+2015-01-01,year,combined,Hydroxyurea,16486,1377169,csd_ss_exp_la,1024,0.062113308261555256
+2015-01-01,year,combined,Hydroxyurea,16486,19007385,csd_ss_exp_la,1723,0.10451292005337863
+2015-01-01,year,combined,Hydroxyurea,16486,1377170,csd_ss_exp_la,175,0.010615067329855635
+2015-01-01,year,combined,Hydroxyurea,16486,1377163,csd_ss_exp_la,7766,0.4710663593351935
+2015-01-01,year,combined,Hydroxyurea,16486,19023561,csd_ss_exp_la,913,0.055380322698046824
+2015-01-01,year,combined,Hydroxyurea,16486,19023562,csd_ss_exp_la,1131,0.06860366371466699
+2015-01-01,year,combined,Hydroxyurea,16486,1377167,csd_ss_exp_la,297,0.018015285696954993
+2015-01-01,year,combined,SCD Diagnosis,95094,4130068,csd_ss_exp_la,964,0.010137337792079416
+2015-01-01,year,combined,SCD Diagnosis,95094,4216915,csd_ss_exp_la,1389,0.014606599785475424
+2015-01-01,year,combined,SCD Diagnosis,95094,40485018,csd_ss_exp_la,34,3.5754095947168065e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,321263,csd_ss_exp_la,2674,0.028119544871390414
+2015-01-01,year,combined,SCD Diagnosis,95094,4213628,csd_ss_exp_la,29588,0.31114476202494373
+2015-01-01,year,combined,SCD Diagnosis,95094,4211932,csd_ss_exp_la,51,5.36311439207521e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,4130067,csd_ss_exp_la,439,0.004616484741413759
+2015-01-01,year,combined,SCD Diagnosis,95094,30683,csd_ss_exp_la,29389,0.30905209582097715
+2015-01-01,year,combined,SCD Diagnosis,95094,4131913,csd_ss_exp_la,7,7.361137400887544e-5
+2015-01-01,year,combined,SCD Diagnosis,95094,4103763,csd_ss_exp_la,6,6.309546343617894e-5
+2015-01-01,year,combined,SCD Diagnosis,95094,26942,csd_ss_exp_la,9739,0.10241445306749111
+2015-01-01,year,combined,SCD Diagnosis,95094,4209085,csd_ss_exp_la,886,0.00931709676740909
+2015-01-01,year,combined,SCD Diagnosis,95094,4131914,csd_ss_exp_la,27,2.8392958546280523e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,4167364,csd_ss_exp_la,29,3.049614066081982e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,4130190,csd_ss_exp_la,5,5.257955286348245e-5
+2015-01-01,year,combined,SCD Diagnosis,95094,22281,csd_ss_exp_la,18884,0.1985824552548005
+2015-01-01,year,combined,SCD Diagnosis,95094,315523,csd_ss_exp_la,69,7.255978295160578e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,4166115,csd_ss_exp_la,153,0.001608934317622563
+2015-01-01,year,combined,SCD Diagnosis,95094,4049095,csd_ss_exp_la,30,3.154773171808947e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,4166099,csd_ss_exp_la,74,7.781773823795403e-4
+2015-01-01,year,combined,SCD Diagnosis,95094,4219568,csd_ss_exp_la,3,3.154773171808947e-5
+2015-01-01,year,combined,SCD Diagnosis,95094,443738,csd_ss_exp_la,616,0.006477800912781038
+2015-01-01,year,combined,SCD Diagnosis,95094,4264046,csd_ss_exp_la,38,3.996046017624666e-4
+2016-01-01,year,combined,Hydroxyurea,24117,1377167,csd_ss_exp_la,281,0.011651532114276237
+2016-01-01,year,combined,Hydroxyurea,24117,1377141,csd_ss_exp_la,5252,0.21777169631380355
+2016-01-01,year,combined,Hydroxyurea,24117,963930,csd_ss_exp_la,8,3.317162167765477e-4
+2016-01-01,year,combined,Hydroxyurea,24117,1377168,csd_ss_exp_la,641,0.026578761869220882
+2016-01-01,year,combined,Hydroxyurea,24117,19023560,csd_ss_exp_la,385,0.015963842932371356
+2016-01-01,year,combined,Hydroxyurea,24117,40051647,csd_ss_exp_la,133,0.005514782103910105
+2016-01-01,year,combined,Hydroxyurea,24117,40051650,csd_ss_exp_la,9,3.731807438736161e-4
+2016-01-01,year,combined,Hydroxyurea,24117,19023562,csd_ss_exp_la,1420,0.05887962847783721
+2016-01-01,year,combined,Hydroxyurea,24117,1377169,csd_ss_exp_la,1894,0.07853381432184765
+2016-01-01,year,combined,Hydroxyurea,24117,1377163,csd_ss_exp_la,11257,0.46676618153169963
+2016-01-01,year,combined,Hydroxyurea,24117,19007385,csd_ss_exp_la,1723,0.07144338018824896
+2016-01-01,year,combined,Hydroxyurea,24117,19023561,csd_ss_exp_la,882,0.03657171289961438
+2016-01-01,year,combined,Hydroxyurea,24117,1377170,csd_ss_exp_la,232,0.009619770286519882
+2016-01-01,year,combined,SCD Diagnosis,95015,4130067,csd_ss_exp_la,543,0.005714887123085829
+2016-01-01,year,combined,SCD Diagnosis,95015,4130068,csd_ss_exp_la,879,0.009251170867757723
+2016-01-01,year,combined,SCD Diagnosis,95015,315523,csd_ss_exp_la,52,5.472820081039836e-4
+2016-01-01,year,combined,SCD Diagnosis,95015,26942,csd_ss_exp_la,9742,0.10253117928748093
+2016-01-01,year,combined,SCD Diagnosis,95015,4166115,csd_ss_exp_la,211,0.0022207019944219335
+2016-01-01,year,combined,SCD Diagnosis,95015,4130190,csd_ss_exp_la,3,3.1573962005999056e-5
+2016-01-01,year,combined,SCD Diagnosis,95015,30683,csd_ss_exp_la,22483,0.2366257959269589
+2016-01-01,year,combined,SCD Diagnosis,95015,4131914,csd_ss_exp_la,17,1.7891911803399462e-4
+2016-01-01,year,combined,SCD Diagnosis,95015,22281,csd_ss_exp_la,20638,0.2172078092932695
+2016-01-01,year,combined,SCD Diagnosis,95015,4216915,csd_ss_exp_la,1413,0.014871336104825553
+2016-01-01,year,combined,SCD Diagnosis,95015,4166099,csd_ss_exp_la,135,0.0014208282902699574
+2016-01-01,year,combined,SCD Diagnosis,95015,4103763,csd_ss_exp_la,4,4.2098616007998736e-5
+2016-01-01,year,combined,SCD Diagnosis,95015,4209085,csd_ss_exp_la,764,0.00804083565752776
+2016-01-01,year,combined,SCD Diagnosis,95015,4211932,csd_ss_exp_la,64,6.735778561279798e-4
+2016-01-01,year,combined,SCD Diagnosis,95015,4219568,csd_ss_exp_la,8,8.419723201599747e-5
+2016-01-01,year,combined,SCD Diagnosis,95015,4213628,csd_ss_exp_la,34735,0.365573856759459
+2016-01-01,year,combined,SCD Diagnosis,95015,4167364,csd_ss_exp_la,17,1.7891911803399462e-4
+2016-01-01,year,combined,SCD Diagnosis,95015,4131126,csd_ss_exp_la,6,6.314792401199811e-5
+2016-01-01,year,combined,SCD Diagnosis,95015,40485018,csd_ss_exp_la,74,7.788243961479766e-4
+2016-01-01,year,combined,SCD Diagnosis,95015,321263,csd_ss_exp_la,2541,0.026743145819081198
+2016-01-01,year,combined,SCD Diagnosis,95015,443738,csd_ss_exp_la,616,0.006483186865231806
+2016-01-01,year,combined,SCD Diagnosis,95015,4049095,csd_ss_exp_la,60,6.314792401199811e-4
+2016-01-01,year,combined,SCD Diagnosis,95015,4264046,csd_ss_exp_la,10,1.0524654001999685e-4
+2017-01-01,year,combined,Hydroxyurea,25044,1377167,csd_ss_exp_la,538,0.021482191343235906
+2017-01-01,year,combined,Hydroxyurea,25044,1377169,csd_ss_exp_la,1830,0.07307139434595113
+2017-01-01,year,combined,Hydroxyurea,25044,1377170,csd_ss_exp_la,202,0.008065804184635043
+2017-01-01,year,combined,Hydroxyurea,25044,19023561,csd_ss_exp_la,838,0.033461108449129535
+2017-01-01,year,combined,Hydroxyurea,25044,19023562,csd_ss_exp_la,976,0.0389714103178406
+2017-01-01,year,combined,Hydroxyurea,25044,1377163,csd_ss_exp_la,11583,0.4625059894585529
+2017-01-01,year,combined,Hydroxyurea,25044,19007385,csd_ss_exp_la,1963,0.07838204759623063
+2017-01-01,year,combined,Hydroxyurea,25044,1377168,csd_ss_exp_la,715,0.028549752435713144
+2017-01-01,year,combined,Hydroxyurea,25044,40051647,csd_ss_exp_la,171,0.006827982750359367
+2017-01-01,year,combined,Hydroxyurea,25044,1377141,csd_ss_exp_la,5741,0.22923654368311772
+2017-01-01,year,combined,Hydroxyurea,25044,19023560,csd_ss_exp_la,482,0.019246126816802427
+2017-01-01,year,combined,Hydroxyurea,25044,963930,csd_ss_exp_la,5,1.9964861843156046e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,26942,csd_ss_exp_la,10513,0.10600988202077241
+2017-01-01,year,combined,SCD Diagnosis,99170,22281,csd_ss_exp_la,21230,0.21407683775335282
+2017-01-01,year,combined,SCD Diagnosis,99170,4166115,csd_ss_exp_la,145,0.0014621357265302006
+2017-01-01,year,combined,SCD Diagnosis,99170,315523,csd_ss_exp_la,97,9.781183825753757e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,4209085,csd_ss_exp_la,799,0.008056872037914692
+2017-01-01,year,combined,SCD Diagnosis,99170,4131914,csd_ss_exp_la,43,4.3359887062619743e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,4130190,csd_ss_exp_la,4,4.0334778662902085e-5
+2017-01-01,year,combined,SCD Diagnosis,99170,4103763,csd_ss_exp_la,7,7.058586266007865e-5
+2017-01-01,year,combined,SCD Diagnosis,99170,4130067,csd_ss_exp_la,469,0.0047292527982252695
+2017-01-01,year,combined,SCD Diagnosis,99170,4211932,csd_ss_exp_la,63,6.352727639407079e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,30683,csd_ss_exp_la,23845,0.24044569930422507
+2017-01-01,year,combined,SCD Diagnosis,99170,40485018,csd_ss_exp_la,38,3.8318039729756984e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,4130068,csd_ss_exp_la,1073,0.010819804376323485
+2017-01-01,year,combined,SCD Diagnosis,99170,4213628,csd_ss_exp_la,35541,0.35838459211455076
+2017-01-01,year,combined,SCD Diagnosis,99170,321263,csd_ss_exp_la,3146,0.03172330341837249
+2017-01-01,year,combined,SCD Diagnosis,99170,4216915,csd_ss_exp_la,1175,0.011848341232227487
+2017-01-01,year,combined,SCD Diagnosis,99170,4166099,csd_ss_exp_la,91,9.176162145810224e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,443738,csd_ss_exp_la,823,0.008298880709892105
+2017-01-01,year,combined,SCD Diagnosis,99170,4264046,csd_ss_exp_la,9,9.07532519915297e-5
+2017-01-01,year,combined,SCD Diagnosis,99170,4167364,csd_ss_exp_la,10,1.0083694665725522e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,4049095,csd_ss_exp_la,40,4.033477866290209e-4
+2017-01-01,year,combined,SCD Diagnosis,99170,4219568,csd_ss_exp_la,3,3.0251083997176567e-5
+2017-01-01,year,combined,SCD Diagnosis,99170,4131126,csd_ss_exp_la,6,6.0502167994353134e-5
+2018-01-01,year,combined,Hydroxyurea,26394,1377163,csd_ss_exp_la,11689,0.4428658028339774
+2018-01-01,year,combined,Hydroxyurea,26394,19023562,csd_ss_exp_la,1004,0.03803894824581344
+2018-01-01,year,combined,Hydroxyurea,26394,1377167,csd_ss_exp_la,786,0.029779495339849967
+2018-01-01,year,combined,Hydroxyurea,26394,1377141,csd_ss_exp_la,5827,0.22076987194059255
+2018-01-01,year,combined,Hydroxyurea,26394,1377168,csd_ss_exp_la,1271,0.04815488368568614
+2018-01-01,year,combined,Hydroxyurea,26394,1377170,csd_ss_exp_la,221,0.008373115101917102
+2018-01-01,year,combined,Hydroxyurea,26394,963930,csd_ss_exp_la,5,1.8943699325604303e-4
+2018-01-01,year,combined,Hydroxyurea,26394,19023560,csd_ss_exp_la,370,0.014018337500947185
+2018-01-01,year,combined,Hydroxyurea,26394,1377169,csd_ss_exp_la,2102,0.07963931196484049
+2018-01-01,year,combined,Hydroxyurea,26394,19007385,csd_ss_exp_la,2533,0.0959687807835114
+2018-01-01,year,combined,Hydroxyurea,26394,19023561,csd_ss_exp_la,465,0.017617640372812004
+2018-01-01,year,combined,Hydroxyurea,26394,40051647,csd_ss_exp_la,121,0.004584375236796241
+2018-01-01,year,combined,SCD Diagnosis,97385,30683,csd_ss_exp_la,23587,0.24220362478821172
+2018-01-01,year,combined,SCD Diagnosis,97385,4130067,csd_ss_exp_la,458,0.0047029830055963446
+2018-01-01,year,combined,SCD Diagnosis,97385,4131126,csd_ss_exp_la,13,1.3349078400164295e-4
+2018-01-01,year,combined,SCD Diagnosis,97385,22281,csd_ss_exp_la,21744,0.2232787390255173
+2018-01-01,year,combined,SCD Diagnosis,97385,26942,csd_ss_exp_la,10503,0.10785028495148123
+2018-01-01,year,combined,SCD Diagnosis,97385,4049095,csd_ss_exp_la,34,3.4912974277352774e-4
+2018-01-01,year,combined,SCD Diagnosis,97385,4166115,csd_ss_exp_la,206,0.002115315500333727
+2018-01-01,year,combined,SCD Diagnosis,97385,4213628,csd_ss_exp_la,33511,0.3441084355906967
+2018-01-01,year,combined,SCD Diagnosis,97385,4216915,csd_ss_exp_la,1034,0.010617651589053756
+2018-01-01,year,combined,SCD Diagnosis,97385,4130068,csd_ss_exp_la,1051,0.01079221646044052
+2018-01-01,year,combined,SCD Diagnosis,97385,315523,csd_ss_exp_la,109,0.0011192688812445449
+2018-01-01,year,combined,SCD Diagnosis,97385,4166099,csd_ss_exp_la,78,8.009447040098577e-4
+2018-01-01,year,combined,SCD Diagnosis,97385,4103763,csd_ss_exp_la,10,0.00010268521846280227
+2018-01-01,year,combined,SCD Diagnosis,97385,4264046,csd_ss_exp_la,4,4.107408738512091e-5
+2018-01-01,year,combined,SCD Diagnosis,97385,4131914,csd_ss_exp_la,35,3.59398264619808e-4
+2018-01-01,year,combined,SCD Diagnosis,97385,4167364,csd_ss_exp_la,7,7.18796529239616e-5
+2018-01-01,year,combined,SCD Diagnosis,97385,4211932,csd_ss_exp_la,58,5.955742670842532e-4
+2018-01-01,year,combined,SCD Diagnosis,97385,4130190,csd_ss_exp_la,6,6.161113107768137e-5
+2018-01-01,year,combined,SCD Diagnosis,97385,40485018,csd_ss_exp_la,46,4.7235200492889046e-4
+2018-01-01,year,combined,SCD Diagnosis,97385,321263,csd_ss_exp_la,3146,0.032304769728397596
+2018-01-01,year,combined,SCD Diagnosis,97385,443738,csd_ss_exp_la,933,0.009580530882579453
+2018-01-01,year,combined,SCD Diagnosis,97385,4209085,csd_ss_exp_la,807,0.008286697129948143
+2018-01-01,year,combined,SCD Diagnosis,97385,4219568,csd_ss_exp_la,5,5.134260923140114e-5
+2019-01-01,year,combined,Hydroxyurea,34624,19023561,csd_ss_exp_la,450,0.012996765249537892
+2019-01-01,year,combined,Hydroxyurea,34624,963930,csd_ss_exp_la,17,4.909889094269871e-4
+2019-01-01,year,combined,Hydroxyurea,34624,1377168,csd_ss_exp_la,2443,0.07055799445471349
+2019-01-01,year,combined,Hydroxyurea,34624,19023560,csd_ss_exp_la,291,0.008404574861367838
+2019-01-01,year,combined,Hydroxyurea,34624,1377170,csd_ss_exp_la,307,0.008866682070240295
+2019-01-01,year,combined,Hydroxyurea,34624,1377169,csd_ss_exp_la,3441,0.09938193160813309
+2019-01-01,year,combined,Hydroxyurea,34624,963938,csd_ss_exp_la,249,0.007191543438077634
+2019-01-01,year,combined,Hydroxyurea,34624,19023562,csd_ss_exp_la,1124,0.032463031423290205
+2019-01-01,year,combined,Hydroxyurea,34624,1377167,csd_ss_exp_la,1280,0.036968576709796676
+2019-01-01,year,combined,Hydroxyurea,34624,19007385,csd_ss_exp_la,3006,0.08681839186691312
+2019-01-01,year,combined,Hydroxyurea,34624,1377163,csd_ss_exp_la,15483,0.4471753696857671
+2019-01-01,year,combined,Hydroxyurea,34624,40051647,csd_ss_exp_la,149,0.004303373382624769
+2019-01-01,year,combined,Hydroxyurea,34624,1377141,csd_ss_exp_la,6357,0.18360097042513862
+2019-01-01,year,combined,Hydroxyurea,34624,963936,csd_ss_exp_la,27,7.798059149722736e-4
+2019-01-01,year,combined,SCD Diagnosis,100352,4216915,csd_ss_exp_la,1282,0.012775031887755101
+2019-01-01,year,combined,SCD Diagnosis,100352,4166115,csd_ss_exp_la,193,0.0019232302295918368
+2019-01-01,year,combined,SCD Diagnosis,100352,4264046,csd_ss_exp_la,6,5.978954081632653e-5
+2019-01-01,year,combined,SCD Diagnosis,100352,4130068,csd_ss_exp_la,929,0.009257413903061224
+2019-01-01,year,combined,SCD Diagnosis,100352,4103763,csd_ss_exp_la,7,6.975446428571428e-5
+2019-01-01,year,combined,SCD Diagnosis,100352,4166099,csd_ss_exp_la,130,0.001295440051020408
+2019-01-01,year,combined,SCD Diagnosis,100352,26942,csd_ss_exp_la,11767,0.11725725446428571
+2019-01-01,year,combined,SCD Diagnosis,100352,315523,csd_ss_exp_la,86,8.569834183673469e-4
+2019-01-01,year,combined,SCD Diagnosis,100352,4209085,csd_ss_exp_la,871,0.008679448341836735
+2019-01-01,year,combined,SCD Diagnosis,100352,321263,csd_ss_exp_la,3196,0.03184789540816327
+2019-01-01,year,combined,SCD Diagnosis,100352,4131126,csd_ss_exp_la,4,3.985969387755102e-5
+2019-01-01,year,combined,SCD Diagnosis,100352,4130067,csd_ss_exp_la,444,0.004424426020408163
+2019-01-01,year,combined,SCD Diagnosis,100352,4049095,csd_ss_exp_la,25,2.491230867346939e-4
+2019-01-01,year,combined,SCD Diagnosis,100352,4131914,csd_ss_exp_la,23,2.2919323979591838e-4
+2019-01-01,year,combined,SCD Diagnosis,100352,4213628,csd_ss_exp_la,33975,0.338558274872449
+2019-01-01,year,combined,SCD Diagnosis,100352,22281,csd_ss_exp_la,23051,0.22970145089285715
+2019-01-01,year,combined,SCD Diagnosis,100352,4130190,csd_ss_exp_la,3,2.9894770408163265e-5
+2019-01-01,year,combined,SCD Diagnosis,100352,30683,csd_ss_exp_la,23401,0.23318917410714285
+2019-01-01,year,combined,SCD Diagnosis,100352,4167364,csd_ss_exp_la,9,8.96843112244898e-5
+2019-01-01,year,combined,SCD Diagnosis,100352,4211932,csd_ss_exp_la,68,6.776147959183673e-4
+2019-01-01,year,combined,SCD Diagnosis,100352,40485018,csd_ss_exp_la,52,5.181760204081633e-4
+2019-01-01,year,combined,SCD Diagnosis,100352,443738,csd_ss_exp_la,830,0.008270886479591837
+2020-01-01,year,combined,Hydroxyurea,25125,963938,csd_ss_exp_la,269,0.010706467661691543
+2020-01-01,year,combined,Hydroxyurea,25125,1377169,csd_ss_exp_la,2623,0.10439800995024875
+2020-01-01,year,combined,Hydroxyurea,25125,19023560,csd_ss_exp_la,315,0.01253731343283582
+2020-01-01,year,combined,Hydroxyurea,25125,40051647,csd_ss_exp_la,175,0.006965174129353234
+2020-01-01,year,combined,Hydroxyurea,25125,1377168,csd_ss_exp_la,1548,0.061611940298507466
+2020-01-01,year,combined,Hydroxyurea,25125,19023561,csd_ss_exp_la,444,0.017671641791044777
+2020-01-01,year,combined,Hydroxyurea,25125,1377167,csd_ss_exp_la,921,0.03665671641791045
+2020-01-01,year,combined,Hydroxyurea,25125,1377170,csd_ss_exp_la,316,0.012577114427860697
+2020-01-01,year,combined,Hydroxyurea,25125,963930,csd_ss_exp_la,40,0.0015920398009950248
+2020-01-01,year,combined,Hydroxyurea,25125,1377141,csd_ss_exp_la,3274,0.13030845771144278
+2020-01-01,year,combined,Hydroxyurea,25125,1377163,csd_ss_exp_la,11150,0.4437810945273632
+2020-01-01,year,combined,Hydroxyurea,25125,963936,csd_ss_exp_la,138,0.005492537313432836
+2020-01-01,year,combined,Hydroxyurea,25125,19007385,csd_ss_exp_la,2587,0.10296517412935323
+2020-01-01,year,combined,Hydroxyurea,25125,19023562,csd_ss_exp_la,1325,0.0527363184079602
+2020-01-01,year,combined,SCD Diagnosis,90319,4213628,csd_ss_exp_la,30223,0.33462505120738717
+2020-01-01,year,combined,SCD Diagnosis,90319,26942,csd_ss_exp_la,10382,0.11494812830080049
+2020-01-01,year,combined,SCD Diagnosis,90319,4264046,csd_ss_exp_la,5,5.535933745944928e-5
+2020-01-01,year,combined,SCD Diagnosis,90319,4130067,csd_ss_exp_la,326,0.0036094288023560935
+2020-01-01,year,combined,SCD Diagnosis,90319,4103763,csd_ss_exp_la,10,1.1071867491889857e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,22281,csd_ss_exp_la,21795,0.24131135198573944
+2020-01-01,year,combined,SCD Diagnosis,90319,4166099,csd_ss_exp_la,119,0.001317552231534893
+2020-01-01,year,combined,SCD Diagnosis,90319,4130190,csd_ss_exp_la,11,1.2179054241078843e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,4211932,csd_ss_exp_la,43,4.7609030215126384e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,321263,csd_ss_exp_la,2698,0.029871898493118835
+2020-01-01,year,combined,SCD Diagnosis,90319,443738,csd_ss_exp_la,563,0.00623346139793399
+2020-01-01,year,combined,SCD Diagnosis,90319,315523,csd_ss_exp_la,61,6.753839170052813e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,4166115,csd_ss_exp_la,177,0.0019597205460645047
+2020-01-01,year,combined,SCD Diagnosis,90319,4131914,csd_ss_exp_la,61,6.753839170052813e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,4131126,csd_ss_exp_la,17,1.8822174736212756e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,30683,csd_ss_exp_la,20705,0.2292430164195795
+2020-01-01,year,combined,SCD Diagnosis,90319,4209085,csd_ss_exp_la,872,0.009654668452927955
+2020-01-01,year,combined,SCD Diagnosis,90319,4216915,csd_ss_exp_la,1048,0.011603317131500571
+2020-01-01,year,combined,SCD Diagnosis,90319,4049095,csd_ss_exp_la,20,2.2143734983779713e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,4130068,csd_ss_exp_la,1124,0.0124447790608842
+2020-01-01,year,combined,SCD Diagnosis,90319,4167364,csd_ss_exp_la,29,3.2108415726480585e-4
+2020-01-01,year,combined,SCD Diagnosis,90319,40485018,csd_ss_exp_la,30,3.321560247566957e-4
+2021-01-01,year,combined,Hydroxyurea,28792,963936,csd_ss_exp_la,278,0.009655459849958322
+2021-01-01,year,combined,Hydroxyurea,28792,19007385,csd_ss_exp_la,2910,0.10106974159488746
+2021-01-01,year,combined,Hydroxyurea,28792,1377141,csd_ss_exp_la,3661,0.1271533759377605
+2021-01-01,year,combined,Hydroxyurea,28792,1377163,csd_ss_exp_la,13550,0.4706168380105585
+2021-01-01,year,combined,Hydroxyurea,28792,1377168,csd_ss_exp_la,1502,0.05216726868574604
+2021-01-01,year,combined,Hydroxyurea,28792,1377167,csd_ss_exp_la,1011,0.03511392053348152
+2021-01-01,year,combined,Hydroxyurea,28792,19023560,csd_ss_exp_la,255,0.008856626840789108
+2021-01-01,year,combined,Hydroxyurea,28792,19023562,csd_ss_exp_la,1164,0.040427896637954985
+2021-01-01,year,combined,Hydroxyurea,28792,1377169,csd_ss_exp_la,2938,0.10204223395387607
+2021-01-01,year,combined,Hydroxyurea,28792,19023561,csd_ss_exp_la,487,0.016914420672409003
+2021-01-01,year,combined,Hydroxyurea,28792,1377170,csd_ss_exp_la,365,0.012677132536815782
+2021-01-01,year,combined,Hydroxyurea,28792,963930,csd_ss_exp_la,36,0.0012503473186996387
+2021-01-01,year,combined,Hydroxyurea,28792,40051647,csd_ss_exp_la,158,0.005487635454292859
+2021-01-01,year,combined,Hydroxyurea,28792,963938,csd_ss_exp_la,477,0.016567101972770212
+2021-01-01,year,combined,SCD Diagnosis,95684,4213628,csd_ss_exp_la,32433,0.33895949166004763
+2021-01-01,year,combined,SCD Diagnosis,95684,4166115,csd_ss_exp_la,166,0.001734877304460516
+2021-01-01,year,combined,SCD Diagnosis,95684,30683,csd_ss_exp_la,25351,0.2649450273817984
+2021-01-01,year,combined,SCD Diagnosis,95684,4049095,csd_ss_exp_la,22,2.2992349818151415e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,4130067,csd_ss_exp_la,356,0.0037205802433008654
+2021-01-01,year,combined,SCD Diagnosis,95684,4130190,csd_ss_exp_la,22,2.2992349818151415e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,22281,csd_ss_exp_la,15893,0.16609882529994566
+2021-01-01,year,combined,SCD Diagnosis,95684,4131914,csd_ss_exp_la,28,2.926299067764726e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,4209085,csd_ss_exp_la,1111,0.011611136658166465
+2021-01-01,year,combined,SCD Diagnosis,95684,321263,csd_ss_exp_la,2967,0.031008319050206932
+2021-01-01,year,combined,SCD Diagnosis,95684,4131126,csd_ss_exp_la,14,1.463149533882363e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,4219568,csd_ss_exp_la,3,3.1353204297479205e-5
+2021-01-01,year,combined,SCD Diagnosis,95684,443738,csd_ss_exp_la,638,0.00666778144726391
+2021-01-01,year,combined,SCD Diagnosis,95684,4211932,csd_ss_exp_la,55,5.748087454537854e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,4121115,csd_ss_exp_la,6,6.270640859495841e-5
+2021-01-01,year,combined,SCD Diagnosis,95684,40485018,csd_ss_exp_la,63,6.584172902470633e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,4167364,csd_ss_exp_la,12,1.2541281718991682e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,4166099,csd_ss_exp_la,78,8.151833117344592e-4
+2021-01-01,year,combined,SCD Diagnosis,95684,26942,csd_ss_exp_la,13215,0.1381108649303959
+2021-01-01,year,combined,SCD Diagnosis,95684,4216915,csd_ss_exp_la,1510,0.015781112829731197
+2021-01-01,year,combined,SCD Diagnosis,95684,4264046,csd_ss_exp_la,5,5.225534049579867e-5
+2021-01-01,year,combined,SCD Diagnosis,95684,4130068,csd_ss_exp_la,1695,0.01771456042807575
+2021-01-01,year,combined,SCD Diagnosis,95684,315523,csd_ss_exp_la,41,4.284937920655491e-4
+2022-01-01,year,combined,Hydroxyurea,27686,963930,csd_ss_exp_la,98,0.003539695152784801
+2022-01-01,year,combined,Hydroxyurea,27686,19007385,csd_ss_exp_la,3386,0.12230007946254425
+2022-01-01,year,combined,Hydroxyurea,27686,1377168,csd_ss_exp_la,1258,0.04543812757350285
+2022-01-01,year,combined,Hydroxyurea,27686,19023561,csd_ss_exp_la,563,0.020335187459365744
+2022-01-01,year,combined,Hydroxyurea,27686,1377167,csd_ss_exp_la,820,0.029617857400852415
+2022-01-01,year,combined,Hydroxyurea,27686,963936,csd_ss_exp_la,490,0.017698475763924006
+2022-01-01,year,combined,Hydroxyurea,27686,19023562,csd_ss_exp_la,905,0.032688001155818824
+2022-01-01,year,combined,Hydroxyurea,27686,19023560,csd_ss_exp_la,234,0.008451925160731056
+2022-01-01,year,combined,Hydroxyurea,27686,1377169,csd_ss_exp_la,2474,0.08935924293866937
+2022-01-01,year,combined,Hydroxyurea,27686,40051647,csd_ss_exp_la,226,0.008162970454381276
+2022-01-01,year,combined,Hydroxyurea,27686,963938,csd_ss_exp_la,464,0.01675937296828722
+2022-01-01,year,combined,Hydroxyurea,27686,1377170,csd_ss_exp_la,405,0.014628332008957596
+2022-01-01,year,combined,Hydroxyurea,27686,1377141,csd_ss_exp_la,3866,0.13963736184353104
+2022-01-01,year,combined,Hydroxyurea,27686,1377163,csd_ss_exp_la,12497,0.4513833706566496
+2022-01-01,year,combined,SCD Diagnosis,98700,4264046,csd_ss_exp_la,3,3.0395136778115502e-5
+2022-01-01,year,combined,SCD Diagnosis,98700,4213628,csd_ss_exp_la,34949,0.35409321175278624
+2022-01-01,year,combined,SCD Diagnosis,98700,4049095,csd_ss_exp_la,30,3.0395136778115504e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,26942,csd_ss_exp_la,15046,0.1524417426545086
+2022-01-01,year,combined,SCD Diagnosis,98700,40485018,csd_ss_exp_la,41,4.1540020263424517e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,4130068,csd_ss_exp_la,1655,0.016767983789260386
+2022-01-01,year,combined,SCD Diagnosis,98700,4130067,csd_ss_exp_la,290,0.002938196555217832
+2022-01-01,year,combined,SCD Diagnosis,98700,22281,csd_ss_exp_la,8147,0.08254305977710233
+2022-01-01,year,combined,SCD Diagnosis,98700,4166099,csd_ss_exp_la,42,4.25531914893617e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,4219568,csd_ss_exp_la,7,7.092198581560284e-5
+2022-01-01,year,combined,SCD Diagnosis,98700,315523,csd_ss_exp_la,5,5.0658561296859166e-5
+2022-01-01,year,combined,SCD Diagnosis,98700,30683,csd_ss_exp_la,31122,0.3153191489361702
+2022-01-01,year,combined,SCD Diagnosis,98700,4166115,csd_ss_exp_la,182,0.0018439716312056737
+2022-01-01,year,combined,SCD Diagnosis,98700,4131914,csd_ss_exp_la,65,6.585612968591692e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,4130190,csd_ss_exp_la,14,1.4184397163120567e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,443738,csd_ss_exp_la,467,0.004731509625126647
+2022-01-01,year,combined,SCD Diagnosis,98700,4211932,csd_ss_exp_la,41,4.1540020263424517e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,4209085,csd_ss_exp_la,1362,0.013799392097264438
+2022-01-01,year,combined,SCD Diagnosis,98700,321263,csd_ss_exp_la,2934,0.02972644376899696
+2022-01-01,year,combined,SCD Diagnosis,98700,4216915,csd_ss_exp_la,2282,0.023120567375886525
+2022-01-01,year,combined,SCD Diagnosis,98700,4131126,csd_ss_exp_la,10,1.0131712259371833e-4
+2022-01-01,year,combined,SCD Diagnosis,98700,4167364,csd_ss_exp_la,6,6.0790273556231004e-5
+2023-01-01,year,combined,Hydroxyurea,29752,963938,csd_ss_exp_la,518,0.01741059424576499
+2023-01-01,year,combined,Hydroxyurea,29752,963936,csd_ss_exp_la,548,0.018418929819844044
+2023-01-01,year,combined,Hydroxyurea,29752,1377169,csd_ss_exp_la,2013,0.06765931702070449
+2023-01-01,year,combined,Hydroxyurea,29752,963930,csd_ss_exp_la,235,0.007898628663619253
+2023-01-01,year,combined,Hydroxyurea,29752,1377167,csd_ss_exp_la,666,0.022385049744554988
+2023-01-01,year,combined,Hydroxyurea,29752,19007385,csd_ss_exp_la,4147,0.13938558752352784
+2023-01-01,year,combined,Hydroxyurea,29752,40051647,csd_ss_exp_la,143,0.0048063995697768215
+2023-01-01,year,combined,Hydroxyurea,29752,19023562,csd_ss_exp_la,1004,0.03374563054584566
+2023-01-01,year,combined,Hydroxyurea,29752,1377168,csd_ss_exp_la,1118,0.037577305727346064
+2023-01-01,year,combined,Hydroxyurea,29752,40051650,csd_ss_exp_la,7,2.352783006184458e-4
+2023-01-01,year,combined,Hydroxyurea,29752,19023561,csd_ss_exp_la,602,0.02023393385318634
+2023-01-01,year,combined,Hydroxyurea,29752,1377170,csd_ss_exp_la,566,0.019023931164291477
+2023-01-01,year,combined,Hydroxyurea,29752,1377141,csd_ss_exp_la,4129,0.1387805861790804
+2023-01-01,year,combined,Hydroxyurea,29752,19023560,csd_ss_exp_la,237,0.007965851035224522
+2023-01-01,year,combined,Hydroxyurea,29752,1377163,csd_ss_exp_la,13819,0.4644729766066147
+2023-01-01,year,combined,SCD Diagnosis,107042,26942,csd_ss_exp_la,16356,0.15279983557855795
+2023-01-01,year,combined,SCD Diagnosis,107042,443738,csd_ss_exp_la,786,0.007342912127949777
+2023-01-01,year,combined,SCD Diagnosis,107042,4216915,csd_ss_exp_la,2361,0.022056762766017077
+2023-01-01,year,combined,SCD Diagnosis,107042,4167364,csd_ss_exp_la,31,2.896059490667215e-4
+2023-01-01,year,combined,SCD Diagnosis,107042,4131126,csd_ss_exp_la,9,8.407914650324171e-5
+2023-01-01,year,combined,SCD Diagnosis,107042,4130067,csd_ss_exp_la,379,0.003540666280525401
+2023-01-01,year,combined,SCD Diagnosis,107042,4130190,csd_ss_exp_la,27,2.5223743950972515e-4
+2023-01-01,year,combined,SCD Diagnosis,107042,40485018,csd_ss_exp_la,64,5.978961529119411e-4
+2023-01-01,year,combined,SCD Diagnosis,107042,321263,csd_ss_exp_la,3457,0.03229573438463407
+2023-01-01,year,combined,SCD Diagnosis,107042,4211932,csd_ss_exp_la,70,6.539489172474356e-4
+2023-01-01,year,combined,SCD Diagnosis,107042,4131914,csd_ss_exp_la,46,4.297378599054577e-4
+2023-01-01,year,combined,SCD Diagnosis,107042,30683,csd_ss_exp_la,32776,0.30619756731002784
+2023-01-01,year,combined,SCD Diagnosis,107042,22281,csd_ss_exp_la,9098,0.08499467498738812
+2023-01-01,year,combined,SCD Diagnosis,107042,315523,csd_ss_exp_la,19,1.7750042039573253e-4
+2023-01-01,year,combined,SCD Diagnosis,107042,4219568,csd_ss_exp_la,3,2.802638216774724e-5
+2023-01-01,year,combined,SCD Diagnosis,107042,4166115,csd_ss_exp_la,259,0.0024196109938155116
+2023-01-01,year,combined,SCD Diagnosis,107042,4209085,csd_ss_exp_la,1585,0.014807271911959791
+2023-01-01,year,combined,SCD Diagnosis,107042,4121115,csd_ss_exp_la,10,9.34212738924908e-5
+2023-01-01,year,combined,SCD Diagnosis,107042,4166099,csd_ss_exp_la,130,0.0012144765606023804
+2023-01-01,year,combined,SCD Diagnosis,107042,4103763,csd_ss_exp_la,7,6.539489172474356e-5
+2023-01-01,year,combined,SCD Diagnosis,107042,4213628,csd_ss_exp_la,37440,0.34976924945348553
+2023-01-01,year,combined,SCD Diagnosis,107042,4130068,csd_ss_exp_la,2107,0.019683862409147813
+2023-01-01,year,combined,SCD Diagnosis,107042,4049095,csd_ss_exp_la,22,2.0552680256347977e-4
+2024-01-01,year,combined,Hydroxyurea,32485,1377167,csd_ss_exp_la,636,0.01957826689241188
+2024-01-01,year,combined,Hydroxyurea,32485,963936,csd_ss_exp_la,483,0.014868400800369401
+2024-01-01,year,combined,Hydroxyurea,32485,19023560,csd_ss_exp_la,324,0.00997383407726643
+2024-01-01,year,combined,Hydroxyurea,32485,1377170,csd_ss_exp_la,604,0.018593196860089273
+2024-01-01,year,combined,Hydroxyurea,32485,963938,csd_ss_exp_la,654,0.020132368785593352
+2024-01-01,year,combined,Hydroxyurea,32485,963930,csd_ss_exp_la,210,0.006464522087117131
+2024-01-01,year,combined,Hydroxyurea,32485,40051647,csd_ss_exp_la,381,0.01172849007234108
+2024-01-01,year,combined,Hydroxyurea,32485,19023562,csd_ss_exp_la,1053,0.0324149607511159
+2024-01-01,year,combined,Hydroxyurea,32485,1377168,csd_ss_exp_la,806,0.02481145143912575
+2024-01-01,year,combined,Hydroxyurea,32485,19007385,csd_ss_exp_la,5474,0.16850854240418656
+2024-01-01,year,combined,Hydroxyurea,32485,1377169,csd_ss_exp_la,1437,0.04423580113898722
+2024-01-01,year,combined,Hydroxyurea,32485,19023561,csd_ss_exp_la,481,0.014806833923349237
+2024-01-01,year,combined,Hydroxyurea,32485,1377163,csd_ss_exp_la,15306,0.4711713098353086
+2024-01-01,year,combined,Hydroxyurea,32485,1377141,csd_ss_exp_la,4636,0.1427120209327382
+2024-01-01,year,combined,SCD Diagnosis,119343,315523,csd_ss_exp_la,18,1.5082577109675472e-4
+2024-01-01,year,combined,SCD Diagnosis,119343,4216915,csd_ss_exp_la,3094,0.025925274209631064
+2024-01-01,year,combined,SCD Diagnosis,119343,4166099,csd_ss_exp_la,134,0.0011228140737202853
+2024-01-01,year,combined,SCD Diagnosis,119343,4166115,csd_ss_exp_la,362,0.003033273840945845
+2024-01-01,year,combined,SCD Diagnosis,119343,4219568,csd_ss_exp_la,3,2.513762851612579e-5
+2024-01-01,year,combined,SCD Diagnosis,119343,4103763,csd_ss_exp_la,5,4.1896047526876315e-5
+2024-01-01,year,combined,SCD Diagnosis,119343,4209085,csd_ss_exp_la,1758,0.014730650310449712
+2024-01-01,year,combined,SCD Diagnosis,119343,22281,csd_ss_exp_la,12449,0.10431277913241664
+2024-01-01,year,combined,SCD Diagnosis,119343,40485018,csd_ss_exp_la,86,7.206120174622727e-4
+2024-01-01,year,combined,SCD Diagnosis,119343,443738,csd_ss_exp_la,778,0.006519024995181954
+2024-01-01,year,combined,SCD Diagnosis,119343,4130190,csd_ss_exp_la,56,4.692357323010147e-4
+2024-01-01,year,combined,SCD Diagnosis,119343,30683,csd_ss_exp_la,35051,0.29369967237290834
+2024-01-01,year,combined,SCD Diagnosis,119343,4131914,csd_ss_exp_la,55,4.6085652279563946e-4
+2024-01-01,year,combined,SCD Diagnosis,119343,4211932,csd_ss_exp_la,63,5.278901988386416e-4
+2024-01-01,year,combined,SCD Diagnosis,119343,4213628,csd_ss_exp_la,40042,0.3355203070142363
+2024-01-01,year,combined,SCD Diagnosis,119343,4167364,csd_ss_exp_la,7,5.865446653762684e-5
+2024-01-01,year,combined,SCD Diagnosis,119343,4130068,csd_ss_exp_la,2269,0.019012426367696473
+2024-01-01,year,combined,SCD Diagnosis,119343,26942,csd_ss_exp_la,19260,0.16138357507352757
+2024-01-01,year,combined,SCD Diagnosis,119343,4049095,csd_ss_exp_la,13,1.0892972356987841e-4
+2024-01-01,year,combined,SCD Diagnosis,119343,4121115,csd_ss_exp_la,10,8.379209505375263e-5
+2024-01-01,year,combined,SCD Diagnosis,119343,321263,csd_ss_exp_la,3550,0.029746193744082182
+2024-01-01,year,combined,SCD Diagnosis,119343,4264046,csd_ss_exp_la,6,5.027525703225158e-5
+2024-01-01,year,combined,SCD Diagnosis,119343,4130067,csd_ss_exp_la,266,0.00222886972842982
+2024-01-01,year,combined,SCD Diagnosis,119343,4131126,csd_ss_exp_la,8,6.70336760430021e-5
+2025-01-01,year,combined,Hydroxyurea,31245,19023560,csd_ss_exp_la,400,0.012802048327732437
+2025-01-01,year,combined,Hydroxyurea,31245,1377163,csd_ss_exp_la,15266,0.4885901744279085
+2025-01-01,year,combined,Hydroxyurea,31245,1377168,csd_ss_exp_la,774,0.024771963514162266
+2025-01-01,year,combined,Hydroxyurea,31245,1377167,csd_ss_exp_la,613,0.01961913906224996
+2025-01-01,year,combined,Hydroxyurea,31245,19007385,csd_ss_exp_la,4645,0.14866378620579293
+2025-01-01,year,combined,Hydroxyurea,31245,1377169,csd_ss_exp_la,1308,0.04186269803168507
+2025-01-01,year,combined,Hydroxyurea,31245,40051647,csd_ss_exp_la,407,0.013026084173467754
+2025-01-01,year,combined,Hydroxyurea,31245,963936,csd_ss_exp_la,519,0.01661065770523284
+2025-01-01,year,combined,Hydroxyurea,31245,19023562,csd_ss_exp_la,862,0.027588414146263403
+2025-01-01,year,combined,Hydroxyurea,31245,963938,csd_ss_exp_la,693,0.02217954872779645
+2025-01-01,year,combined,Hydroxyurea,31245,963930,csd_ss_exp_la,291,0.009313490158425348
+2025-01-01,year,combined,Hydroxyurea,31245,1377170,csd_ss_exp_la,794,0.02541206593054889
+2025-01-01,year,combined,Hydroxyurea,31245,19023561,csd_ss_exp_la,462,0.014786365818530964
+2025-01-01,year,combined,Hydroxyurea,31245,1377141,csd_ss_exp_la,4211,0.13477356377020322
+2025-01-01,year,combined,SCD Diagnosis,128538,4166115,csd_ss_exp_la,399,0.0031041404098398916
+2025-01-01,year,combined,SCD Diagnosis,128538,315523,csd_ss_exp_la,14,1.0891720736280321e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,30683,csd_ss_exp_la,38562,0.30000466788031555
+2025-01-01,year,combined,SCD Diagnosis,128538,22281,csd_ss_exp_la,12916,0.10048390359271188
+2025-01-01,year,combined,SCD Diagnosis,128538,4131914,csd_ss_exp_la,19,1.478162099923758e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,4130190,csd_ss_exp_la,79,6.146042415472468e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,4211932,csd_ss_exp_la,65,5.056870341844435e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,40485018,csd_ss_exp_la,79,6.146042415472468e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,321263,csd_ss_exp_la,3826,0.029765516812148937
+2025-01-01,year,combined,SCD Diagnosis,128538,443738,csd_ss_exp_la,843,0.006558371843345937
+2025-01-01,year,combined,SCD Diagnosis,128538,4264046,csd_ss_exp_la,3,2.3339401577743546e-5
+2025-01-01,year,combined,SCD Diagnosis,128538,4130067,csd_ss_exp_la,281,0.0021861239477819787
+2025-01-01,year,combined,SCD Diagnosis,128538,4130068,csd_ss_exp_la,2357,0.018336989839580514
+2025-01-01,year,combined,SCD Diagnosis,128538,4167364,csd_ss_exp_la,10,7.779800525914516e-5
+2025-01-01,year,combined,SCD Diagnosis,128538,26942,csd_ss_exp_la,20155,0.15680187959980707
+2025-01-01,year,combined,SCD Diagnosis,128538,4131126,csd_ss_exp_la,17,1.3225660894054675e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,4216915,csd_ss_exp_la,3215,0.02501205869081517
+2025-01-01,year,combined,SCD Diagnosis,128538,4213628,csd_ss_exp_la,43278,0.3366942071605284
+2025-01-01,year,combined,SCD Diagnosis,128538,4166099,csd_ss_exp_la,123,9.569154646874855e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,4219568,csd_ss_exp_la,5,3.889900262957258e-5
+2025-01-01,year,combined,SCD Diagnosis,128538,4049095,csd_ss_exp_la,15,1.1669700788871774e-4
+2025-01-01,year,combined,SCD Diagnosis,128538,4209085,csd_ss_exp_la,2268,0.01764458759277412
+2025-01-01,year,combined,SCD Diagnosis,128538,4121115,csd_ss_exp_la,9,7.001820473323065e-5
+2026-01-01,year,combined,Hydroxyurea,9692,1377168,csd_ss_exp_la,76,0.007841518778373916
+2026-01-01,year,combined,Hydroxyurea,9692,19023562,csd_ss_exp_la,198,0.02042921997523731
+2026-01-01,year,combined,Hydroxyurea,9692,1377163,csd_ss_exp_la,5643,0.5822327692942633
+2026-01-01,year,combined,Hydroxyurea,9692,1377141,csd_ss_exp_la,414,0.042715641766405285
+2026-01-01,year,combined,Hydroxyurea,9692,963938,csd_ss_exp_la,271,0.027961205117622782
+2026-01-01,year,combined,Hydroxyurea,9692,40051647,csd_ss_exp_la,122,0.012587701196863392
+2026-01-01,year,combined,Hydroxyurea,9692,19023560,csd_ss_exp_la,70,0.007222451506397029
+2026-01-01,year,combined,Hydroxyurea,9692,19007385,csd_ss_exp_la,1854,0.19129178704085845
+2026-01-01,year,combined,Hydroxyurea,9692,1377169,csd_ss_exp_la,137,0.014135369376805613
+2026-01-01,year,combined,Hydroxyurea,9692,1377167,csd_ss_exp_la,121,0.012484523318200578
+2026-01-01,year,combined,Hydroxyurea,9692,1377170,csd_ss_exp_la,284,0.029302517540239374
+2026-01-01,year,combined,Hydroxyurea,9692,19023561,csd_ss_exp_la,97,0.010008254230293025
+2026-01-01,year,combined,Hydroxyurea,9692,963930,csd_ss_exp_la,152,0.015683037556747832
+2026-01-01,year,combined,Hydroxyurea,9692,963936,csd_ss_exp_la,253,0.026104003301692116
+2026-01-01,year,combined,SCD Diagnosis,54121,4130067,csd_ss_exp_la,146,0.002697658949391179
+2026-01-01,year,combined,SCD Diagnosis,54121,4130068,csd_ss_exp_la,1125,0.020786755603185453
+2026-01-01,year,combined,SCD Diagnosis,54121,4131126,csd_ss_exp_la,8,1.4781692873376323e-4
+2026-01-01,year,combined,SCD Diagnosis,54121,4213628,csd_ss_exp_la,19176,0.3543171781748305
+2026-01-01,year,combined,SCD Diagnosis,54121,4049095,csd_ss_exp_la,10,1.8477116091720404e-4
+2026-01-01,year,combined,SCD Diagnosis,54121,26942,csd_ss_exp_la,8226,0.15199275697049205
+2026-01-01,year,combined,SCD Diagnosis,54121,4166099,csd_ss_exp_la,71,0.0013118752425121487
+2026-01-01,year,combined,SCD Diagnosis,54121,4121115,csd_ss_exp_la,14,2.586796252840857e-4
+2026-01-01,year,combined,SCD Diagnosis,54121,4216915,csd_ss_exp_la,1319,0.02437131612497921
+2026-01-01,year,combined,SCD Diagnosis,54121,4209085,csd_ss_exp_la,950,0.017553260287134383
+2026-01-01,year,combined,SCD Diagnosis,54121,443738,csd_ss_exp_la,460,0.008499473402191387
+2026-01-01,year,combined,SCD Diagnosis,54121,22281,csd_ss_exp_la,5216,0.09637663753441363
+2026-01-01,year,combined,SCD Diagnosis,54121,315523,csd_ss_exp_la,3,5.543134827516121e-5
+2026-01-01,year,combined,SCD Diagnosis,54121,40485018,csd_ss_exp_la,16,2.9563385746752646e-4
+2026-01-01,year,combined,SCD Diagnosis,54121,4166115,csd_ss_exp_la,127,0.0023465937436484914
+2026-01-01,year,combined,SCD Diagnosis,54121,4130190,csd_ss_exp_la,33,6.097448310267734e-4
+2026-01-01,year,combined,SCD Diagnosis,54121,30683,csd_ss_exp_la,15590,0.28805823986992113
+2026-01-01,year,combined,SCD Diagnosis,54121,4211932,csd_ss_exp_la,24,4.434507862012897e-4
+2026-01-01,year,combined,SCD Diagnosis,54121,321263,csd_ss_exp_la,1581,0.02921232054100996
+2026-01-01,year,combined,SCD Diagnosis,54121,4131914,csd_ss_exp_la,26,4.804050183847305e-4

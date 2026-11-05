@@ -1,0 +1,265 @@
+concept1,concept2,concept1_ct,concept2_ct,concept_count_union,jaccard_index,concept1_prop,concept2_prop,variable,var_jaccard_mean,var_jaccard_sd,above_sd,site,output_function,cocount
+26942,22281,9038,6936,11205,0.426,0.53,0.69,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,4769
+30683,22281,12978,6936,14747,0.35,0.4,0.74,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,5167
+30683,26942,12978,9038,14772,0.49,0.56,0.8,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,7244
+315523,22281,190,6936,7067,0.008,0.31,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,59
+315523,26942,190,9038,9136,0.01,0.48,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,92
+315523,30683,190,12978,13068,0.008,0.53,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,100
+321263,22281,2187,6936,8406,0.085,0.33,0.1,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,717
+321263,26942,2187,9038,10079,0.114,0.52,0.13,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,1146
+321263,30683,2187,12978,13810,0.098,0.62,0.1,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,1355
+321263,315523,2187,190,2249,0.057,0.06,0.67,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,128
+443738,22281,1010,6936,7460,0.065,0.48,0.07,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,486
+443738,26942,1010,9038,9206,0.091,0.83,0.09,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,842
+443738,30683,1010,12978,13225,0.058,0.76,0.06,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,763
+443738,315523,1010,190,1113,0.078,0.09,0.46,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,87
+443738,321263,1010,2187,2515,0.271,0.68,0.31,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,682
+4049095,22281,41,6936,6961,0.002,0.34,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,14
+4049095,26942,41,9038,9062,0.002,0.37,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,15
+4049095,30683,41,12978,12993,0.002,0.54,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,22
+4049095,321263,41,2187,2221,0.003,0.22,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,9
+4049095,443738,41,1010,1050,0.001,0.17,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4103763,22281,27,6936,6954,0.001,0.22,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,6
+4103763,26942,27,9038,9053,0.001,0.44,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,12
+4103763,30683,27,12978,12986,0.001,0.74,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,20
+4103763,443738,27,1010,1036,0.001,0.11,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4130067,22281,678,6936,7378,0.032,0.35,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,236
+4130067,26942,678,9038,9341,0.04,0.55,0.04,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,374
+4130067,30683,678,12978,13244,0.031,0.61,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,411
+4130067,315523,678,190,782,0.11,0.13,0.45,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,86
+4130067,321263,678,2187,2305,0.243,0.83,0.26,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,560
+4130067,443738,678,1010,1337,0.263,0.52,0.35,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,350
+4130067,4049095,678,41,718,0.001,0.01,0.1,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+4130068,22281,451,6936,7172,0.03,0.47,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,214
+4130068,26942,451,9038,9213,0.03,0.61,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,275
+4130068,30683,451,12978,13124,0.023,0.67,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,304
+4130068,315523,451,190,594,0.079,0.1,0.25,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,47
+4130068,321263,451,2187,2222,0.187,0.92,0.19,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,416
+4130068,443738,451,1010,1221,0.197,0.53,0.24,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,239
+4130068,4049095,451,41,491,0.002,0.01,0.12,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4130068,4130067,451,678,978,0.154,0.33,0.22,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,151
+4131914,22281,69,6936,6964,0.006,0.59,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,41
+4131914,26942,69,9038,9056,0.006,0.72,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,50
+4131914,30683,69,12978,13000,0.004,0.68,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,47
+4131914,315523,69,190,257,0.008,0.14,0.05,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4131914,321263,69,2187,2227,0.013,0.42,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,29
+4131914,443738,69,1010,1060,0.018,0.28,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,19
+4131914,4130067,69,678,738,0.012,0.07,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4131914,4130068,69,451,513,0.014,0.06,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+4166099,22281,37,6936,6958,0.002,0.35,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,13
+4166099,26942,37,9038,9057,0.002,0.43,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,16
+4166099,30683,37,12978,12989,0.002,0.57,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,21
+4166099,321263,37,2187,2221,0.001,0.24,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,9
+4166099,443738,37,1010,1046,0.001,0.11,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+4166099,4049095,37,41,75,0.04,0.14,0.12,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4166099,4103763,37,27,49,0.306,0.35,0.48,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,13
+4166115,22281,369,6936,7052,0.036,0.67,0.04,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,248
+4166115,26942,369,9038,9106,0.033,0.8,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,296
+4166115,30683,369,12978,13044,0.023,0.8,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,297
+4166115,315523,369,190,554,0.009,0.02,0.05,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,9
+4166115,321263,369,2187,2509,0.019,0.12,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,46
+4166115,443738,369,1010,1344,0.026,0.09,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,34
+4166115,4049095,369,41,409,0.002,0.02,0.17,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4166115,4130067,369,678,1023,0.023,0.07,0.04,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,24
+4166115,4130068,369,451,805,0.019,0.04,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,15
+4166115,4131914,369,69,434,0.009,0.03,0.14,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4166115,4166099,369,37,405,0.002,0.01,0.08,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4167364,22281,33,6936,6957,0.002,0.21,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4167364,26942,33,9038,9058,0.001,0.24,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,8
+4167364,30683,33,12978,12994,0.001,0.33,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,11
+4167364,443738,33,1010,1042,0.001,0.3,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4167364,4049095,33,41,72,0.028,0.21,0.17,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4167364,4103763,33,27,51,0.176,0.24,0.3,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,8
+4167364,4131914,33,69,101,0.01,0.24,0.12,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,8
+4167364,4166099,33,37,54,0.296,0.3,0.27,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,10
+4167364,4166115,33,369,401,0.002,0.09,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4209085,22281,2730,6936,7586,0.274,0.76,0.3,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,2081
+4209085,26942,2730,9038,9161,0.285,0.96,0.29,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,2610
+4209085,30683,2730,12978,13319,0.179,0.88,0.18,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,2391
+4209085,315523,2730,190,2868,0.018,0.02,0.27,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,52
+4209085,321263,2730,2187,4510,0.09,0.15,0.19,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,407
+4209085,443738,2730,1010,3331,0.123,0.15,0.4,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,409
+4209085,4049095,2730,41,2764,0.003,0,0.1,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+4209085,4103763,2730,27,2753,0.001,0,0.19,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4209085,4130067,2730,678,3210,0.062,0.07,0.29,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,198
+4209085,4130068,2730,451,3049,0.043,0.05,0.29,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,132
+4209085,4131914,2730,69,2776,0.008,0.01,0.33,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,23
+4209085,4166099,2730,37,2759,0.003,0,0.08,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4209085,4166115,2730,369,2931,0.057,0.06,0.46,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,168
+4209085,4167364,2730,33,2757,0.002,0,0.21,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4211932,22281,59,6936,6980,0.002,0.17,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4211932,26942,59,9038,9077,0.002,0.24,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,14
+4211932,30683,59,12978,12997,0.003,0.49,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,29
+4211932,321263,59,2187,2241,0.002,0.17,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4211932,4049095,59,41,97,0.031,0.12,0.17,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4211932,4130068,59,451,508,0.004,0.05,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4211932,4166099,59,37,94,0.021,0.14,0.22,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,8
+4211932,4166115,59,369,427,0.002,0.1,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,6
+4211932,4209085,59,2730,2785,0.001,0.08,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4213628,22281,13376,6936,14684,0.383,0.42,0.81,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,5628
+4213628,26942,13376,9038,15175,0.477,0.54,0.8,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,7239
+4213628,30683,13376,12978,18016,0.463,0.62,0.64,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,8338
+4213628,315523,13376,190,13447,0.009,0.01,0.63,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,119
+4213628,321263,13376,2187,14049,0.108,0.11,0.69,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,1514
+4213628,443738,13376,1010,13535,0.063,0.06,0.84,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,851
+4213628,4049095,13376,41,13387,0.002,0,0.73,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,30
+4213628,4103763,13376,27,13385,0.001,0,0.67,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,18
+4213628,4130067,13376,678,13535,0.038,0.04,0.77,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,519
+4213628,4130068,13376,451,13468,0.027,0.03,0.8,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,359
+4213628,4131914,13376,69,13389,0.004,0,0.81,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,56
+4213628,4166099,13376,37,13384,0.002,0,0.78,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,29
+4213628,4166115,13376,369,13405,0.025,0.03,0.92,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,340
+4213628,4167364,13376,33,13390,0.001,0,0.58,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,19
+4213628,4209085,13376,2730,13530,0.19,0.19,0.94,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,2576
+4213628,4211932,13376,59,13404,0.002,0,0.53,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,31
+4216915,22281,5091,6936,8411,0.43,0.71,0.52,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,3616
+4216915,26942,5091,9038,9681,0.459,0.87,0.49,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,4448
+4216915,30683,5091,12978,13956,0.295,0.81,0.32,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,4113
+4216915,315523,5091,190,5206,0.014,0.01,0.39,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,75
+4216915,321263,5091,2187,6601,0.103,0.13,0.31,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,677
+4216915,443738,5091,1010,5525,0.104,0.11,0.57,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,576
+4216915,4049095,5091,41,5119,0.003,0,0.32,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,13
+4216915,4103763,5091,27,5108,0.002,0,0.37,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4216915,4130067,5091,678,5485,0.052,0.06,0.42,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,284
+4216915,4130068,5091,451,5335,0.039,0.04,0.46,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,207
+4216915,4131914,5091,69,5121,0.008,0.01,0.57,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,39
+4216915,4166099,5091,37,5112,0.003,0,0.43,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,16
+4216915,4166115,5091,369,5218,0.046,0.05,0.66,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,242
+4216915,4167364,5091,33,5112,0.002,0,0.36,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,12
+4216915,4209085,5091,2730,5652,0.384,0.43,0.79,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,2169
+4216915,4211932,5091,59,5141,0.002,0,0.17,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4216915,4213628,5091,13376,13788,0.339,0.92,0.35,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,4678
+4219568,22281,28,6936,6956,0.001,0.21,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,6
+4219568,26942,28,9038,9058,0.001,0.32,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,9
+4219568,30683,28,12978,12996,0.001,0.21,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,6
+4219568,321263,28,2187,2213,0.001,0.18,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4219568,4166115,28,369,396,0.003,0.29,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,8
+4219568,4167364,28,33,59,0.034,0.14,0.12,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+4219568,4209085,28,2730,2756,0.001,0.11,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4219568,4211932,28,59,75,0.16,0.25,0.12,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4219568,4213628,28,13376,13395,0.001,0.07,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,2
+4219568,4216915,28,5091,5116,0.001,0.25,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4264046,22281,88,6936,7015,0.001,0.02,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,2
+4264046,26942,88,9038,9091,0.004,0.32,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,28
+4264046,30683,88,12978,13004,0.005,0.58,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,51
+4264046,315523,88,190,276,0.007,0.06,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4264046,321263,88,2187,2266,0.004,0.06,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4264046,443738,88,1010,1096,0.002,0.11,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+4264046,4049095,88,41,128,0.008,0.1,0.22,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,9
+4264046,4103763,88,27,114,0.009,0.05,0.15,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+4264046,4130067,88,678,765,0.001,0.08,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+4264046,4130068,88,451,537,0.004,0.09,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,8
+4264046,4166099,88,37,124,0.008,0.03,0.08,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+4264046,4209085,88,2730,2817,0,0.06,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+4264046,4211932,88,59,125,0.176,0.19,0.29,SCD Diagnosis,0.055,0.107,TRUE,combined,csd_ss_anom_cs,17
+4264046,4213628,88,13376,13422,0.003,0.39,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,34
+4264046,4216915,88,5091,5171,0.002,0.07,0,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,6
+4264046,4219568,88,28,110,0.055,0.11,0.36,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+40485018,22281,187,6936,7001,0.017,0.63,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,118
+40485018,26942,187,9038,9079,0.016,0.75,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,141
+40485018,30683,187,12978,13008,0.012,0.81,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,151
+40485018,315523,187,190,373,0.011,0.02,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,3
+40485018,321263,187,2187,2351,0.01,0.12,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,22
+40485018,443738,187,1010,1174,0.02,0.12,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,22
+40485018,4049095,187,41,226,0.009,0.03,0.12,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,5
+40485018,4130067,187,678,851,0.016,0.07,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,14
+40485018,4130068,187,451,628,0.016,0.05,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+40485018,4131914,187,69,253,0.012,0.05,0.13,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,9
+40485018,4166099,187,37,223,0.004,0.03,0.16,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,6
+40485018,4166115,187,369,554,0.004,0.04,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,7
+40485018,4167364,187,33,219,0.005,0.05,0.3,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,10
+40485018,4209085,187,2730,2842,0.026,0.39,0.03,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,72
+40485018,4213628,187,13376,13410,0.011,0.79,0.01,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,147
+40485018,4216915,187,5091,5158,0.023,0.62,0.02,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,116
+40485018,4264046,187,88,274,0.004,0.02,0.05,SCD Diagnosis,0.055,0.107,FALSE,combined,csd_ss_anom_cs,4
+963936,963930,169,265,344,0.262,0.53,0.34,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,90
+963938,963930,274,265,481,0.121,0.21,0.22,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,58
+963938,963936,274,169,378,0.172,0.24,0.38,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,65
+1377141,963930,2548,265,2679,0.05,0.05,0.51,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,134
+1377141,963936,2548,169,2624,0.035,0.04,0.55,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,93
+1377141,963938,2548,274,2659,0.061,0.06,0.59,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,163
+1377163,963930,4656,265,4751,0.036,0.04,0.64,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,170
+1377163,963936,4656,169,4749,0.016,0.02,0.45,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,76
+1377163,963938,4656,274,4740,0.04,0.04,0.69,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,190
+1377163,1377141,4656,2548,5795,0.243,0.3,0.55,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,1409
+1377167,963930,491,265,723,0.046,0.07,0.12,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,33
+1377167,963936,491,169,641,0.03,0.04,0.11,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,19
+1377167,963938,491,274,735,0.041,0.06,0.11,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,30
+1377167,1377141,491,2548,2946,0.032,0.19,0.04,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,93
+1377167,1377163,491,4656,4725,0.089,0.86,0.09,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,422
+1377168,963930,857,265,1069,0.05,0.06,0.2,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,53
+1377168,963936,857,169,994,0.032,0.04,0.19,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,32
+1377168,963938,857,274,1076,0.051,0.06,0.2,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,55
+1377168,1377141,857,2548,3303,0.031,0.12,0.04,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,102
+1377168,1377163,857,4656,4857,0.135,0.77,0.14,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,656
+1377168,1377167,857,491,1120,0.204,0.27,0.46,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,228
+1377169,963930,1122,265,1320,0.051,0.06,0.25,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,67
+1377169,963936,1122,169,1255,0.029,0.03,0.21,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,36
+1377169,963938,1122,274,1316,0.061,0.07,0.29,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,80
+1377169,1377141,1122,2548,3524,0.041,0.13,0.06,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,146
+1377169,1377163,1122,4656,4874,0.185,0.81,0.19,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,904
+1377169,1377167,1122,491,1354,0.191,0.23,0.53,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,259
+1377169,1377168,1122,857,1394,0.42,0.52,0.68,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,585
+1377170,963930,850,265,1023,0.09,0.11,0.35,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,92
+1377170,963936,850,169,965,0.056,0.06,0.32,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,54
+1377170,963938,850,274,980,0.147,0.17,0.53,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,144
+1377170,1377141,850,2548,2888,0.177,0.6,0.2,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,510
+1377170,1377163,850,4656,4726,0.165,0.92,0.17,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,780
+1377170,1377167,850,491,1276,0.051,0.08,0.13,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,65
+1377170,1377168,850,857,1603,0.065,0.12,0.12,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,104
+1377170,1377169,850,1122,1836,0.074,0.16,0.12,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,136
+19007385,963930,2120,265,2315,0.03,0.03,0.26,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,70
+19007385,963936,2120,169,2252,0.016,0.02,0.22,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,37
+19007385,963938,2120,274,2302,0.04,0.04,0.34,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,92
+19007385,1377141,2120,2548,4279,0.091,0.18,0.15,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,389
+19007385,1377163,2120,4656,5489,0.234,0.61,0.28,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,1287
+19007385,1377167,2120,491,2339,0.116,0.13,0.55,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,272
+19007385,1377168,2120,857,2409,0.236,0.27,0.66,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,568
+19007385,1377169,2120,1122,2493,0.3,0.35,0.67,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,749
+19007385,1377170,2120,850,2722,0.091,0.12,0.29,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,248
+19023560,963930,798,265,1010,0.052,0.07,0.2,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,53
+19023560,963936,798,169,935,0.034,0.04,0.19,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,32
+19023560,963938,798,274,1034,0.037,0.05,0.14,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,38
+19023560,1377141,798,2548,3102,0.079,0.31,0.1,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,244
+19023560,1377163,798,4656,4773,0.143,0.85,0.15,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,681
+19023560,1377167,798,491,997,0.293,0.37,0.59,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,292
+19023560,1377168,798,857,1466,0.129,0.24,0.22,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,189
+19023560,1377169,798,1122,1668,0.151,0.32,0.22,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,252
+19023560,1377170,798,850,1564,0.054,0.11,0.1,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,84
+19023560,19007385,798,2120,2680,0.089,0.3,0.11,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,238
+19023561,963930,1236,265,1421,0.056,0.06,0.3,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,80
+19023561,963936,1236,169,1366,0.029,0.03,0.23,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,39
+19023561,963938,1236,274,1443,0.046,0.05,0.24,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,67
+19023561,1377141,1236,2548,3456,0.095,0.27,0.13,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,328
+19023561,1377163,1236,4656,4839,0.218,0.85,0.23,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,1053
+19023561,1377167,1236,491,1471,0.174,0.21,0.52,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,256
+19023561,1377168,1236,857,1517,0.38,0.47,0.67,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,576
+19023561,1377169,1236,1122,1830,0.289,0.43,0.47,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,528
+19023561,1377170,1236,850,1947,0.071,0.11,0.16,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,139
+19023561,19007385,1236,2120,2866,0.171,0.4,0.23,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,490
+19023561,19023560,1236,798,1600,0.271,0.35,0.54,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,434
+19023562,963930,1540,265,1715,0.052,0.06,0.34,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,90
+19023562,963936,1540,169,1660,0.03,0.03,0.29,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,49
+19023562,963938,1540,274,1727,0.05,0.06,0.32,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,87
+19023562,1377141,1540,2548,3691,0.108,0.26,0.16,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,397
+19023562,1377163,1540,4656,4864,0.274,0.86,0.29,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,1332
+19023562,1377167,1540,491,1727,0.176,0.2,0.62,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,304
+19023562,1377168,1540,857,1901,0.261,0.32,0.58,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,496
+19023562,1377169,1540,1122,1859,0.432,0.52,0.72,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,803
+19023562,1377170,1540,850,2186,0.093,0.13,0.24,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,204
+19023562,19007385,1540,2120,3006,0.218,0.42,0.31,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,654
+19023562,19023560,1540,798,1902,0.229,0.28,0.55,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,436
+19023562,19023561,1540,1236,2030,0.367,0.48,0.6,Hydroxyurea,0.117,0.098,TRUE,combined,csd_ss_anom_cs,746
+40051647,963930,284,265,522,0.052,0.1,0.1,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,27
+40051647,963936,284,169,432,0.049,0.07,0.12,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,21
+40051647,963938,284,274,518,0.077,0.14,0.15,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,40
+40051647,1377141,284,2548,2772,0.022,0.21,0.02,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,60
+40051647,1377163,284,4656,4665,0.059,0.97,0.06,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,275
+40051647,1377167,284,491,706,0.098,0.24,0.14,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,69
+40051647,1377168,284,857,1031,0.107,0.39,0.13,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,110
+40051647,1377169,284,1122,1252,0.123,0.54,0.14,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,154
+40051647,1377170,284,850,1077,0.053,0.2,0.07,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,57
+40051647,19007385,284,2120,2316,0.038,0.31,0.04,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,88
+40051647,19023560,284,798,981,0.103,0.36,0.13,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,101
+40051647,19023561,284,1236,1377,0.104,0.5,0.12,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,143
+40051647,19023562,284,1540,1624,0.123,0.7,0.13,Hydroxyurea,0.117,0.098,FALSE,combined,csd_ss_anom_cs,200

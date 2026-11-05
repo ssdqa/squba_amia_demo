@@ -4,3 +4,7 @@
 .Rproj.user*
 amia_squba_sampledata*
 .Rproj.user
+.Rhistory
+.DS_Store
+**/.DS_Store
+*~

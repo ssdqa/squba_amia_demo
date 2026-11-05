@@ -1,0 +1,12 @@
+site,user_cutoff,event_a_name,event_b_name,total_pts,pts_without_both,output_function,num_days,pt_ct
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,-1500,38
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,-1000,29
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,-500,57
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,-90,273
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,-7,26
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,0,653
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,7,310
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,90,1723
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,500,877
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,1000,736
+combined,7,SS/SB0 Diagnosis,Hydroxyurea,20455,13798,pes_ss_exp_cs,1500,1935

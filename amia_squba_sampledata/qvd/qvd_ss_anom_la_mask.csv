@@ -1,0 +1,31 @@
+site,value_type,outlier_type,total_vals,sd_threshold,time_start,time_increment,output_function,n_outlier,prop_outlier
+combined,ed visits,upper,1667,2,2026-01-01,year,qvd_ss_anom_la,16,0.0096
+combined,ed visits,upper,2594,2,2020-01-01,year,qvd_ss_anom_la,46,0.0177
+combined,ed visits,upper,2841,2,2021-01-01,year,qvd_ss_anom_la,59,0.0208
+combined,ed visits,upper,2842,2,2015-01-01,year,qvd_ss_anom_la,80,0.0281
+combined,ed visits,upper,3076,2,2016-01-01,year,qvd_ss_anom_la,87,0.0283
+combined,ed visits,upper,3088,2,2025-01-01,year,qvd_ss_anom_la,80,0.0259
+combined,ed visits,upper,3121,2,2023-01-01,year,qvd_ss_anom_la,85,0.0272
+combined,ed visits,upper,3181,2,2024-01-01,year,qvd_ss_anom_la,89,0.028
+combined,ed visits,upper,3195,2,2017-01-01,year,qvd_ss_anom_la,84,0.0263
+combined,ed visits,upper,3242,2,2018-01-01,year,qvd_ss_anom_la,78,0.0241
+combined,ed visits,upper,3302,2,2022-01-01,year,qvd_ss_anom_la,76,0.023
+combined,ed visits,upper,3378,2,2019-01-01,year,qvd_ss_anom_la,103,0.0305
+combined,hemoglobin lab results,upper,50602,2,2022-01-01,year,qvd_ss_anom_la,9,2e-4
+combined,hemoglobin lab results,upper,51379,2,2016-01-01,year,qvd_ss_anom_la,8,2e-4
+combined,hemoglobin lab results,upper,51396,2,2018-01-01,year,qvd_ss_anom_la,16,3e-4
+combined,hemoglobin lab results,upper,51610,2,2015-01-01,year,qvd_ss_anom_la,37,7e-4
+combined,hemoglobin lab results,upper,52376,2,2017-01-01,year,qvd_ss_anom_la,38,7e-4
+combined,hemoglobin lab results,upper,54077,2,2019-01-01,year,qvd_ss_anom_la,18,3e-4
+combined,hydroxyurea dose,upper,9692,2,2026-01-01,year,qvd_ss_anom_la,73,0.0075
+combined,hydroxyurea dose,upper,16486,2,2015-01-01,year,qvd_ss_anom_la,67,0.0041
+combined,hydroxyurea dose,upper,24117,2,2016-01-01,year,qvd_ss_anom_la,81,0.0034
+combined,hydroxyurea dose,upper,25044,2,2017-01-01,year,qvd_ss_anom_la,230,0.0092
+combined,hydroxyurea dose,upper,25125,2,2020-01-01,year,qvd_ss_anom_la,166,0.0066
+combined,hydroxyurea dose,upper,26394,2,2018-01-01,year,qvd_ss_anom_la,231,0.0088
+combined,hydroxyurea dose,upper,27686,2,2022-01-01,year,qvd_ss_anom_la,384,0.0139
+combined,hydroxyurea dose,upper,28792,2,2021-01-01,year,qvd_ss_anom_la,352,0.0122
+combined,hydroxyurea dose,upper,29752,2,2023-01-01,year,qvd_ss_anom_la,402,0.0135
+combined,hydroxyurea dose,upper,31245,2,2025-01-01,year,qvd_ss_anom_la,302,0.0097
+combined,hydroxyurea dose,upper,32485,2,2024-01-01,year,qvd_ss_anom_la,292,0.009
+combined,hydroxyurea dose,upper,34624,2,2019-01-01,year,qvd_ss_anom_la,168,0.0049

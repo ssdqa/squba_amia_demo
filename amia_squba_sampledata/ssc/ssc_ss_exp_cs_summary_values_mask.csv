@@ -1,0 +1,52 @@
+site,cohort_id,cohort_characteristic,fact_group,fact_summary,cohort_total_pt,output_function
+combined,Hydroxyurea Exposure,median_age_cohort_entry,Cohort Details,1.67,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_age_first_visit,Cohort Details,0.25,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_conditions_ppy,Clinical Facts,37.76,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_drugs_ppy,Clinical Facts,51.57,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_fu,Cohort Details,9.656,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_labs_ppy,Clinical Facts,287.15,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_procedures_ppy,Clinical Facts,62.08,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,median_specialty_visits_ppy,Utilization,12.89,6798,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_age_cohort_entry,Cohort Details,1.13,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_age_first_visit,Cohort Details,0.14,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_conditions_ppy,Clinical Facts,19.12,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_drugs_ppy,Clinical Facts,19.365000000000002,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_fu,Cohort Details,8.3765,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_labs_ppy,Clinical Facts,112.36,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_procedures_ppy,Clinical Facts,22.435000000000002,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,median_specialty_visits_ppy,Utilization,3.33,16190,ssc_ss_exp_cs
+combined,base_cohort,median_age_cohort_entry,Cohort Details,1.49,20455,ssc_ss_exp_cs
+combined,base_cohort,median_age_first_visit,Cohort Details,0.16,20455,ssc_ss_exp_cs
+combined,base_cohort,median_conditions_ppy,Clinical Facts,16.53,20455,ssc_ss_exp_cs
+combined,base_cohort,median_drugs_ppy,Clinical Facts,14.39,20455,ssc_ss_exp_cs
+combined,base_cohort,median_fu,Cohort Details,7.762,20455,ssc_ss_exp_cs
+combined,base_cohort,median_labs_ppy,Clinical Facts,74.21,20455,ssc_ss_exp_cs
+combined,base_cohort,median_procedures_ppy,Clinical Facts,18.01,20455,ssc_ss_exp_cs
+combined,base_cohort,median_specialty_visits_ppy,Utilization,1.84,20455,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_SCD Associated Pain,Outcomes,0.872609591056193,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_asian_race,Demographics,0.004118858487790526,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_black_race,Demographics,0.8674610179464548,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_female,Demographics,0.4916151809355693,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_hispanic,Demographics,0.06575463371579876,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_mixed_race,Demographics,0.02221241541629891,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_other_race,Demographics,0.05383936451897617,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_unknown_race,Demographics,0.0157399235069138,6798,ssc_ss_exp_cs
+combined,Hydroxyurea Exposure,prop_white_race,Demographics,0.02912621359223301,6798,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_SCD Associated Pain,Outcomes,0.6631253860407659,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_asian_race,Demographics,0.01352686843730698,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_black_race,Demographics,0.7964175416924028,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_female,Demographics,0.4887584928968499,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_hispanic,Demographics,0.06022235948116121,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_mixed_race,Demographics,0.032489190858554666,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_other_race,Demographics,0.05719579987646695,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_unknown_race,Demographics,0.019147621988882025,16190,ssc_ss_exp_cs
+combined,SS/SB0 Diagnosis,prop_white_race,Demographics,0.06936380481778875,16190,ssc_ss_exp_cs
+combined,base_cohort,prop_SCD Associated Pain,Outcomes,0.5764849670007333,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_asian_race,Demographics,0.01701295526766072,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_black_race,Demographics,0.7569298460034222,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_female,Demographics,0.48697140063554145,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_hispanic,Demographics,0.06814959667562943,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_mixed_race,Demographics,0.035003666585187,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_other_race,Demographics,0.06536299193351258,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_unknown_race,Demographics,0.02146174529454901,20455,ssc_ss_exp_cs
+combined,base_cohort,prop_white_race,Demographics,0.09337570276216084,20455,ssc_ss_exp_cs

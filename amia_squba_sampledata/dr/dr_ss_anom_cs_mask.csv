@@ -1,0 +1,4 @@
+site,duplicate_definition,duplicate_columns,n_tot,sd_tot,mean_tot,outlier_tot,prop_outlier_tot,n_w_fact,sd_fact,mean_fact,outlier_fact,prop_outlier_fact,sd_threshold,output_function
+combined,duplicate procedures per visit & date,"include visit_occurrence_id,procedure_concept_id,procedure_source_concept_id,procedure_date",20455,965.8971792440972,322.5201114674774,602,0.029,15422,1058.6080215459663,397.744131759822,520,0.034,2,dr_ss_anom_cs
+combined,SCD diagnoses without PK,exclude condition_occurrence_id,20455,0,0,0,0,0,0,0,0,0,2,dr_ss_anom_cs
+combined,Hemoglobin labs without PK,exclude measurement_id,20455,0,0,0,0,0,0,0,0,0,2,dr_ss_anom_cs
