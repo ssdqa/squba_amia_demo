@@ -1,0 +1,57 @@
+---
+title: "Example Study Walkthrough"
+format: html
+embed-resources: true
+toc: true
+toc-location: left
+toc-depth: 2
+---
+
+```{r setup, include=FALSE}
+
+if(file.exists('squba_example_results.tar.gz') & 
+	 !dir.exists('amia_squba_sampledata')){
+	untar('squba_example_results.tar.gz',
+				exdir = 'amia_squba_sampledata')
+}
+
+if(dir.exists('amia_squba_sampledata/masked_results')){
+	dir_header <- 'amia_squba_sampledata/masked_results/'
+	header_new <- 'amia_squba_sampledata/'
+	
+	mod_list <- c('ca','cnc_sp','csd','cvd','dr','evp',
+								'pes','pf','prc','qvd','scv','ssc','uc')
+	
+	for(k in mod_list){
+		file.rename(paste0(dir_header, k),
+								paste0(header_new, k))
+	}
+	
+	unlink(dir_header, recursive = TRUE)
+}
+
+```
+
+# Cohort Attrition
+
+# Sensitivity to Selection Criteria
+
+# Clinical Events & Specialties
+
+# Concept Set Distribution (**MAYBE**)
+
+# Duplicate Records
+
+# Expected Variables Present
+
+# Patient Event Sequencing
+
+# Patient Facts
+
+# Patient Record Consistency
+
+# Quantitative Variable Distribution
+
+# Source & Concept Vocabularies
+
+# Unmapped Concepts
