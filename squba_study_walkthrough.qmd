@@ -2,9 +2,11 @@
 title: "Example Study Walkthrough"
 format: html
 embed-resources: true
+# html-table-processing: none
 toc: true
 toc-location: left
 toc-depth: 3
+number-sections: true
 ---
 
 ```{r setup, include=FALSE}
@@ -313,13 +315,194 @@ plt[[3]]
 ```
 
 # Patient Event Sequencing
+## Single Site, Exploratory, Cross-Sectional
+```{r}
+pes_output(process_output = read_csv('amia_squba_sampledata/pes/pes_ss_exp_cs_mask.csv'))
+```
+
+## Multi-Site, Anomaly Detection, Cross-Sectional
+```{r}
+plt <- pes_output(process_output = read_csv('amia_squba_sampledata/pes/pes_ms_anom_cs_mask.csv'))
+
+plt_edit <- plt +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+make_interactive_squba(plt_edit)
+```
 
 # Patient Facts
+## Single Site, Exploratory, Cross-Sectional
+```{r}
+
+plt <- pf_output(process_output = read_csv('amia_squba_sampledata/pf/pf_ss_exp_cs_mask.csv'),
+					output = 'median_site_without0s')
+
+plt[[1]]
+
+```
+
+### Optional: Skew Analysis
+```{r}
+plt[[2]]
+```
+
+## Multi-Site, Exploratory, Cross-Sectional
+```{r}
+
+plt <- pf_output(process_output = read_csv('amia_squba_sampledata/pf/pf_ms_exp_cs_mask.csv'),
+					output = 'median_site_without0s')
+
+make_interactive_squba(plt[[1]])
+
+```
+
+### Optional: Skew Analysis
+```{r}
+plt[[2]]
+```
+
+## Multi-Site, Anomaly Detection, Cross-Sectional
+```{r}
+
+plt <- pf_output(process_output = read_csv('amia_squba_sampledata/pf/pf_ms_anom_cs_mask.csv'),
+								 visit_filter = 'hematology')
+
+plt_edit <- plt +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+make_interactive_squba(plt_edit)
+
+```
+
+## Multi-Site, Anomaly Detection, Longitudinal
+```{r}
+
+plt <- pf_output(process_output = read_csv('amia_squba_sampledata/pf/pf_ms_anom_la_mask.csv'),
+								 domain_filter = 'labs',
+								 visit_filter = 'ED')
+
+make_interactive_squba(plt[[1]])
+make_interactive_squba(plt[[2]])
+plt[[3]]
+
+```
 
 # Patient Record Consistency
+## Single Site, Exploratory, Cross-Sectional
+```{r}
+
+prc_output(process_output = read_csv('amia_squba_sampledata/prc/prc_ss_exp_cs_mask.csv'))
+
+```
+
+## Multi-Site, Anomaly Detection, Cross-Sectional
+```{r}
+
+plt <- prc_output(process_output = read_csv('amia_squba_sampledata/prc/prc_ms_anom_cs_mask.csv'))
+
+make_interactive_squba(plt)
+
+```
+### Large N
+```{r}
+
+plt <- prc_output(process_output = read_csv('amia_squba_sampledata/prc/prc_ms_anom_cs_mask.csv'),
+									large_n = T)
+
+plt
+
+```
+
+## Multi-Site, Anomaly Detection, Longitudinal
+```{r}
+
+plt <- prc_output(process_output = read_csv('amia_squba_sampledata/prc/prc_ms_anom_la_mask.csv'),
+									event_filter = 'both')
+
+make_interactive_squba(plt[[1]])
+make_interactive_squba(plt[[2]])
+plt[[3]]
+
+```
+
+### Large N
+```{r}
+
+plt <- prc_output(process_output = read_csv('amia_squba_sampledata/prc/prc_ms_anom_la_mask.csv'),
+									event_filter = 'both',
+									large_n = T)
+
+make_interactive_squba(plt)
+
+```
 
 # Quantitative Variable Distribution
+## Single Site, Exploratory, Cross-Sectional
+```{r}
+qvd_output(process_output = read_csv('amia_squba_sampledata/qvd/qvd_ss_exp_cs_mask.csv'),
+					 frequency_min = 10)
+```
+
+## Multi-Site, Exploratory, Cross-Sectional
+```{r}
+qvd_output(process_output = read_csv('amia_squba_sampledata/qvd/qvd_ms_exp_cs_mask.csv'),
+					 frequency_min = 10)
+```
+
+## Multi-Site, Anomaly Detection, Cross-Sectional
+```{r}
+plt <- qvd_output(process_output = read_csv('amia_squba_sampledata/qvd/qvd_ms_anom_cs_mask.csv'))
+
+make_interactive_squba(plt)
+```
 
 # Source & Concept Vocabularies
+## Multi-Site, Exploratory, Cross-Sectional
+```{r}
+
+plt <- scv_output(process_output = read_csv('amia_squba_sampledata/scv/scv_ms_exp_cs_mask.csv'),
+									code_type = 'cdm',
+									vocab_tbl = read_csv('code_sets/dx_scd.csv', col_types = 'iccc') %>%
+										union(read_csv('code_sets/scv_icd_code_ref.csv')),
+									num_mappings = 15)
+
+plt
+```
+
+## Multi-Site, Anomaly Detection, Cross-Sectional
+```{r, fig.width=8}
+
+plt <- scv_output(process_output = read_csv('amia_squba_sampledata/scv/scv_ms_anom_cs_mask.csv'),
+									code_type = 'cdm',
+									vocab_tbl = read_csv('code_sets/dx_scd.csv', col_types = 'iccc') %>%
+										union(read_csv('code_sets/scv_icd_code_ref.csv')),
+									num_mappings = 15,
+									filter_concept = 22281)
+
+make_interactive_squba(plt)
+
+```
 
 # Unmapped Concepts
+## Multi-Site, Exploratory, Cross-Sectional
+### Event Level 
+```{r}
+
+plt <- uc_output(process_output = read_csv('amia_squba_sampledata/uc/uc_ms_exp_cs_mask.csv'),
+								 output_col = 'unmapped_row_prop')
+
+make_interactive_squba(plt)
+
+```
+
+### Patient Level 
+```{r}
+
+plt <- uc_output(process_output = read_csv('amia_squba_sampledata/uc/uc_ms_exp_cs_mask.csv'),
+								 output_col = 'unmapped_pt_prop')
+
+make_interactive_squba(plt)
+
+```
+
+
