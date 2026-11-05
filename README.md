@@ -1,14 +1,14 @@
 # squba_amia_demo
 
-This repository contains resources to facilitate the exploration and demonstration of the [SQUBA](ssdqa) toolset for study-specific data quality assessment in clinical data.  It was constructed for the workshop _Diving into Data_  at the 2026 American Medical Informatics Association Symposium.
+This repository contains resources to facilitate the exploration and demonstration of the [SQUBA](https://github.com/ssdqa) toolset for study-specific data quality assessment in clinical data.  It was constructed for the workshop _Diving into Data_  at the 2026 American Medical Informatics Association Symposium.
 
 ## Option A: Using with your own R toolchain
 
-If you are a regular R user, and have your own editor and packages set up, but want to explore  [SQUBA](ssdqa) for the first time, you can
+If you are a regular R user, and have your own editor and packages set up, but want to explore [SQUBA](https://github.com/ssdqa) for the first time, you can
 
 * Clone this repository to a location (*e.g.*, your desktop) where you can access data from your R editor.
 
-* Install the most recent version of [SQUBA](ssdqa) using your preferred package manager, or using `remotes::install_github('ssdqa/SQUBA', dependencies = TRUE)` (you may need to `install.packages('remotes')` if you haven't already).
+* Install the most recent version of [SQUBA](https://github.com/ssdqa) using your preferred package manager, or using `remotes::install_github('ssdqa/SQUBA', dependencies = TRUE)` (you may need to `install.packages('remotes')` if you haven't already).
 
 * Change your working directory in R to the top-level directory of this repository.
 
@@ -32,7 +32,7 @@ After you have an image from either option, fire it up!
 
 * Within the image, you'll find the contents of this repository in the `squba_amia_demo` directory.
 
-* The image also contains a `squba_startup` directory, with the contents of the [squba_startup](squba_startup) repository that demonstrates check application to synthetic data.
+* The image also contains a `squba_startup` directory, with the contents of the [squba_startup](https://github.com/ssdqa/squba_startup) repository that demonstrates check application to synthetic data.
 
 ## Files in the repository
 
@@ -47,5 +47,3 @@ After you have an image from either option, fire it up!
 ## LICENSE
 
 This content is licensed under the terms of the [Mozilla Public License version 2.0](https://www.mozilla.org/en-US/MPL/2.0/) .
-
-
