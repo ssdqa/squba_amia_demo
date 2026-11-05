@@ -699,9 +699,3 @@ plt <- uc_output(process_output = read_csv('amia_squba_sampledata/uc/uc_ms_exp_c
 make_interactive_squba(plt)
 
 ```
-
-
-<<<<<<< HEAD
-=======
-# Unmapped Concepts
->>>>>>> 31450bf (Simplify demo setup)
