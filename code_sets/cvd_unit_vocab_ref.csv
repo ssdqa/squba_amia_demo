@@ -1,0 +1,19 @@
+concept_id,concept_code,concept_name,vocabulary_id
+0,No matching concept,No matching concept,None
+44814650,Generic-NI,No information,PCORNet
+8785,/mm3,per cubic millimeter,UCUM
+33117,/nL,per nanoliter,UCUM
+8554,%,percent,UCUM
+9436,10*3/mL,thousand per milliliter,UCUM
+8961,10*3/mm3,thousand per cubic millimeter,UCUM
+8938,10*-3/uL,thousandth per microliter,UCUM
+8848,10*3/uL,thousand per microliter,UCUM
+8815,10*6/uL,million per microliter,UCUM
+9444,10*9/L,billion per liter,UCUM
+8784,{cells}/uL,cells per microliter,UCUM
+8923,[iU]/L,international unit per liter,UCUM
+9523,K,kelvin,UCUM
+8647,/uL,per microliter,UCUM
+9665,uL,microliter,UCUM
+8645,[U]/L,unit per liter,UCUM
+NA,NA,NA,NA

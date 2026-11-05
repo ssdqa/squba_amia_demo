@@ -4,19 +4,28 @@ format: html
 embed-resources: true
 toc: true
 toc-location: left
-toc-depth: 2
+toc-depth: 3
 ---
 
 ```{r setup, include=FALSE}
+## Load packages
+# remotes::install_github('ssdqa/squba',
+# 												dependencies = 'hard')
+library(squba)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(ggplot2)
 
-if(file.exists('squba_example_results.tar.gz') & 
+## Unpack & clean up sample data
+if(file.exists('squba_example_amia_squba_sampledata.tar.gz') & 
 	 !dir.exists('amia_squba_sampledata')){
-	untar('squba_example_results.tar.gz',
+	untar('squba_example_amia_squba_sampledata.tar.gz',
 				exdir = 'amia_squba_sampledata')
 }
 
-if(dir.exists('amia_squba_sampledata/masked_results')){
-	dir_header <- 'amia_squba_sampledata/masked_results/'
+if(dir.exists('amia_squba_sampledata/masked_amia_squba_sampledata')){
+	dir_header <- 'amia_squba_sampledata/masked_amia_squba_sampledata/'
 	header_new <- 'amia_squba_sampledata/'
 	
 	mod_list <- c('ca','cnc_sp','csd','cvd','dr','evp',
@@ -30,19 +39,278 @@ if(dir.exists('amia_squba_sampledata/masked_results')){
 	unlink(dir_header, recursive = TRUE)
 }
 
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
 ```
 
 # Cohort Attrition
+## Single Site, Exploratory, Cross-Sectional
+
+```{r}
+
+plt <- ca_output(process_output = read_csv('amia_squba_sampledata/ca/ca_ss_exp_cs_mask.csv'),
+								 var_col = 'num_pts' ## try changing this!
+								 )
+
+make_interactive_squba(plt[[1]])
+plt[[2]]
+
+```
+
+## Multi Site, Exploratory, Cross-Sectional
+
+```{r}
+
+plt <- ca_output(process_output = read_csv('amia_squba_sampledata/ca/ca_ms_exp_cs_mask.csv'),
+								 var_col = 'num_pts')
+
+make_interactive_squba(plt[[1]])
+plt[[2]]
+
+```
+
+### Large N
+```{r}
+plt <- ca_output(process_output = read_csv('amia_squba_sampledata/ca/ca_ms_exp_cs_mask.csv'),
+								 large_n = T,
+								 large_n_sites = c('hospital_e', 'hospital_g')
+								 )
+
+make_interactive_squba(plt[[1]])
+plt[[2]]
+```
+
+## Multi Site, Anomaly Detection, Cross-Sectional
+
+```{r}
+plt <- ca_output(process_output = read_csv('amia_squba_sampledata/ca/ca_ms_anom_cs_mask.csv'))
+
+make_interactive_squba(plt)
+```
+
+### Large N
+```{r}
+ca_output(process_output = read_csv('amia_squba_sampledata/ca/ca_ms_anom_cs_mask.csv') %>%
+						dplyr::filter(step_number != 1),
+					large_n = T)
+```
 
 # Sensitivity to Selection Criteria
+## Single Site, Exploratory, Cross-Sectional
+
+```{r, fig.width=8}
+
+plt <- ssc_output(
+	process_output=list(read_csv('amia_squba_sampledata/ssc/ssc_ss_exp_cs_summary_values_mask.csv'),
+											read_csv('amia_squba_sampledata/ssc/ssc_ss_exp_cs_cohort_overlap_mask.csv')),
+									alt_cohort_filter = c('Hydroxyurea Exposure', 'SS/SB0 Diagnosis')
+	)
+
+plt[[1]]
+plt[[2]]
+
+```
+
+## Single Site, Anomaly Detection, Cross-Sectional
+
+```{r, fig.height=10}
+
+plt <- ssc_output(process_output = read_csv('amia_squba_sampledata/ssc/ssc_ss_anom_cs_mask.csv'),
+									alt_cohort_filter = c('Hydroxyurea Exposure', 'SS/SB0 Diagnosis'))
+
+plt
+
+```
+
+## Multi Site, Exploratory, Cross-Sectional
+
+```{r}
+
+plt <- ssc_output(process_output =
+										read_csv('amia_squba_sampledata/ssc/ssc_ms_exp_cs_summary_values_mask.csv'),
+									alt_cohort_filter = c('Hydroxyurea Exposure', 'SS/SB0 Diagnosis'))
+
+plt1_edit <- plt[[1]] +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+plt2_edit <- plt[[2]] +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+make_interactive_squba(plt1_edit)
+make_interactive_squba(plt2_edit)
+
+```
+
+### Large N
+```{r}
+
+plt <- ssc_output(process_output =
+										read_csv('amia_squba_sampledata/ssc/ssc_ms_exp_cs_summary_values_mask.csv'),
+									alt_cohort_filter = c('Hydroxyurea Exposure', 'SS/SB0 Diagnosis'),
+									large_n = T,
+									large_n_sites = c('hospital_f', 'hospital_c'))
+
+plt1_edit <- plt[[1]] +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+plt2_edit <- plt[[2]] +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+make_interactive_squba(plt1_edit)
+make_interactive_squba(plt2_edit)
+
+```
+
+## Multi Site, Anomaly Detection, Cross-Sectional
+
+```{r, fig.height=8}
+
+plt <- ssc_output(process_output = read_csv('amia_squba_sampledata/ssc/ssc_ms_anom_cs_mask.csv'),
+									alt_cohort_filter = c('Hydroxyurea Exposure', 'SS/SB0 Diagnosis'))
+
+make_interactive_squba(plt[[2]])
+plt[[1]]
+
+```
+
+### Large N
+```{r}
+
+plt <- ssc_output(process_output = read_csv('amia_squba_sampledata/ssc/ssc_ms_anom_cs_mask.csv'),
+									alt_cohort_filter = c('Hydroxyurea Exposure', 'SS/SB0 Diagnosis'),
+									large_n = T,
+									large_n_sites = c('hospital_f', 'hospital_c'))
+
+make_interactive_squba(plt[[2]])
+plt[[1]]
+
+```
 
 # Clinical Events & Specialties
+## Single Site, Exploratory, Cross-Sectional
+```{r}
+cnc_sp_output(cnc_sp_process_output = read_csv('amia_squba_sampledata/cnc_sp/cnc_sp_ss_exp_cs_mask.csv'),
+							cnc_sp_process_names = read_csv('amia_squba_sampledata/cnc_sp/specialty_names_labeled.csv'))
+```
+
+## Multi-Site, Exploratory, Cross-Sectional
+```{r}
+plt <- cnc_sp_output(cnc_sp_process_output = 
+										 	read_csv('amia_squba_sampledata/cnc_sp/cnc_sp_ms_exp_cs_mask.csv'),
+										 cnc_sp_process_names = 
+										 	read_csv('amia_squba_sampledata/cnc_sp/specialty_names_labeled.csv'))
+
+make_interactive_squba(plt)
+
+```
+
+### Large N
+```{r}
+plt <- cnc_sp_output(cnc_sp_process_output = 
+										 	read_csv('amia_squba_sampledata/cnc_sp/cnc_sp_ms_exp_cs_mask.csv'),
+										 cnc_sp_process_names = 
+										 	read_csv('amia_squba_sampledata/cnc_sp/specialty_names_labeled.csv'),
+										 large_n = T)
+
+make_interactive_squba(plt)
+
+```
+
+## Multi-Site, Anomaly Detection, Longitudinal (Large N)
+```{r}
+plt <- cnc_sp_output(cnc_sp_process_output = 
+										 	read_csv('amia_squba_sampledata/cnc_sp/cnc_sp_ms_anom_la_mask.csv') %>%
+										 	mutate(time_start = as.Date(time_start, '%m/%d/%y')) %>%
+										 	filter(cluster == 'hydroxyurea'),
+										 cnc_sp_process_names = 
+										 	read_csv('amia_squba_sampledata/cnc_sp/specialty_names_labeled.csv'),
+										 specialty_filter = 'Hematology/Oncology',
+										 large_n = T)
+
+make_interactive_squba(plt)
+
+```
 
 # Concept Set Distribution (**MAYBE**)
+## Single Site, Anomaly Detection, Cross-Sectional
+```{r, fig.width=8}
+
+plt <- csd_output(process_output = read_csv('amia_squba_sampledata/csd/csd_ss_anom_cs_mask.csv'),
+									filter_variable = 'SCD Diagnosis',
+									vocab_tbl = read_csv('code_sets/rx_hydroxyurea.csv') %>% 
+									 	select(-cluster) %>% 
+									 	union(read_csv('code_sets/dx_scd.csv', col_types = 'iccc')))
+
+make_interactive_squba(plt)
+
+```
 
 # Duplicate Records
+## Multi-Site, Anomaly Detection, Cross-Sectional
+```{r}
+
+plt <- dr_output(process_output = read_csv('amia_squba_sampledata/dr/dr_ms_anom_cs_mask.csv'),
+								 output_col = 'duplicate_pt_prop')
+
+plt_edit <- plt +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+make_interactive_squba(plt_edit)
+
+```
+
+## Single Site, Anomaly Detection, Longitudinal
+```{r}
+
+plt <- dr_output(process_output = read_csv('amia_squba_sampledata/dr/dr_ss_anom_la_mask.csv'),
+								 output_col = 'duplicate_pt_prop',
+								 filter_definition = 'duplicate procedures per visit & date')
+
+make_interactive_squba(plt)
+
+```
 
 # Expected Variables Present
+## Single Site, Anomaly Detection, Cross-Sectional
+```{r}
+
+plt <- evp_output(process_output = read_csv('amia_squba_sampledata/evp/evp_ss_anom_cs_mask.csv'),
+									output_level = 'patient')
+
+plt_edit <- plt +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+make_interactive_squba(plt_edit)
+
+```
+
+## Multi-Site, Exploratory, Cross-Sectional
+```{r, fig.width=9}
+
+plt <- evp_output(process_output = read_csv('amia_squba_sampledata/evp/evp_ms_exp_cs_mask.csv') %>%
+										mutate(prop_pt_variable = round(prop_pt_variable, 2)),
+									output_level = 'patient')
+
+plt_edit <- plt +
+	theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5),
+				text = element_text(size = 9))
+
+make_interactive_squba(plt_edit)
+
+```
+
+## Multi-Site, Anomaly Detection, Longitudinal
+```{r, fig.width=9}
+
+plt <- evp_output(process_output = read_csv('amia_squba_sampledata/evp/evp_ms_anom_la_mask.csv'),
+									output_level = 'patient',
+									filter_variable = 'Hemoglobin Lab')
+
+make_interactive_squba(plt[[1]])
+make_interactive_squba(plt[[2]])
+plt[[3]]
+
+```
 
 # Patient Event Sequencing
 

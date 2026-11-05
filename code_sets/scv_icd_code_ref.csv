@@ -1,0 +1,82 @@
+concept_id,concept_code,concept_name,vocabulary_id
+725224,D57.431,Sickle-cell thalassemia beta zero with acute chest syndrome,ICD10CM
+725229,D57.44,Sickle-cell thalassemia beta plus without crisis,ICD10CM
+785949,H36.811,"Nonproliferative sickle-cell retinopathy, right eye",ICD10CM
+785950,H36.812,"Nonproliferative sickle-cell retinopathy, left eye",ICD10CM
+785951,H36.813,"Nonproliferative sickle-cell retinopathy, bilateral",ICD10CM
+785952,H36.819,"Nonproliferative sickle-cell retinopathy, unspecified eye",ICD10CM
+785954,H36.821,"Proliferative sickle-cell retinopathy, right eye",ICD10CM
+785955,H36.822,"Proliferative sickle-cell retinopathy, left eye",ICD10CM
+785956,H36.823,"Proliferative sickle-cell retinopathy, bilateral",ICD10CM
+785957,H36.829,"Proliferative sickle-cell retinopathy, unspecified eye",ICD10CM
+785958,H36.89,Other retinal disorders in diseases classified elsewhere,ICD10CM
+35209245,N08,Glomerular disorders in diseases classified elsewhere,ICD10CM
+35211513,R93.0,"Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified",ICD10CM
+35206719,D56.2,Delta-beta thalassemia,ICD10CM
+35206721,D56.4,Hereditary persistence of fetal hemoglobin [HPFH],ICD10CM
+1567845,D57.0,Hb-SS disease with crisis,ICD10CM
+45595765,D57.00,"Hb-SS disease with crisis, unspecified",ICD10CM
+45542708,D57.01,Hb-SS disease with acute chest syndrome,ICD10CM
+45561923,D57.02,Hb-SS disease with splenic sequestration,ICD10CM
+725217,D57.09,Hb-SS disease with crisis with other specified complication,ICD10CM
+35206724,D57.1,Sickle-cell disease without crisis,ICD10CM
+35206725,D57.3,Sickle-cell trait,ICD10CM
+45561925,D57.40,Sickle-cell thalassemia without crisis,ICD10CM
+45586115,D57.411,"Sickle-cell thalassemia, unspecified, with acute chest syndrome",ICD10CM
+45561926,D57.412,"Sickle-cell thalassemia, unspecified, with splenic sequestration",ICD10CM
+725220,D57.413,"Sickle-cell thalassemia, unspecified, with cerebral vascular involvement",ICD10CM
+725221,D57.418,"Sickle-cell thalassemia, unspecified, with crisis with other specified complication",ICD10CM
+45566702,D57.419,"Sickle-cell thalassemia, unspecified, with crisis",ICD10CM
+725222,D57.42,Sickle-cell thalassemia beta zero without crisis,ICD10CM
+725225,D57.432,Sickle-cell thalassemia beta zero with splenic sequestration,ICD10CM
+725226,D57.433,Sickle-cell thalassemia beta zero with cerebral vascular involvement,ICD10CM
+725227,D57.438,Sickle-cell thalassemia beta zero with crisis with other specified complication,ICD10CM
+725228,D57.439,"Sickle-cell thalassemia beta zero with crisis, unspecified",ICD10CM
+725232,D57.452,Sickle-cell thalassemia beta plus with splenic sequestration,ICD10CM
+725236,D57.813,Other sickle-cell disorders with cerebral vascular involvement,ICD10CM
+725237,D57.818,Other sickle-cell disorders with crisis with other specified complication,ICD10CM
+45581324,D57.819,"Other sickle-cell disorders with crisis, unspecified",ICD10CM
+45568004,O99.011,"Anemia complicating pregnancy, first trimester",ICD10CM
+45582591,O99.013,"Anemia complicating pregnancy, third trimester",ICD10CM
+45581088,Z91.89,"Other specified personal risk factors, not elsewhere classified",ICD10CM
+785896,D57.04,Hb-SS disease with dactylitis,ICD10CM
+785899,D57.434,Sickle-cell thalassemia beta zero with dactylitis,ICD10CM
+785901,D57.814,Other sickle-cell disorders with dactylitis,ICD10CM
+725252,D84.81,Immunodeficiency due to conditions classified elsewhere,ICD10CM
+45571635,D57.212,Sickle-cell/Hb-C disease with splenic sequestration,ICD10CM
+45600606,D57.812,Other sickle-cell disorders with splenic sequestration,ICD10CM
+35207821,I63.9,"Cerebral infarction, unspecified",ICD10CM
+45606669,O99.019,"Anemia complicating pregnancy, unspecified trimester",ICD10CM
+725216,D57.03,Hb-SS disease with cerebral vascular involvement,ICD10CM
+725234,D57.458,Sickle-cell thalassemia beta plus with crisis with other specified complication,ICD10CM
+725235,D57.459,"Sickle-cell thalassemia beta plus with crisis, unspecified",ICD10CM
+45552357,D57.80,Other sickle-cell disorders without crisis,ICD10CM
+45595766,D57.811,Other sickle-cell disorders with acute chest syndrome,ICD10CM
+45539222,O99.012,"Anemia complicating pregnancy, second trimester",ICD10CM
+44833466,362.10,"Background retinopathy, unspecified",ICD9CM
+44834737,434.91,"Cerebral artery occlusion, unspecified with cerebral infarction",ICD9CM
+44824097,282.9,"Hereditary hemolytic anemia, unspecified",ICD9CM
+44825277,282.69,Other sickle-cell disease with crisis,ICD9CM
+44829908,282.41,Sickle-cell thalassemia without crisis,ICD9CM
+44825602,648.23,"Anemia of mother, antepartum condition or complication",ICD9CM
+44828817,282.43,Alpha thalassemia,ICD9CM
+44822669,V15.89,Other specified personal history presenting hazards to health,ICD9CM
+44820698,282.49,Other thalassemia,ICD9CM
+44836952,289.52,Splenic sequestration,ICD9CM
+44837027,362.29,Other nondiabetic proliferative retinopathy,ICD9CM
+44834573,283.10,"Non-autoimmune hemolytic anemia, unspecified",ICD9CM
+44831065,282.60,"Sickle-cell disease, unspecified",ICD9CM
+44837144,517.3,Acute chest syndrome,ICD9CM
+44827638,282.61,Hb-SS disease without crisis,ICD9CM
+44831066,282.7,Other hemoglobinopathies,ICD9CM
+44822101,648.20,"Anemia of mother, unspecified as to episode of care or not applicable",ICD9CM
+44825276,282.62,Hb-SS disease with crisis,ICD9CM
+44820063,786.52,Painful respiration,ICD9CM
+44824096,282.42,Sickle-cell thalassemia with crisis,ICD9CM
+44822957,282.45,Delta-beta thalassemia,ICD9CM
+44826730,583.81,"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere",ICD9CM
+44836942,282.68,Other sickle-cell disease without crisis,ICD9CM
+44829909,282.44,Beta thalassemia,ICD9CM
+44820699,282.6,Sickle-cell disease,ICD9CM
+44835768,284.9,"Aplastic anemia, unspecified",ICD9CM
+0,No matching concept,No matching concept,None
