@@ -4,11 +4,16 @@
 
 FROM pcornetqf/qf-r-base-rstudio:latest
 
+RUN apt-get update && apt-get -y install libuv1-dev
+
+# Start with this separately because of version requirement
+RUN R -e "install.packages('Deriv')"
+
 RUN --mount=type=secret,id=github_pat \
     GITHUB_PAT="$(cat /run/secrets/github_pat)" \
   R -e "install.packages('remotes')" \
   -e "library(remotes)" \
-  -e "remotes::install_github('ssdqa/squba', dependencies='hard', force=TRUE, quiet=TRUE)"
+  -e "remotes::install_github('ssdqa/squba', dependencies=TRUE, upgrade = 'always', repos='https://cran.r-project.org/')"
 
 # Port for RStudio execution
 EXPOSE 8787
@@ -20,5 +25,6 @@ ENV PASSWORD=amia2026
 ENV ROOT=TRUE
 
 ADD https://github.com/ssdqa/squba_amia_demo.git /home/rstudio/
+ADD https://github.com/ssdqa/squba_startup.git /home/rstudio/squba_startup/
 
 CMD ["/init"]
